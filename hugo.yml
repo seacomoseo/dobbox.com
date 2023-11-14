@@ -1,0 +1,33 @@
+baseURL: https://dobbox.com
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://github.com/dobboxfrio/dobbox.com
+  netlify_name: dobboxfrio
+  netlify_id: beb60d18-006b-492a-ab84-ab1039a7cb66
+  netlify_hook: https://api.netlify.com/build_hooks/654e035ec49a675ff8e10cd0
+  drive_link: https://drive.google.com/file/d/1hNXs0aTbxvtz_EC3FvOhx-XOMYJr7Gq5
+  drive_mails: dobbox.com@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores
