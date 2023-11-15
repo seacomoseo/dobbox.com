@@ -1,0 +1,31 @@
+title: Sistemas APPCC
+subtitle: que ya utilizan doBBox
+rows:
+- type: columns
+  design:
+    icon_size: 1
+  items:
+  - image: https://dobbox.com/wp-content/uploads/2022/11/appcc-logo-bueno.png
+    link: https://appcc-controller.com/
+    description: |
+      **APPCC CONTROLLER**
+
+      icon-phone [652 454 546](tel:+34652454546)
+
+      icon-envelope hola@appcc-controller.com
+  - image: https://dobbox.com/wp-content/uploads/2022/11/RECIPOK_V3.png
+    link: https://www.recipok.com/
+    description: |
+      **RECIPOK**
+
+      icon-phone [865 600 090](tel:+34865600090)
+
+      icon-envelope users@recipok.com
+  - image: https://dobbox.com/wp-content/uploads/2023/06/andy-logo-bueno.png
+    link: https://shop.andyapp.io/categories/sensores/924945000008417001
+    description: |
+      **ANDY**
+
+      icon-phone [936 550 995](tel:+34936550995)
+
+      icon-envelope info@intowin.es

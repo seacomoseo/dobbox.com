@@ -2,27 +2,56 @@
 
 @keyframes logo-drop {
   0% {
-    transform: scale(3);
+    transform: rotate(90deg) scale(1.1);
     opacity: 0;
   }
   100% {
-    transform: scale(1);
+    transform: rotate(15deg);
     opacity: 1;
   }
 }
 #body-inicio #header {
   .image {
-    path {
-      fill: var(--text);
-    }
-    transform-origin: center;
     animation: logo-drop 1s 0s both;
   }
   @mixin show-up($delay) {
-    animation: show-up .5s (.5 + .25s * $delay) both;
+    animation: show-up .5s (.25s * $delay) both;
   }
   .section__title {       @include show-up(1); }
   .subtitle {             @include show-up(2); }
-  .description p {        @include show-up(3); }
-  .description .buttons { @include show-up(4); }
+}
+
+
+// General
+
+h1, .h1,
+.section__title h2 {
+  color: var(--main);
+}
+.apps {
+  display: flex;
+  justify-content: space-evenly;
+  gap: .5em;
+  svg {
+    width: auto;
+    height: 2.67em;
+    aspect-ratio: 3/1;
+  }
+}
+
+
+// Footer
+
+#footer {
+  .image {
+    max-width: 12em;
+    margin-left: 0;
+  }
+  .apps {
+    display: block;
+    svg {
+      width: 6em;
+      height: 1.85em;
+    }
+  }
 }

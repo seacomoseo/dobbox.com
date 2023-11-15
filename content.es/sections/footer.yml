@@ -1,7 +1,34 @@
-description: |
-  - icon-copyright      {{< internal-link index >}}
-  - icon-scale-balanced {{< internal-link legal >}}
-  - icon-shield-keyhole {{< internal-link privacy >}}
-  - icon-cookie-bite    {{< internal-link cookies >}}
-  - icon-seacomoseo     {{< i18n web-design >}} [seacomoseo.com](https://seacomoseo.com/)
-  {.list-inline}
+color: light
+rows:
+- type: columns
+  design:
+    align: left
+  items:
+  - image: logo-alt.svg
+    description: |
+      Data Of Business BOX S.L.
+
+      - icon-phone    [968 472 663](tel:+43968472663)
+      - icon-envelope hola@dobbox.com
+
+      [icon-playstore](https://play.google.com/store/apps/details?id=com.dobbox.bcw&gl=ES)
+      [icon-appstore ](https://apps.apple.com/es/app/dobbox-frio/id1532862054#?platform=iphone)
+      {.apps}
+  - description: |
+      - icon-circle-question  [Preguntas frecuentes](/preguntas-frecuentes/)
+      - icon-paper-plane      [Contacto](/preguntas-frecuentes#contacto)
+      - icon-sensor-on        [Dispositivos](/catalogo-sensor-de-temperatura-receptor/)
+      - icon-magnifying-glass [Busca tu instalador](/busca-tu-instalador/)
+      - icon-user             [Alta instalador](/alta-instalador-dobbox-frio-aumenta-servicio/)
+  - description: |
+      - icon-rss                   [Blog](/blog/)
+      - icon-newspaper             [Prensa](/prensa/)
+      - icon-hand-holding-seedling [Subvención](/subvencion/)
+      - icon-brackets-curly        [API](/api-dobbox-frio-publica-gratuita/)
+      - icon-right-to-bracket      [Acceso Plataforma](https://app.dobbox.com/)
+  - description: |
+      - icon-scale-balanced {{< internal-link legal >}}
+      - icon-shield-keyhole {{< internal-link privacy >}}
+      - icon-cookie-bite    {{< internal-link cookies >}}
+      - icon-copyright      {{< internal-link index >}}
+      - icon-seacomoseo     [Diseño seacomoseo.com](https://seacomoseo.com/)

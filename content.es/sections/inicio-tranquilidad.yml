@@ -1,0 +1,26 @@
+anchor: Tranquilidad
+rows:
+- type: columns
+  design:
+    num: 5
+    align: left
+    align_y: center
+  items:
+  - span: 2
+    description: |
+      Tranquilidad y control
+      {.h1 .title}
+
+      para tu negocio
+      {.subtitle}
+    label: ¡Lo quiero!
+    link: /busca-tu-instalador/#instaladores
+    licon: none
+  - span: 3
+    description: |
+      - icon-check Que un corte de luz no te haga perder el género almacenado
+      - icon-check Conoce que tus productos están conservados en perfectas condiciones
+      - icon-check Garantiza la cadena de frío de los productos que vendes
+      - icon-check Cumple con la normativa de forma automática y sin esfuerzos
+      - icon-check Anticípate a las averías de tus cámaras, evita el tirar miles de productos
+      - icon-check Ahorra energía en tus cámaras frigoríficas

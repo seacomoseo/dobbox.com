@@ -1,0 +1,27 @@
+anchor: Clientes
+title: Nuestros clientes
+subtitle: te lo cuentan
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: light
+    slider: true
+  items:
+  - title: María Gómez
+    subtitle: Propietaria (1 Estrella Michelin) <br> [Restaurante Magoga](https://restaurantemagoga.com/)
+    image: https://dobbox.com/wp-content/uploads/2023/04/logo_magoga.png
+    description: |
+      Ya puedo dormir por las noches y salir de día libre sin preocuparme. A quién no le ha pasado que se ha ido de vacaciones, la cámara ha fallado y ha tenido que tirar todo el género. Es un lujo.
+
+  - title: Belén Pallarés
+    subtitle: Propietaria <br> [Livanti](https://www.livanti.es/)
+    image: https://dobbox.com/wp-content/uploads/2023/04/livanti-logo.png
+    description: |
+      Cuando tu negocio depende de la temperatura de tu producto, contar con doBBox supone estar tranquila y segura. Las alertas ante posibles incidencias nos ha permitido liberarnos de preocupaciones.
+
+  - title: Antonio Serrano
+    subtitle: Gerente <br> [Confiterías La Cruz](http://www.confiteriaslacruz.com/)
+    image: https://dobbox.com/wp-content/uploads/2023/04/confiteria-la-cruz-logo.png
+    description: |
+      Llevábamos mucho tiempo buscando un sistema así. doBBox nos da la tranquilidad de que la temperatura está controlada y de que si hay algún problema, estamos informados.

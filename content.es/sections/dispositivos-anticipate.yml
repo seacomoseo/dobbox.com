@@ -1,0 +1,22 @@
+title: Anticípate
+subtitle: a las averías
+rows:
+- type: columns
+  design:
+    gap: 5
+    align: left
+    align_y: center
+  items:
+  - image: https://dobbox.com/wp-content/uploads/2023/07/push-gastos-energetico.webp
+    order: 2
+  - title: La inteligencia artificial que conoce al 100% tus cámaras
+    description: |
+      Con el algoritmo inteligente Doctor Cámara podrás conocer si el rendimiento de tus cámaras es el adecuado y cuando necesitan ser revisadas. Detecta anomalías como:
+
+      - icon-check Averías o cortes de suministro
+      - icon-check Mal funcionamiento del compresor
+      - icon-check Pérdida de frío por cerramientos
+      - icon-check Pérdida de gas refrigerante
+      - icon-check Control apertura de puertas
+      - icon-check Supervisión ciclos de desescarche
+      - icon-check Control de gasto energético

@@ -1,0 +1,29 @@
+description: |
+  El sensor de temperatura que ayuda a proteger tus productos
+  {.h1}
+
+  Despreocúpate de la conservación de tu género para siempre
+  {.subtitle}
+more:
+  align: left
+rows:
+- type: columns
+  design:
+    gap: 5
+    align: left
+    align_y: center
+  items:
+  - image: https://dobbox.com/wp-content/uploads/2023/07/captura-camaras-web.webp
+  - title: 0ºC Preocupaciones
+    description: |
+      - icon-check Control de temperatura y humedad a tiempo real
+      - icon-check Visualiza los datos desde la app y plataforma web
+      - icon-check Conoce los datos de conservación desde cualquier dispositivo y a cualquier momento
+      - icon-check Ahorra energía y dinero mejorando la eficiencia energética de tu cámara
+      - icon-check Histórico de datos para conocer qué pasó en tu cámara un determinado momento
+      - icon-check Registros de temperatura automáticos listos para Sanidad
+      - icon-check Alarmas en tu móvil y correo para evitar perder tu producto
+      - icon-check Anticípate a posibles averías en tus cámaras
+    label: ¡Lo quiero!
+    link: /busca-tu-instalador/#instaladores
+    licon: none

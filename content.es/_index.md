@@ -1,22 +1,19 @@
 ---
 title: Inicio
-title_seo: Tema SanSoul de Hugo
+title_seo: doBBox - Sistema de control de temperatura
 slug: inicio
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol.
-image: fondo.jpg
+description: llll➤ Sistema de control de temperatura ✅ para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
+image: logo.png
 draft: false
 noindex: false
 translationKey: home
 sections:
-- file: header
-- file: nosotros
-- file: servicios
-  modals:
-  - ejemplo
-- file: proceso
-- file: fotos
-- file: noticias
-- file: faq
-- file: resenas
-- file: contacto
+- file: inicio-header
+- file: inicio-miedos
+- file: inicio-necesitas
+- file: inicio-control
+- file: inicio-clientes
+- file: inicio-tranquilidad
+- file: inicio-para-ti
+- file: appcc
 ---

@@ -3,7 +3,7 @@ Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: https://github.com/dobboxfrio/dobbox.com
+  git_url: https://github.com/seacomoseo/dobbox.com
   netlify_name: dobboxfrio
   netlify_id: beb60d18-006b-492a-ab84-ab1039a7cb66
   netlify_hook: https://api.netlify.com/build_hooks/654e035ec49a675ff8e10cd0

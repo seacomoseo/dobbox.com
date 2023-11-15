@@ -5,9 +5,9 @@ content:
   uppercase: false
   underline: false
   align: left
-  color: light
+  color: white
   toc_color: white
-  border: main
+  border: ''
   reading_time: true
 common:
   size: ''

@@ -1,0 +1,12 @@
+anchor: Prensa
+title: Apariciones en
+subtitle: medios de comunicación
+rows:
+- type: columns
+  items:
+  - image: https://dobbox.com/wp-content/uploads/2020/10/logo_cadenaser3.png
+    link: https://cadenaser.com/emisora/2020/09/25/radio_murcia/1601026109_329837.html
+  - image: https://dobbox.com/wp-content/uploads/2020/10/logo_infohoreca2.png
+    link: https://www.infohoreca.com/noticias/20200923/dobbox-dispositivo-evita-deteriori-y-desperdicio-de-alimentos-solvent#.X3xxPmgzaM8
+  - image: https://dobbox.com/wp-content/uploads/2020/10/logo_hosteltur2.png
+    link: https://www.hosteltur.com/comunidad/nota/023744_el-dispositivo-nacido-para-frenar-el-desperdicio-de-comida-en-la-hosteleria.html

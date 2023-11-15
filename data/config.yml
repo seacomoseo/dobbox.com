@@ -1,16 +1,16 @@
-title: SanSoul Hugo Theme EXAMPLE
-description: SanSoul is the Hugo theme website services soul by lorensansol, you can copy and use like you want
-logo: logo.png
-legal_name: Nombre Legal de Ejemplo
-legal_dni: 12345678-A
-legal_email: ''
-legal_location: ''
+title: doBBox
+description: Sistema de control de temperatura para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
+logo: logo-alt.svg
+legal_name: Data Of Business Box, S.L.
+legal_dni: B01663418
+legal_email: hola@dobbox.com
+legal_location: C/ Molina de Segura nº5, Bloque 3, 1ºA 30007 Murcia
 country: España
 location_type:
-- LocalBusiness
+# - LocalBusiness
 - Organization
 alternate_name:
-- SanSoul
+- doBBox - Sistema de control de temperatura
 price_range: €€
 google_analytics: G-TE5NJF5LYZ
 google_site_verification: ''
@@ -35,12 +35,7 @@ custom_code:
     code: ''
     lang: javascript
 social:
-- link: https://www.facebook.com/QuantumFracture
-- link: https://www.instagram.com/quantumfracture/
-- link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
-- link: https://twitter.com/QuantumFracture
-- link: https://www.linkedin.com/company/quantum-fracture
-- link: https://gitlab.com/lorensansol
-- link: https://github.com/lorensansol
-- link: https://mastersoflol.com/collections/quantumfracture?YTC
-
+- link: https://www.facebook.com/doBBox/
+- link: https://www.linkedin.com/company/dobbox/
+- link: https://www.instagram.com/dobboxfrio/
+- link: https://g.page/doBBox

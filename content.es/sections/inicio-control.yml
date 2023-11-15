@@ -1,0 +1,25 @@
+anchor: Control
+title: Todo bajo control
+subtitle: estés donde estés
+rows:
+- type: columns
+  design:
+    gap: 5
+    align: left
+    align_y: center
+  items:
+  - title: El control de tempera&shy;tura en tu móvil
+    description: |
+      - icon-check Recibe alertas al momento
+      - icon-check Visualiza en tiempo real la temperatura de tus cámaras
+      - icon-check Supervisa el estado de tus productos alimentarios sin esfuerzo
+      - icon-check Descarga y comparte los informes listos para entregar a sanidad
+      - icon-check Consulta el histórico de temperaturas para saber qué ha pasado
+    label: ¡Lo quiero!
+    link: /busca-tu-instalador/#instaladores
+    licon: none
+  - image: moviles-app.png
+    description: |
+      [icon-playstore](https://play.google.com/store/apps/details?id=com.dobbox.bcw&gl=ES)
+      [icon-appstore ](https://apps.apple.com/es/app/dobbox-frio/id1532862054#?platform=iphone)
+      {.apps}

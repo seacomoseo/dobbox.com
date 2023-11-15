@@ -1,10 +1,10 @@
-logo: ''
+logo: logo-alt.svg
 color: white
 screen_sticky: 600
 size_sticky: ''
 articles_sticky: false
-transparent: true
-hide_anchors: false
+transparent: false
+hide_anchors: true
 hide_icons: false
 show_modals: true
 show_blog_auto: true
@@ -16,5 +16,26 @@ langs_in_more: false
 langs_out: true
 callnow_active: true
 callnow_buttons: []
-normal: []
+normal:
+- label: Inicio
+  link: /
+- label: Dispositivos
+  link: /catalogo-sensor-de-temperatura-receptor/
+- label: Instaladores
+  items:
+  - label: Busca tu instalador
+    link: /busca-tu-instalador/
+  - label: Alta instalador
+    link: /alta-instalador-dobbox-frio-aumenta-servicio/
+- label: Blog
+  link: /blog/
+- label: FAQ
+  link: /preguntas-frecuentes/
+- label: Acceso Plataforma
+  link: https://app.dobbox.com/
+  button: main
+  ofuscate: true
+# - label: none
+#   link: /buscador/
+#   icon: magnifying-glass
 more: []

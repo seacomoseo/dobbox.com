@@ -1,0 +1,17 @@
+anchor: Miedos
+title: ¿Tienes alguno de estos 3 miedos?
+more:
+  padding_top: 2
+  padding_bottom: 1
+rows:
+- type: columns
+  design:
+    gap: 5
+    align: left
+  items:
+  - description: |
+      - icon-trash **Tirar todos tus productos a la basura** porque se haya estropeado una cámara.
+  - description: |
+      - icon-skull-crossbones La **intoxicación** de algún **cliente**, que lo lleve al hospital o incluso al cementerio.
+  - description: |
+      - icon-user-police Pagar una **multa** de **Sanidad** por no tener los **registros de temperatura** al día.

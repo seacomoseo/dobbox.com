@@ -1,0 +1,21 @@
+anchor: Contacto
+title: ¿Tu pregunta no está aquí?
+subtitle: Puedes hacérnosla rellenando el siguiente formulario
+bg: https://dobbox.com/wp-content/uploads/2023/07/teclado.gif
+size: sm
+rows:
+- type: contact
+  form:
+    fill_inputs: true
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      placeholder: Correo electrónico
+      required: true
+    - type: textarea
+      name: Mensaje
+      placeholder: Escribe tu pregunta
+      required: true
