@@ -13,7 +13,7 @@ rows:
     align: left
     align_y: center
   items:
-  - image: captura-camaras.webp
+  - image: captura-camaras.png
   - title: 0ºC Preocupaciones
     description: |
       - icon-check Control de temperatura y humedad a tiempo real
