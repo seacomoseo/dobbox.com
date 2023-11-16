@@ -1,11 +1,39 @@
 # GENERAL
 
 /doc/ https://docs.dobbox.com/
-/author/alba/ /
-/blog/page/1/ /blog/
+/aviso-legal/ /legal/
+/politica-de-cookies/ /cookies/
+/politica-privacidad/ /privacidad/
 /catalogo/ /
 /asistente/ /
 /asistente-compra-p/ /
+
+# BLOG
+
+/blog/page/1/ /blog/
+/category/blog/ /blog/
+/author/alba/ /
+/inspecciones-sanitarias-que-se-revisa/ /inspecciones-sanitarias-que-se-revisa/
+/descongelar-alimentos-6-reglas-basicas/ /descongelar-alimentos-reglas-basicas/
+/evita-la-contaminacion-cruzada-en-tu-restaurante/ /evita-contaminacion-cruzada-restaurante/
+/trucos-para-prevenir-la-salmonella/ /trucos-prevenir-salmonella/
+/legionella-como-evitarla/ /legionella-como-evitarla/
+/restaurantes-4-0-mejorar-la-experiencia-del-cliente/ /restaurantes-4-0-mejorar-experiencia-cliente/
+/cadena-de-frio-y-seguridad-alimentaria/ /cadena-frio-seguridad-alimentaria/
+/mantenimiento-de-camaras-frigorificas/ /mantenimiento-camaras-frigorificas/
+/guia-compra-sistema-de-control-de-camaras-frigorificas/ /guia-compra-sistema-control-camaras-frigorificas/
+/claves-ordenar-las-camaras-frigorificas/ /claves-ordenar-camaras-frigorificas/
+/como-matar-al-bicho-con-la-temperatura/ /como-matar-bicho-temperatura/
+/control-de-temperatura-y-humedad/ /control-temperatura-humedad/
+/avances-tecnologia-alimentaria/ /avances-tecnologia-alimentaria/
+/1-300-millones-de-toneladas-d-desperdicio-de-alimentos/ /1300-millones-toneladas-desperdicio-alimentos/
+/descubre-los-tipos-de-registrador-de-temperatura/ /ipos-registrador-temperatura/
+/control-de-humedad-camaras-frigorificas/ /control-humedad-camaras-frigorificas/
+/anisakis-4-claves-para-prevenir-la-intoxicacion/ /anisakis-claves-prevenir-intoxicacion/
+/los-3-tipos-de-mantenimiento-de-camaras-frigorificas/ /tipos-mantenimiento-camaras-frigorificas/
+/appcc-descubre-los-principios-prerrequisitos/ /appcc-principios-prerrequisitos/
+/intoxicaciones-alimentarias-como-prevenirlas/ /intoxicaciones-alimentarias-como-prevenirlas/
+/sensor-de-temperatura-clave-conservacion-alimentos/ /sensor-temperatura-clave-conservacion-alimentos/
 
 
 # PDF
