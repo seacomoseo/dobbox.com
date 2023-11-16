@@ -22,7 +22,7 @@ Ordenar las cámaras frigoríficas correctamente favorece la productividad de to
 - T**iempos de conservación:** ten en cuenta el periodo de conservación de cada alimento y revisa su estado regularmente. Pon la fecha en cada producto una vez abierto, para así evitar superar el periodo indicado. Por último, recuerda comprobar las fechas de caducidad de cada alimento, para tirarlo cuando esta venza.
 - **Higiene y limpieza:** debido a que no todos los establecimientos de restauración contienen diferentes cámaras frigoríficas, es de vital importancia recordar la limpieza y desinfección diaria de todas las partes de la cámara para evitar la contaminación, asi como de la cocina y los utensilios en general.
 
-El mayor riesgo de una mala organización de los productos en las cámaras es la [contaminación cruzada](/evita-la-contaminacion-cruzada-en-tu-restaurante/), es decir, cuando un alimento contaminado entra en contacto con otro.
+El mayor riesgo de una mala organización de los productos en las cámaras es la [contaminación cruzada](/evita-contaminacion-cruzada-restaurante/), es decir, cuando un alimento contaminado entra en contacto con otro.
 
 ## Para evitarlo, estos son algunos consejos que pueden servirte para ordenar las cámaras frigoríficas de forma segura y eficiente
 

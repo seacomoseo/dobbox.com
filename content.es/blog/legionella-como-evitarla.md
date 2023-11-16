@@ -18,7 +18,7 @@ lastmod: ''
 
 La Legionella es una bacteria que vive en ambientes húmedos por lo que es capaz de colarse a través del aire en sistemas abastecimiento agua, aires acondicionados, ect. La temperatura entre 20 ºC – 50ºC favorece la proliferación de estas bacterias. Con el calor aumenta el riesgo de que aparezca en tu restaurante.
 
-Esta bacteria provoca la enfermedad de la [Legionelosis](https://www.who.int/features/qa/legionnaires/es/) por medio de su inhalación, afectando a las vías respiratorias. Sus síntomas pueden estar relacionados con otros tipos de neumonía, en la mayoría de las ocasiones encontramos la tos, la dificultad para respirar, fiebre, dolores musculares, de cabeza. Además, también se puede asociar a síntomas como la diarrea, náuseas o confusión.
+Esta bacteria provoca la enfermedad de la **Legionelosis** por medio de su inhalación, afectando a las vías respiratorias. Sus síntomas pueden estar relacionados con otros tipos de neumonía, en la mayoría de las ocasiones encontramos la tos, la dificultad para respirar, fiebre, dolores musculares, de cabeza. Además, también se puede asociar a síntomas como la diarrea, náuseas o confusión.
 
 Los síntomas suelen aparecer entre las dos primeras semanas desde la exposición, no obstante podría aparecer un poco más tarde, por lo tanto debes estar atento. Los efectos que causa en el organismo pueden ser leves o graves, tanto que incluso pueden producir la muerte. Sin embargo, una buena noticia no se trata de una enfermedad contagiosa entre personas.
 

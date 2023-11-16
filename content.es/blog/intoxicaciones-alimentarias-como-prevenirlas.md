@@ -34,7 +34,7 @@ La cadena de frío es una pieza clave para la inocuidad de los alimentos. Si en 
 
 Cuando un alimento está en mal estado se puede percibir por su textura, sabor y olor. La rapidez con la un alimento deja de ser apto para su consumo depende de 4 factores: temperatura, humedad, tiempo y composición nutritiva.
 
-Con [doBBox](/landing-dobbox-frio/) puedes controlar 2 de ellos, la temperatura y humedad. Desde la app puedes ver la temperatura y humedad de tus cámaras frigoríficas y asegurarte que tu género está bien conservado. Así, sabrás con certeza que los alimentos que ofreces a tus clientes son 100% seguros.
+Con [doBBox](/) puedes controlar 2 de ellos, la temperatura y humedad. Desde la app puedes ver la temperatura y humedad de tus cámaras frigoríficas y asegurarte que tu género está bien conservado. Así, sabrás con certeza que los alimentos que ofreces a tus clientes son 100% seguros.
 
 Como restaurante, supermercado, panadería, etc, es fundamental ofrecer la inocuidad de los alimentos a tus clientes. Gracias a la correcta manipulación y conservación de los alimentos se puede reducir la posibilidad de intoxicación en más de un 50%.
 

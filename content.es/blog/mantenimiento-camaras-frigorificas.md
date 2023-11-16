@@ -29,7 +29,7 @@ El sistema aprende del funcionamiento de cada cámara y es capaz de detectar ano
 ### Un sistema de control automático facilita el mantenimiento de cámaras frigoríficas
 
 - Gracias a su medición en tiempo real es posible llevar un control más preciso de las cámaras frigoríficas
-- Da la posibilidad de hacerle seguimiento a los equipos desde una [app](/acceso-app-movil/) por lo que ahorrarás tiempo y dinero en desplazamientos
+- Da la posibilidad de hacerle seguimiento a los equipos desde una app por lo que ahorrarás tiempo y dinero en desplazamientos
 - Podrás conocer en detalle el comportamiento de cada cámara a lo largo del tiempo gracias a los gráficos
 - El sistema detecta y notifica mal funcionamiento de los equipos por lo que podrás saber en qué momento debes realizar las reparaciones y mantenimientos necesarios, aumentando el número de acciones
 - Es posible conocer el tipo de fallo que se produce en los equipos al instante para así saber en qué hay que actuar y poder anticiparse a futuras averías

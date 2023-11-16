@@ -16,7 +16,7 @@ lastmod: ''
 
 ## ¿Qué es el anisakis?
 
-El [anisakis](https://www.mscbs.gob.es/consumo/pec/recomendacion/anisakis.htm) es un parásito con forma de gusano de color blanquecino que mide 2 a 3 cm y permanece en nuestro organismo durante 1 o 2 días. Este parásito puede estar presente en el aparato digestivo de animales marinos y es complicado observarlo a simple vista.
+El **anisakis** es un parásito con forma de gusano de color blanquecino que mide 2 a 3 cm y permanece en nuestro organismo durante 1 o 2 días. Este parásito puede estar presente en el aparato digestivo de animales marinos y es complicado observarlo a simple vista.
 
 Dependiendo del tipo de pescado es más o menos común que se encuentre el parásito. Por ejemplo, la merluza y el bonito son los que más probabilidad tienen de tener anisakis, con un 90% y un 80% respectivamente. También hay que llevar cuidado con el bacalao, salmón y boquerón. En el caso de los cefalópodos, aunque es menos común la presencia de este, hay que prestar atención al calamar, pulpo y sepia.
 

@@ -20,7 +20,7 @@ Las cámaras frigoríficas deben estar controladas en todas las industrias, debi
 
 La gran diferencia de conservar los productos con frío en vez de con calor, es que el calor destruye los patógenos, sin embargo, la refrigeración limita que estos crezcan. El objetivo es el control de temperatura y humedad en las cámaras frigoríficas y conseguir una adecuada conservación, manteniendo el punto exacto de temperatura que necesita cada alimento.
 
-Como ya comentábamos en [blogs](/claves-ordenar-las-camaras-frigorificas/) anteriores, es muy importante conservar los alimentos siempre por debajo de 5 º C, para de esta manera evitar la proliferación de los bichos. Además, cada alimento tiene una conservación totalmente distinta y deben ser revisados constantemente.
+Como ya comentábamos en [blogs](/claves-ordenar-camaras-frigorificas/) anteriores, es muy importante conservar los alimentos siempre por debajo de 5 º C, para de esta manera evitar la proliferación de los bichos. Además, cada alimento tiene una conservación totalmente distinta y deben ser revisados constantemente.
 
 ## ¿Cómo se realiza?
 

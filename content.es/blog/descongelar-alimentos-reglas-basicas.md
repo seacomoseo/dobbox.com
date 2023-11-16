@@ -37,7 +37,7 @@ En primer lugar, congelar un alimento reduce el riesgo bacteriano, siempre que l
 Algunos de los tips para congelar correctamente:
 
 - No perder nunca la cadena del frio, para no estar sacándolo y metiéndolo todo el rato, te recomendamos que uses etiquetas identificativas donde se muestre la fecha y el producto del que hablamos.
-- Evitar congelar y [descongelar](/cadena-de-frio-y-seguridad-alimentaria/) el alimento varias veces ya que pueden llegar a producirse intoxicaciones.
+- Evitar congelar y [descongelar](/cadena-frio-seguridad-alimentaria/) el alimento varias veces ya que pueden llegar a producirse intoxicaciones.
 - Recomendamos que se utilicen recipientes de cristal y nunca de [plástico](https://www.amapolabio.com/contaminantes-plasticos-como-afectan-a-nuestro-organismo-y-al-medio-ambiente/), ya que estos últimos son perjudiciales para el medio ambiente y para nosotros mismos.
 
 DoBBox cuenta con un sistema de control que mide la temperatura de las cámaras frigoríficas, así como la humedad en el ambiente, avisando y alertando en todo momento de las posibles averías en las mismas.

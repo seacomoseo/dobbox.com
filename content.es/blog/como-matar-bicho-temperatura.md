@@ -14,7 +14,7 @@ date: 2019-09-18T12:54:19
 lastmod: ''
 ---
 
-- **[Salmonella](/trucos-para-prevenir-la-salmonella/):** La encontramos en carne de ternera, carne de aves de corral, huevos o leche. Elimínala cocinando el alimento a 75ºC durante unos minutos y consérvalos por debajo de 5ºC.
+- **[Salmonella](/trucos-prevenir-salmonella/):** La encontramos en carne de ternera, carne de aves de corral, huevos o leche. Elimínala cocinando el alimento a 75ºC durante unos minutos y consérvalos por debajo de 5ºC.
 - **Anisakis (Parásito):** Se encuentra en el pescado o en pulpo, calamar y sepia. Lo puedes matar congelando el producto a -18ºC durante más de 48 horas o cocinándolo a más de 60ºC.
 - **[Listeria](https://medlineplus.gov/spanish/ency/article/001380.htm)** (**L monocytogenes):** Podemos encontrarla en verduras, carnes y productos lácteos. Cocinar a 75ºC durante 15 minutos (pasteurización) y a 120ºC durante 4 minutos (esterilización) elimina la bacteria.
 - **Botulismo (Clostridium botulinum):** Se encuentra en conservas caseras como guindillas, espárragos, alubias,… Cocina a 85ºC durante más de 5 minutos para eliminarlo.
