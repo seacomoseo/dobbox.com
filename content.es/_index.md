@@ -3,7 +3,7 @@ title: Inicio
 title_seo: doBBox - Sistema de control de temperatura
 slug: inicio
 description: llll➤ Sistema de control de temperatura ✅ para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
-image: sistema-automatico-control-de-temperatura-dobbox.webp
+image: sistema-automatico-control-de-temperatura-dobbox.png
 draft: false
 noindex: false
 translationKey: home

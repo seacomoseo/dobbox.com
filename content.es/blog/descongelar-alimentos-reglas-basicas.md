@@ -3,7 +3,7 @@ title: 'Descongelar alimentos: 6 reglas básicas'
 title_seo: 'Descongelar alimentos: 6 reglas básicas - doBBox frío'
 slug: descongelar-alimentos-reglas-basicas
 description: 'Es fundamental descongelar alimentos de forma saludable para que mantengan sus propiedades y prevenir así posibles enfermedades en tus comensales.'
-image: blog/descongelar-alimentos-reglas-basicas.webp
+image: blog/descongelar-alimentos-reglas-basicas.png
 categories: []
 tags: []
 author: 

@@ -6,7 +6,7 @@ rows:
   design:
     num_xs: true
   items:
-  - image: movil-app.webp
-  - image: movil-informe.webp
-  - image: movil-alertas.webp
-  - image: movil-informe-max-min.webp
+  - image: movil-app.png
+  - image: movil-informe.png
+  - image: movil-alertas.png
+  - image: movil-informe-max-min.png

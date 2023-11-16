@@ -3,7 +3,7 @@ title: 'Desperdicio de alimentos: 1.300 millones de toneladas son desperdiciadas
 title_seo: 'Desperdicio de alimentos: 1.300 millones desperdiciados.'
 slug: 1300-millones-toneladas-desperdicio-alimentos
 description: 'En la actualidad se produce un 60% más de los alimentos que necesitamos, el desperdicio de alimentos cada vez es mayor.'
-image: blog/1300-millones-toneladas-desperdicio-alimentos.webp
+image: blog/1300-millones-toneladas-desperdicio-alimentos.png
 categories: []
 tags: []
 author: 

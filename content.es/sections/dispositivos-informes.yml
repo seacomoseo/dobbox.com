@@ -19,7 +19,7 @@ rows:
       Los informes están siempre en la app y plataforma web preparados para **descargar y compartir**.
 
       ¡Despreocúpate de las inspecciones sanitarias!
-  - image: informe-temperatura.webp
+  - image: informe-temperatura.png
     label: Informe de ejemplo
     link: informe-temperatura-ejemplo.pdf
     licon: none

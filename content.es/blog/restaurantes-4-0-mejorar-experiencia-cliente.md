@@ -3,7 +3,7 @@ title: 'Restaurantes 4.0: digitaliza tu restaurante'
 title_seo: 'Restaurantes 4.0: digitaliza tu restaurante - doBBox frío'
 slug: restaurantes-4-0-mejorar-experiencia-cliente
 description: 'Con la llegada del COVID-19, la tecnología se ha hecho totalmente necesaria para el sector de la hostelería. Los restaurantes en concreto están dando el salto'
-image: blog/restaurantes-4-0-mejorar-experiencia-cliente.webp
+image: blog/restaurantes-4-0-mejorar-experiencia-cliente.png
 categories: []
 tags: []
 author: 

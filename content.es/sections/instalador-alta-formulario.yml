@@ -1,7 +1,7 @@
 anchor: Formulario
 title: Alta instalador
 subtitle: ¡Únete a doBBox!
-bg: camara-frigorifica.webp
+bg: camara-frigorifica.png
 size: sm
 rows:
 - type: contact

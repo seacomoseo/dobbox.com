@@ -3,7 +3,7 @@ title: 'Las 6 intoxicaciones alimentarias más comunes'
 title_seo: 'Las 6 intoxicaciones alimentarias más comunes'
 slug: intoxicaciones-alimentarias-como-prevenirlas
 description: 'La salmonelosis es una de las intoxicaciones alimentarias más comunes. Cada año en España se contagian 8.000 personas.'
-image: blog/intoxicaciones-alimentarias-como-prevenirlas.webp
+image: blog/intoxicaciones-alimentarias-como-prevenirlas.png
 categories: []
 tags: []
 author: 
