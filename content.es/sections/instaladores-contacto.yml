@@ -1,7 +1,7 @@
 anchor: Contacto
 title: ¿No encuentras un instalador en tu zona?
 subtitle: Contacta con nosotros
-bg: fondo.jpg
+bg: fondo.webp
 size: sm
 rows:
 - type: contact
