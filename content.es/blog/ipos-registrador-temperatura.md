@@ -4,7 +4,7 @@ title_seo: 'Registrador de temperatura: qué es, para que sirve y tipos'
 slug: ipos-registrador-temperatura
 description: 'Un registrador de temperatura de cámaras frigoríficas es un equipo que mide de manera continua la temperatura que se encuentra dentro de ellas.'
 image: blog/ipos-registrador-temperatura.png
-categories: []
+categories: [general]
 tags: []
 author: 
 toc: true

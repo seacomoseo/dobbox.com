@@ -4,7 +4,7 @@ title_seo: 'APPCC: Descubre los 7 principios y prerrequisitos'
 slug: appcc-principios-prerrequisitos
 description: 'El APPCC es un método preventivo de gestión de la inocuidad de los alimentos y se utiliza en toda la cadena alimentaria.'
 image: blog/appcc-principios-prerrequisitos.png
-categories: []
+categories: [general]
 tags: []
 author: 
 toc: true
@@ -40,7 +40,7 @@ Para determinar los PCC es necesario utilizar el árbol de decisiones de la dere
 
 Para cumplir con las normas mínimas de seguridad alimentaria, existen una serie de prerrequisitos. La institución Codex Alimentarius y La Unión Europea establecen los siguientes:
 
-1. Mantenimiento de locales, instalaciones y equipos: Con el mantenimiento se pretende alargar la vida útil de los equipos y del negocio en general. Para las cámaras frigoríficas se puede conseguir este objetivo gracias a la [detección temprana de averías](/p/deteccion-temprana-de-averias/).
+1. Mantenimiento de locales, instalaciones y equipos: Con el mantenimiento se pretende alargar la vida útil de los equipos y del negocio en general. Para las cámaras frigoríficas se puede conseguir este objetivo gracias a la [detección temprana de averías](/guia-compra-sistema-control-camaras-frigorificas/#deteccion-temprana-de-averias).
 2. Control del agua: Se debe describir en qué momentos se utiliza, la fuente de la que proviene y como es la calidad del agua.
 3. Control de proveedores: Se debe asegurar el origen y la seguridad de los productos comprados.
 4. Formación de los empleados: Para que el APPCC se cumpla, es necesario que los empleados conozcan las acciones que mantienen la seguridad e higiene alimentaria.
@@ -56,4 +56,4 @@ Sin embargo, cada empresa deberá establecer unos prerrequisitos en función de 
 
 ## Gestión APPCC digital
 
-En la actualidad existen softwares digitales que gestionan y agilizan la toma de datos para cumplir de forma eficiente la normativa sanitaria. [APPCC Controller](https://appcc-controller.com/) es un ejemplo de estos, en él puedes cumplimentar tu plan de higiene simplificado. Así puedes automatizar las tareas de plagas, residuos, mantenimiento, limpieza y desinfección. Además, en APPCC Controller se integra nuestro sistema doBBox para tener controlada la temperatura de las cámaras frigoríficas.
+En la actualidad existen softwares digitales que gestionan y agilizan la toma de datos para cumplir de forma eficiente la normativa sanitaria. [APPCC Controller](https://appcc-controller.com/), [Andy](https://shop.andyapp.io/) y [Recipok](https://www.recipok.com/) son ejemplos de estos, en ellos puedes cumplimentar tu plan de higiene simplificado. Así puedes automatizar las tareas de plagas, residuos, mantenimiento, limpieza y desinfección. Además, en estos ejemplos se integran nuestro sistema doBBox para tener controlada la temperatura de las cámaras frigoríficas.

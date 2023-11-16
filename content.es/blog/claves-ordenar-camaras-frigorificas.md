@@ -4,7 +4,7 @@ title_seo: '6 claves para ordenar las cámaras frigoríficas - doBBox frío'
 slug: claves-ordenar-camaras-frigorificas
 description: 'Ordenar las cámaras frigoríficas correctamente favorece la productividad de todo el personal y disminuye notablemente los riesgos higiénico – sanitarios tales'
 image: blog/claves-ordenar-camaras-frigorificas.png
-categories: []
+categories: [general]
 tags: []
 author: 
 toc: true

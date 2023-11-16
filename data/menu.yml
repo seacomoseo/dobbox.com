@@ -17,7 +17,7 @@ langs_out: true
 callnow_active: true
 callnow_buttons:
 - type: whatsapp
-  label: 968 47 26 63
+  label: 968 472 663
 normal:
 - label: Inicio
   link: /

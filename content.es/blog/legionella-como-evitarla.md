@@ -4,7 +4,7 @@ title_seo: 'Legionella: 5 tips para evitar intoxicaciones - doBBox frío'
 slug: legionella-como-evitarla
 description: 'La Legionella es una bacteria que vive en ambientes húmedos por lo que es capaz de colarse a través del aire en sistemas abastecimiento agua, aires'
 image: blog/legionella-como-evitarla.png
-categories: []
+categories: [general]
 tags: []
 author: 
 toc: true

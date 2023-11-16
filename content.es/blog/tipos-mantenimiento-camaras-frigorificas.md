@@ -4,7 +4,7 @@ title_seo: 'Los 3 tipos de mantenimiento de cámaras frigoríficas'
 slug: tipos-mantenimiento-camaras-frigorificas
 description: 'El mantenimiento de las cámaras frigoríficas influye en su ciclo de vida. Los tipos de mantenimiento son predictivo, preventivo y correctivo.'
 image: blog/tipos-mantenimiento-camaras-frigorificas.png
-categories: []
+categories: [general]
 tags: []
 author: 
 toc: true
@@ -22,7 +22,7 @@ Gracias al mantenimiento predictivo se conoce si el rendimiento de las cámaras 
 
 La forma de realizar este mantenimiento es a través de aparatos digitales. Estos dispositivos se encargan de medir los patrones de comportamiento de las cámaras frigoríficas. Recogen los datos de temperatura y humedad y te muestran, por medio de gráficas, como actúan.
 
-Con [doBBox](/p/deteccion-temprana-de-averias/) puedes conseguir este mantenimiento gracias al algoritmo inteligente que aprende del funcionamiento las cámaras. La detección temprana de averías te informa sobre:
+Con **doBBox** puedes conseguir este mantenimiento gracias al algoritmo inteligente que aprende del funcionamiento las cámaras. La [detección temprana de averías](/guia-compra-sistema-control-camaras-frigorificas/#deteccion-temprana-de-averias) te informa sobre:
 
 - El mal funcionamiento del compresor
 - Si el consumo eléctrico es elevado
@@ -51,6 +51,6 @@ También, hay que tener en cuenta que mientras se realizan estas tareas, hay que
 
 Consiste en reparar el fallo de las cámaras frigoríficas una vez se ha producido. Este mantenimiento hay que intentar evitarlo pues las consecuencias de una avería se traducen en pérdidas de dinero y tiempo. Por ello, es importante no llegar a este punto y siempre prevenir las averías de las cámaras frigoríficas.
 
-[doBBox](/p/alertas-en-tiempo-real/) también te puede ayudar a aminorar estas pérdidas mediante su sistema de alertas por variaciones de temperatura. Gracias a esto, puedes saber que hay un problema y avisar a tu técnico para que lo solucione antes de que el género se eche a perder y tenga que terminar en la basura.
+**doBBox** también te puede ayudar a aminorar estas pérdidas mediante su sistema de alertas por variaciones de temperatura. Gracias a esto, puedes saber que hay un problema y avisar a tu técnico para que lo solucione antes de que el género se eche a perder y tenga que terminar en la basura.
 
 En conclusión, realizar en tus cámaras frigoríficas un mantenimiento predictivo y preventivo siempre será mucho menos costoso que el correctivo. Por ello, es importante instalar sistemas que prevean las averías y que un profesional se encarga de las tareas de revisión.

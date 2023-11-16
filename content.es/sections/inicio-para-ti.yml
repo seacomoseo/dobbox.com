@@ -1,4 +1,4 @@
-anchor: Para ti
+id: para-ti
 title: ¿Aún no sabes si doBBox es para ti?
 rows:
 
@@ -24,11 +24,11 @@ rows:
       - icon-xmark Quieres perder tu tiempo con el control de temperatura a mano todos los días
       - icon-xmark Me interesa
 
-- type: columns
-  items:
-  - label: Me interesa
-    link: /busca-tu-instalador/#instaladores
-    licon: none
+# - type: columns
+#   items:
+#   - label: Me interesa
+#     link: /busca-tu-instalador/#instaladores
+#     licon: none
 
 - type: columns
   design:

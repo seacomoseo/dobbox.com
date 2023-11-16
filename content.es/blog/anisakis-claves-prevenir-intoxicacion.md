@@ -4,7 +4,7 @@ title_seo: 'Anisakis: 4 claves para prevenir esta común intoxicación'
 slug: anisakis-claves-prevenir-intoxicacion
 description: 'El anisakis es un parásito con forma de gusano de color blanquecino que mide 2 a 3 cm y permanece en nuestro organismo durante 1 o 2 días.'
 image: blog/anisakis-claves-prevenir-intoxicacion.png
-categories: []
+categories: [general]
 tags: []
 author: 
 toc: true
@@ -26,7 +26,7 @@ En la zona del Cantábrico, la presencia de anisakis se encuentra en un 50% de l
 
 ## ¿Cuáles son los síntomas del anisakis?
 
-La [intoxicación](/trucos-para-prevenir-la-salmonella/) puede ser de dos tipos: digestivos o alérgicos, siendo el primero el más común.
+La [intoxicación](/trucos-prevenir-salmonella/) puede ser de dos tipos: digestivos o alérgicos, siendo el primero el más común.
 
 - En la intoxicación digestiva podemos tener dolor de estómago, náuseas, vómitos y diarrea. Estos síntomas aparecen una vez ya expulsado el parásito de forma natural. Para solventar las molestias e irritaciones intestinales se recetan antibióticos.
 
@@ -36,11 +36,11 @@ Sin embargo, si el parásito se queda en la mucosa del tubo digestivo se debe re
 
 ## ¿Cómo prevenir el anisakis?
 
-El factor más importante para prevenir la [intoxicación](/como-matar-al-bicho-con-la-temperatura/) es la temperatura. Una correcta preparación y elaboración de la materia prima eliminará al parásito, teniendo una nula probabilidad de enfermar. Las acciones que se deben realizar son las siguientes:
+El factor más importante para prevenir la [intoxicación](/como-matar-bicho-temperatura/) es la temperatura. Una correcta preparación y elaboración de la materia prima eliminará al parásito, teniendo una nula probabilidad de enfermar. Las acciones que se deben realizar son las siguientes:
 
 - A la hora de comprar el pescado pídelo limpio y sin tripas o quítalas en el restaurante. Si no realizas este paso, no sirvas las zonas del pescado que se encuentren cercanas al aparato digestivo.
 - Prepara el pescado a una temperatura que alcance como mínimo 60ºC durante 10 minutos. Cuece, fríe, hornea o plancha el pescado de forma que no queden zonas crudas.
 - En el caso de los crustáceos, como la langosta y la gamba, consúmelos cocidos o a la plancha.
-- Algunos alimentos necesitan previamente congelarse a una [temperatura](/landing-dobbox-frio/) de -20ºC durante al menos 5 días. Estos alimentos se suelen elaborar en casa y son los siguientes: los pescados en escabeche o crudos como el sushi, las huevas de pescado crudas o casi, los pescados marinados o crudos preparados en salmuera o ligeramente salados y los pescados marinos tratados a ahumado en frío.
+- Algunos alimentos necesitan previamente congelarse a una [temperatura](/) de -20ºC durante al menos 5 días. Estos alimentos se suelen elaborar en casa y son los siguientes: los pescados en escabeche o crudos como el sushi, las huevas de pescado crudas o casi, los pescados marinados o crudos preparados en salmuera o ligeramente salados y los pescados marinos tratados a ahumado en frío.
 
 Sin embargo, hay pescados y mariscos que no necesitan pasar el proceso de congelación, lo que facilita su elaboración. Estos son: los moluscos bivalvos como los mejillones y almejas, los pescados de aguas continentales y piscifactorías de agua dulce, las semiconservas como las sardinas y los pescados desecados salados de manera tradicional como el bacalao.

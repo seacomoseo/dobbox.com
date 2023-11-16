@@ -4,7 +4,7 @@ title_seo: 'Inspecciones sanitarias: ¿qué se revisa? - doBBox frío'
 slug: inspecciones-sanitarias-que-se-revisa
 description: 'Las inspecciones sanitarias tienen tres claros objetivos'
 image: blog/inspecciones-sanitarias-que-se-revisa.jpg
-categories: []
+categories: [general]
 tags: []
 author: 
 toc: true
