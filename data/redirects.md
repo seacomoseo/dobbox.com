@@ -85,7 +85,7 @@
 # informes
 /wp-content/uploads/2023/07/informe-temperatura-nuevov2-e1690452137517.png /media/informe-temperatura.png
 # anticipate
-/wp-content/uploads/2023/07/push-gastos-energetico.webp /media/push-gastos-energetico.webp
+/wp-content/uploads/2023/07/push-gastos-energetico.webp /media/push-gasto-energetico.png
 # mide
 /wp-content/uploads/2022/05/movil-humedad-300x300-1.png /media/movil-humedad.png
 # sistemas
