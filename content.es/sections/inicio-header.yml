@@ -5,10 +5,9 @@ rows:
   design:
     num: 3
     align: left
-    align_y: top
   items:
   - title: Asegura la conservación de tus productos con el control de temperatura
     subtitle: Los sensores de temperatura que cambiarán por completo tu local
     span: 2
-  - image: sistema-automatico-control-de-temperatura-dobbox.png
+  - image: sistema-automatico-control-de-temperatura-dobbox.svg
   
