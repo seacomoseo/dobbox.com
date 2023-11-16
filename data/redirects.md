@@ -43,6 +43,7 @@
 # IMAGENES
 
 # inicio
+/wp-content/uploads/2021/06/moviles-app.png /media/moviles-app.webp
 /wp-content/uploads/2022/07/pegatina-establecimientos_12cm_version-web-1.png /media/sistema-automatico-control-de-temperatura-dobbox.png
 /wp-content/uploads/2021/01/movil-app3.png /media/movil-app.png
 /wp-content/uploads/2021/02/movil-informe.png /media/movil-informe.png
@@ -76,9 +77,9 @@
 
 # dispositivos
 # header
-/wp-content/uploads/2023/07/captura-camaras-web.webp /media/captura-camaras.webp
-/wp-content/uploads/2023/07/captura-grafico-humedad-web_1.webp /media/captura-camaras.webp
-/wp-content/uploads/2023/07/captura-grafico-temperatura-web_1.webp /media/captura-camaras.webp
+/wp-content/uploads/2023/07/captura-camaras-web.webp /media/captura-camaras.png
+/wp-content/uploads/2023/07/captura-grafico-humedad-web_1.webp /media/captura-camaras.png
+/wp-content/uploads/2023/07/captura-grafico-temperatura-web_1.webp /media/captura-camaras.png
 # funcionalidades
 /wp-content/uploads/2022/05/movil-alertas.png /media/movil-alertas.png
 # informes
@@ -143,7 +144,7 @@
 /wp-content/uploads/2022/03/portadas_blog_dobbox.png	/media/blog/intoxicaciones-alimentarias-como-prevenirlas.png
 /wp-content/uploads/2022/08/portada-blog-agosto.png	/media/blog/sensor-temperatura-clave-conservacion-alimentos.png
 /wp-content/uploads/2020/05/1-contaminacion_blog.png	/media/blog/evita-contaminacion-cruzada-restaurante.png
-/wp-content/uploads/2022/08/Imagen-para-blog-sensor-de-temperatura.webp	/media/0-grados-preocupaciones-sistema-control-camaras-frigorificas.webp
-/wp-content/uploads/2022/02/ARBOL-DE-DECISION-APPCC1.png	/media/arbol-decision-appcc.png
-/wp-content/uploads/2022/03/Imagen-blog-.png	/media/intoxicaciones-alimentarias-mas-comunes.png
-/wp-content/uploads/2022/08/Imagen-para-blog-sensor-de-temperatura.png	/media/0-grados-preocupaciones-sistema-control-camaras-frigorificas.png
+/wp-content/uploads/2022/08/Imagen-para-blog-sensor-de-temperatura.webp	/media/blog/0-grados-preocupaciones-sistema-control-camaras-frigorificas.webp
+/wp-content/uploads/2022/02/ARBOL-DE-DECISION-APPCC1.png	/media/blog/arbol-decision-appcc.png
+/wp-content/uploads/2022/03/Imagen-blog-.png	/media/blog/intoxicaciones-alimentarias-mas-comunes.png
+/wp-content/uploads/2022/08/Imagen-para-blog-sensor-de-temperatura.png	/media/blog/0-grados-preocupaciones-sistema-control-camaras-frigorificas.png
