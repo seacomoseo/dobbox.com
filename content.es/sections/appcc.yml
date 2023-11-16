@@ -4,8 +4,12 @@ rows:
 - type: columns
   design:
     icon_size: 1
+    ratio: 2x1
+    gap: 5
+    licon: none
+    label: Ver más
   items:
-  - image: https://dobbox.com/wp-content/uploads/2022/11/appcc-logo-bueno.png
+  - image: logo-appcc-controller.svg
     link: https://appcc-controller.com/
     description: |
       **APPCC CONTROLLER**
@@ -13,7 +17,7 @@ rows:
       icon-phone [652 454 546](tel:+34652454546)
 
       icon-envelope hola@appcc-controller.com
-  - image: https://dobbox.com/wp-content/uploads/2022/11/RECIPOK_V3.png
+  - image: logo-recipok.svg
     link: https://www.recipok.com/
     description: |
       **RECIPOK**
@@ -21,7 +25,7 @@ rows:
       icon-phone [865 600 090](tel:+34865600090)
 
       icon-envelope users@recipok.com
-  - image: https://dobbox.com/wp-content/uploads/2023/06/andy-logo-bueno.png
+  - image: logo-andy.svg
     link: https://shop.andyapp.io/categories/sensores/924945000008417001
     description: |
       **ANDY**

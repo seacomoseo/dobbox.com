@@ -1,21 +1,23 @@
 logo: logo-alt.svg
 color: white
-screen_sticky: 600
+screen_sticky: 1000
 size_sticky: ''
-articles_sticky: false
+articles_sticky: true
 transparent: false
 hide_anchors: true
 hide_icons: false
 show_modals: true
-show_blog_auto: true
-show_products_auto: true
-show_taxonomies_auto: true
-search: true
+show_blog_auto: false
+show_products_auto: false
+show_taxonomies_auto: false
+search: false
 google_translate: false
 langs_in_more: false
 langs_out: true
 callnow_active: true
-callnow_buttons: []
+callnow_buttons:
+- type: whatsapp
+  label: 968 47 26 63
 normal:
 - label: Inicio
   link: /
@@ -35,7 +37,7 @@ normal:
   link: https://app.dobbox.com/
   button: main
   ofuscate: true
-# - label: none
-#   link: /buscador/
-#   icon: magnifying-glass
+- label: none
+  link: /buscador/
+  icon: magnifying-glass
 more: []

@@ -32,7 +32,7 @@ common:
   align_y: ''
   align_x: ''
   padding: ''
-  color: white
+  color: light
   gradient: ''
   gradient_type: ''
   color_opacity: null

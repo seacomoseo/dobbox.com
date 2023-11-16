@@ -20,72 +20,72 @@ rows:
   items:
   - title: Juan Sánchez
     subtitle: Propietario
-    image: https://dobbox.com/wp-content/uploads/2023/04/el-punaito-logo.png
+    image: logo-el-punaito.svg
     description: |
       Estoy encantado. Ya no tenemos que preocuparnos de medir la temperatura todos los días. Ahora sin ningún esfuerzo se miden de manera automática todas las horas.
   - title: José
     subtitle: Gerente
-    image: https://dobbox.com/wp-content/uploads/2023/04/logo-balsavalle-2.png
+    image: logo-balsavalle.svg
     description: |
       Gracias al sistema doBBox, garantizamos la cadena de frio en nuestro local, sabemos a tiempo real la temperatura y humedad de nuestras cámaras y su sistema de alerta nos ha evitado algún que otro susto.
   - title: Director
     subtitle: Dpto. de Hostelería
-    image: https://dobbox.com/wp-content/uploads/2023/04/escuela-hosteleria-logo.png
+    image: logo-escuela-hosteleria.svg
     description: |
       Todo controlado siempre desde el móvil
   - title: Carlos Castillo
     subtitle: Gerente
-    image: https://dobbox.com/wp-content/uploads/2023/04/logo-campamento-chaparral.png
+    image: logo-campamento-chaparral.svg
     description: |
       Lo mejor de doBBox es que puedo garantizar la seguridad alimentaria de cara a los clientes sin esfuerzo y supervisar las condiciones de mis cámaras frigoríficas a través del móvil.
   - title: Antonio
     subtitle: Gerente
-    image: https://dobbox.com/wp-content/uploads/2023/04/carniceria-nunez_2.png
+    image: logo-carniceria-nunez.svg
     description: |
       Lo recomiendo por la tranquilidad que te da teniendo tanto dinero en género en las cámaras. Me permite irme un domingo o festivo a desconectar sin preocupaciones y si surge algún problema nos avisa al móvil.
   - title: Antonio
     subtitle: Gerente
-    image: https://dobbox.com/wp-content/uploads/2021/04/carniceria_toni.png
+    image: logo-carniceria-toni.svg
     description: |
       El sistema funciona muy bien. Lo que más nos gusta es el trabajo que nos quita al no tener que estar tomando la temperatura de las cámaras manualmente todos los días.
   - title: Marc Barniol
     subtitle: Gerente
-    image: https://dobbox.com/wp-content/uploads/2023/04/la-casa-de-la-pizza-logo.png
+    image: logo-la-casa-de-la-pizza.svg
     description: |
       doBBox me ayuda a garantizar que nuestras cámaras frigoríficas, vehículos e instalaciones están siempre a la temperatura correcta y totalmente controlados.
 
   - title: Javi Moreno
     subtitle: Gerente y subcampeón mundial <br> [Panadería La Madrugada](https://www.instagram.com/la_madrugada_javier_moreno/?hl=es)
-    image: https://dobbox.com/wp-content/uploads/2023/04/logo_madrugada2.png
+    image: logo-madrugada.svg
     description: |
       Con doBBox tengo el control de mis masas desde cualquier sitio y duermo más tranquilo sabiendo que todo el trabajo que he realizado está bien y que si pasa algo me avisa para poder tomar medidas.
   - title: Juan Ant. Aguilella
     subtitle: Gerente <br> [Fosters Hollywood Atalayas](https://fostershollywood.es/restaurantes/murcia/murcia/fh-atalayas?utm_source=directorios&amp;utm_medium=organic&amp;utm_campaign=estatica_directorios&amp;utm_content=sitio_web)
-    image: https://dobbox.com/wp-content/uploads/2023/04/foster-hollywood-logo.png
+    image: logo-foster-hollywood.svg
     description: |
       El sistema nos ayuda a garantizar la conservación del producto que le damos a nuestros clientes y la tranquilidad de tener las cámaras frigoríficas controladas cuando no estamos en el local.
   - title: Antonio Serrano
     subtitle: Gerente <br> [Confiterías La Cruz](http://www.confiteriaslacruz.com/)
-    image: https://dobbox.com/wp-content/uploads/2023/04/confiteria-la-cruz-logo.png
+    image: logo-confiteria-la-cruz.svg
     description: |
       Llevábamos mucho tiempo buscando un sistema así. doBBox nos da la tranquilidad de que la temperatura está controlada y de que si hay algún problema, estamos informados.
   - title: María Gómez
     subtitle: Propietaria (1 Estrella Michelin) <br> [Restaurante Magoga](https://restaurantemagoga.com/)
-    image: https://dobbox.com/wp-content/uploads/2023/04/logo_magoga.png
+    image: logo-magoga.svg
     description: |
       Ya puedo dormir por las noches y salir de día libre sin preocuparme. A quién no le ha pasado que se ha ido de vacaciones, la cámara ha fallado y ha tenido que tirar todo el género. Es un lujo.
   - title: Belén Pallarés
     subtitle: Propietaria <br> [Livanti](https://www.livanti.es/)
-    image: https://dobbox.com/wp-content/uploads/2023/04/livanti-logo.png
+    image: logo-livanti.svg
     description: |
       Cuando tu negocio depende de la temperatura de tu producto, contar con doBBox supone estar tranquila y segura. Las alertas ante posibles incidencias nos ha permitido liberarnos de preocupaciones.
   - title: Manuel
     subtitle: Jefe de obrador <br> [Panadería Sánchez García](https://panaderiasanchezgarcia.com/)
-    image: https://dobbox.com/wp-content/uploads/2023/04/LOGO-PANADERIA-SANCHEZ-GARCIA.png
+    image: logo-panaderia-sanchez-garcia.svg
     description: |
       Temperaturas y humedad siempre controlada en tiempo real. Además, buen sistema de registros e informes válidos para sanidad. Su sistema de alertas es muy cómodo, de fácil configuración y evita sustos.
   - title: Manuel Álvarez
     subtitle: Propietario <br> [La Tapeoteca](https://www.latapeoteca.es/)
-    image: https://dobbox.com/wp-content/uploads/2023/03/la_tapeoteca.png
+    image: logo-la-tapeoteca.svg
     description: |
       Me da la tranquilidad de saber que todos mis productos van a estar perfectos siempre porque es un sistema exhaustivo que está funcionando en todo momento y que me avisa del mínimo fallo que haya en mis cámaras.

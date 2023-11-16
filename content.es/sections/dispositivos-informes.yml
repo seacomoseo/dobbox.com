@@ -19,7 +19,7 @@ rows:
       Los informes están siempre en la app y plataforma web preparados para **descargar y compartir**.
 
       ¡Despreocúpate de las inspecciones sanitarias!
-  - image: https://dobbox.com/wp-content/uploads/2023/07/informe-temperatura-nuevov2-e1690452137517.png
+  - image: informe-temperatura.webp
     label: Informe de ejemplo
     link: informe-temperatura-ejemplo.pdf
     licon: none

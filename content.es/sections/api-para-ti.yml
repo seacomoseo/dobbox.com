@@ -16,12 +16,12 @@ rows:
 
       ¡Tendrán su género controlado como nunca!
 
-    image: appcc-digital.jpg
+    image: appcc-digital.webp
   - title: Si eres desarrollador de software
     description: |
       Puedes integrar nuestra API en cualquier programa haciendo que sea más completo. Así, ofrecerás a tus clientes nuevas prestaciones de tus ERP, TPV, etc.
 
-    image: appcc-tpv.jpg
+    image: appcc-tpv.webp
 
 - type: columns
   design:

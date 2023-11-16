@@ -18,7 +18,7 @@ rows:
     label: ¡Lo quiero!
     link: /busca-tu-instalador/#instaladores
     licon: none
-  - image: moviles-app.png
+  - image: moviles-app.webp
     description: |
       [icon-playstore](https://play.google.com/store/apps/details?id=com.dobbox.bcw&gl=ES)
       [icon-appstore ](https://apps.apple.com/es/app/dobbox-frio/id1532862054#?platform=iphone)

@@ -1,0 +1,12 @@
+anchor: Móviles
+more:
+  padding_top: 1
+rows:
+- type: columns
+  design:
+    num_xs: true
+  items:
+  - image: movil-app.webp
+  - image: movil-informe.webp
+  - image: movil-alertas.webp
+  - image: movil-informe-max-min.webp

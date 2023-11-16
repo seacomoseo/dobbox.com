@@ -14,7 +14,7 @@ rows:
     align: left
     align_y: center
   items:
-  - image: https://dobbox.com/wp-content/uploads/2022/05/movil-alertas.png
+  - image: movil-alertas.webp
     order: 2
   - title: Tenlo todo controlado estés donde estés
     description: |

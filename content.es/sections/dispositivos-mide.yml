@@ -8,7 +8,7 @@ rows:
     align: left
     align_y: center
   items:
-  - image: https://dobbox.com/wp-content/uploads/2022/05/movil-humedad-300x300-1.png
+  - image: movil-humedad.webp
   - description: |
       El sensor de temperatura puede medir la **humedad relativa** de tus cámaras frigoríficas en **tiempo real** y podrás visualizarlo desde la **app**. Así, conseguirás proteger los productos no envasados de tu negocio o los medicamentos de tu farmacia.
 

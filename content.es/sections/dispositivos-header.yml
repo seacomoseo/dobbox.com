@@ -13,7 +13,7 @@ rows:
     align: left
     align_y: center
   items:
-  - image: https://dobbox.com/wp-content/uploads/2023/07/captura-camaras-web.webp
+  - image: captura-camaras.webp
   - title: 0ºC Preocupaciones
     description: |
       - icon-check Control de temperatura y humedad a tiempo real

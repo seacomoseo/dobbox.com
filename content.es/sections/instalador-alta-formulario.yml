@@ -1,7 +1,7 @@
 anchor: Formulario
 title: Alta instalador
 subtitle: ¡Únete a doBBox!
-bg: https://dobbox.com/wp-content/uploads/2022/05/camara-frigorifica-1.png
+bg: camara-frigorifica.webp
 size: sm
 rows:
 - type: contact

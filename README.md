@@ -43,7 +43,7 @@
         - If need HTML content
           - Three scrap with `Web Scraper` chrome extension and paste in `content-scrap` tab
           - Copy `content-start` tab into `content-next` and get `body_code` (by `content-scrap`) with `VLOOKUP` formula
-          - Copy `body_code` column to `body`, [convert to Markdown](https://codebeautify.org/html-to-markdown) and clean it
+          - Copy `body_code` column to `body`, [convert to Markdown](https://smalldev.tools/html-to-markdown-converter-online) and clean it
         - Copy `content-next` to `content-export` without `url` and `body_code`
         - Export to CSV ⏩ [convert to YM](https://onlineyamltools.com/convert-csv-to-yaml) ⏩ paste in `./Downloads/DIR/pages.yml` and clean it + write `___` to split files
         - Execute `../_tools/yml-split.command`

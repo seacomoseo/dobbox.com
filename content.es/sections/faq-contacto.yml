@@ -1,7 +1,7 @@
 anchor: Contacto
 title: ¿Tu pregunta no está aquí?
 subtitle: Puedes hacérnosla rellenando el siguiente formulario
-bg: https://dobbox.com/wp-content/uploads/2023/07/teclado.gif
+bg: teclado.webm
 size: sm
 rows:
 - type: contact
