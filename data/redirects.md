@@ -119,7 +119,7 @@
 /wp-content/uploads/2020/10/logo_infohoreca2.png /
 
 # subvencion
-/wp-content/uploads/2020/12/subvencion_footer-300x196.png /media/subvencion.png /media/subvencion.png
+/wp-content/uploads/2020/12/subvencion_footer-300x196.png /media/subvencion.png
 
 # blog
 /wp-content/uploads/2019/10/pexels-rodnae-productions-7362882.jpg	/media/blog/inspecciones-sanitarias-que-se-revisa.jpg
