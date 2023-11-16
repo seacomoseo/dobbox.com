@@ -24,6 +24,6 @@ rows:
       Consulta tus temperaturas estés donde estés
 - type: columns
   items:
-  - link: /catalogo-sensor-de-temperatura-receptor/
+  - link: /catalogo-sensor-de-temperatura/
     label: Saber más
     licon: none

@@ -1,7 +1,7 @@
 ---
 title: Dispositivos
 title_seo: El sensor de temperatura que controla tus cámaras
-slug: catalogo-sensor-de-temperatura-receptor
+slug: catalogo-sensor-de-temperatura
 description: llll➤ El sensor de temperatura y humedad ✅ es el encargado de medir en tiempo real las condiciones ambientales de tu cámara frigorífica.
 image: captura-camaras.webp
 draft: false

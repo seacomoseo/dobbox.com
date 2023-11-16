@@ -22,7 +22,7 @@ normal:
 - label: Inicio
   link: /
 - label: Dispositivos
-  link: /catalogo-sensor-de-temperatura-receptor/
+  link: /catalogo-sensor-de-temperatura/
 - label: Instaladores
   items:
   - label: Busca tu instalador

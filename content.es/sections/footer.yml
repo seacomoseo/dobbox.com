@@ -17,7 +17,7 @@ rows:
   - description: |
       - icon-circle-question  [Preguntas frecuentes](/preguntas-frecuentes/)
       - icon-paper-plane      [Contacto](/preguntas-frecuentes#contacto)
-      - icon-sensor-on        [Dispositivos](/catalogo-sensor-de-temperatura-receptor/)
+      - icon-sensor-on        [Dispositivos](/catalogo-sensor-de-temperatura/)
       - icon-magnifying-glass [Busca tu instalador](/busca-tu-instalador/)
       - icon-user             [Alta instalador](/alta-instalador-dobbox-frio-aumenta-servicio/)
   - description: |
