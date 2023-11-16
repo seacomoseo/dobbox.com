@@ -33,7 +33,7 @@ Y aquí es donde entra en juego el sensor de temperatura. Este es muy útil a la
 
 Las [inspecciones](/inspecciones-sanitarias-que-se-revisa/) del sector hostelero exigen llevar un registro de la temperatura a la que se conservan los alimentos, tanto los frescos como congelados. Para garantizar la inocuidad de los alimentos, estos deben de almacenarse a tu temperatura óptima y no haberse interrumpido la cadena de frío. Para saber si la cadena de frío se ha roto existen sensores que pueden avisarte mediante alertas de temperatura. Así, tirar los alimentos a la basura nunca será una opción.
 
-Para el sector [farmacéutico](https://concep.es/como-actuar-inspeccion-farmacia), también es necesario llevar un registro diario de las temperaturas máximas y mínimas del local y neveras. En el caso de que ocurra alguna anomalía debe quedar registrada la actuación que se ha llevado a cabo para solucionar el problema.
+Para el sector [farmacéutico](https://concep.es/como-actuar-inspeccion-farmacia "nofollow"), también es necesario llevar un registro diario de las temperaturas máximas y mínimas del local y neveras. En el caso de que ocurra alguna anomalía debe quedar registrada la actuación que se ha llevado a cabo para solucionar el problema.
 
 Tanto para el sector hostelero como farmacéutico se puede realizar el registro de temperaturas de forma automática. Algunas de las ventajas son:
 
