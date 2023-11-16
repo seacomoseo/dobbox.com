@@ -7,7 +7,7 @@ rows:
     align: left
     align_y: center
   items:
-  - image: push-gastos-energetico.webp
+  - image: push-gastos-energetico.png
     order: 2
   - title: La inteligencia artificial que conoce al 100% tus cámaras
     description: |
