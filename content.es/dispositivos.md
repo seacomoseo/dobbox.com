@@ -11,6 +11,6 @@ sections:
 - file: dispositivos-header
 - file: dispositivos-funcionalidades
 - file: dispositivos-informes
-- file: dispositivos-anticipate
-- file: dispositivos-mide
+- file: dispositivos-sistema
+- file: dispositivos-clientes
 ---
