@@ -18,7 +18,7 @@
       - Run `do fonts` comand
       - `Family` + `Style` + `Weight` must match in `config.yml ⏩ params.fonts` + `_fonts.scss` (and disable `params.fonts.google` if appropriate)
   - REDIRECTS
-    - `assets/redirects.md`
+    - `assets/redirects.md` 
 
 
 ### After client validate web
