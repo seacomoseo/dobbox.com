@@ -9,9 +9,7 @@ draft: false
 noindex: true
 translationKey: cookies
 ---
-
-Política de Cookies
-{.subtitle}
+Política de Cookies {.subtitle}
 
 En la web [https://dobbox.com](/) utilizamos cookies para facilitar la relación de los visitantes con nuestro contenido y para permitir elaborar estadísticas sobre las visitantes que recibimos.
 
@@ -38,30 +36,18 @@ Su navegador también puede incluir la posibilidad de seleccionar con detalle la
 
 Puede encontrar información sobre cómo configurar los navegadores más usados en las siguientes ubicaciones:
 
-- **Internet Explorer**: Herramientas -> Opciones de Internet -> Privacidad -> Configuración. Para más información, puede consultar el [soporte de Microsoft](http://windows.microsoft.com/es-ES/windows/support "nofollow") o la Ayuda del navegador.
-- **Firefox**: Herramientas -> Opciones -> Privacidad -> Historial -> Configuración Personalizada. Para más información, puede consultar el [soporte de Mozilla](http://support.mozilla.org/es/home "nofollow") o la Ayuda del navegador.
-- **Chrome**: Configuración -> Mostrar opciones avanzadas -> Privacidad -> Configuración de contenido. Para más información, puede consultar el [soporte de Google](http://support.google.com/chrome/?hl=es "nofollow") o la Ayuda del navegador.
-- **Safari**: Preferencias -> Seguridad. Para más información, puede consultar el [soporte de Apple](http://www.apple.com/es/support/safari/ "nofollow") o la Ayuda del navegador.
+- **Internet Explorer**: Herramientas -> Opciones de Internet -> Privacidad -> Configuración. Para más información, puede consultar el [soporte de Microsoft](http://windows.microsoft.com/es-ES/windows/support) o la Ayuda del navegador.
+- **Firefox**: Herramientas -> Opciones -> Privacidad -> Historial -> Configuración Personalizada. Para más información, puede consultar el [soporte de Mozilla](http://support.mozilla.org/es/home) o la Ayuda del navegador.
+- **Chrome**: Configuración -> Mostrar opciones avanzadas -> Privacidad -> Configuración de contenido. Para más información, puede consultar el [soporte de Google](http://support.google.com/chrome/?hl=es) o la Ayuda del navegador.
+- **Safari**: Preferencias -> Seguridad. Para más información, puede consultar el [soporte de Apple](http://www.apple.com/es/support/safari/) o la Ayuda del navegador.
 
 Respecto de las cookies de terceros, es decir aquellas que son ajenas a nuestro sitio web, no podemos hacernos responsables del contenido y veracidad de las políticas de privacidad que ellos incluyen por lo que la información que le ofrecemos es siempre con referencia a la fuente.
 
 A continuación le informamos detalladamente de las cookies que pueden instalarse desde nuestro sitio web. En función de su navegación podrán instalarse todas o sólo algunas de ellas.
 
-| Nombre | Categoria | Descripción | Propiedad | Duración |
-| ------ | --------- | ----------- | --------- | -------- |
-| _ga | Análisis | Se usa para distinguir a los usuarios. | Terceros | 2 años |
-| _gid | Análisis | Se usa para distinguir a los usuarios. | Terceros | 24 horas |
-| wordpress_ | Funcionalidad | Se activa durante el login y guarda los detalles de autentificación. | Propia | 1 año |
-| wordpress_logged_in_ | Funcionalidad | Se activa durante el login y guarda los detalles de autentificación. | Propia | 1 año |
-| wordpress_test_cookie | Funcionalidad | Se activa durante el login y guarda los detalles de autentificación. | Propia | 1 año |
-| wp-settings- | Funcionalidad | Sirve para personalizar la Interfaz de Usuario. | Propia | 1 año |
-| wp-settings-time- | Funcionalidad | Sirve para personalizar la Interfaz de Usuario. | Propia | Finalización de la sesión |
-| catAccCookies | Funcionalidad | Contiene un código para verificar que la política de cookies ha sido aceptada. | Propia | 1 día |
-| gadwp_wg_default_dimension | Funcionalidad | Gestiona la gestión del acceso a la web y el despliegue de imágenes. | Propia | 1 semana |
-| gadwp_wg_default_metric | Funcionalidad | Gestiona la gestión del acceso a la web y el despliegue de imágenes. | Propia | 1 semana |
-| et-editor-available-post-3114-bb | Funcionalidad | Desconocemos el origen de la cookie | Terceros | Desconocemos el origen de la cookie |
-| et-editor-available-post-2651-bb | Funcionalidad | Desconocemos el origen de la cookie | Terceros | Desconocemos el origen de la cookie |
-| et-editor-available-post-53950-bb | Funcionalidad | Desconocemos el origen de la cookie | Terceros | Desconocemos el origen de la cookie |
-| et-pb-recent-items-colors | Funcionalidad | Desconocemos el origen de la cookie | Terceros | Desconocemos el origen de la cookie |
+|Nombre|Categoria|Descripción|Propiedad|Duración|
+|---|---|---|---|---|
+|_ga|Análisis|Se usa para distinguir a los usuarios.|Terceros|2 años|
+|_gid|Análisis|Se usa para distinguir a los usuarios.|Terceros|24 horas|
 
-Se puede modificar esta Política de Cookies en función de exigencias legislativas, reglamentarias, o con la finalidad de adaptar dicha política a las instrucciones dictadas por la Agencia Española de Protección de Datos, por ello se aconseja a los Usuarios que la visiten periódicamente.
+
