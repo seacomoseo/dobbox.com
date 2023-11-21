@@ -9,7 +9,7 @@ draft: false
 noindex: true
 translationKey: cookies
 ---
-Política de Cookies {.subtitle}
+Política de Cookies
 
 En la web [https://dobbox.com](/) utilizamos cookies para facilitar la relación de los visitantes con nuestro contenido y para permitir elaborar estadísticas sobre las visitantes que recibimos.
 
@@ -36,10 +36,10 @@ Su navegador también puede incluir la posibilidad de seleccionar con detalle la
 
 Puede encontrar información sobre cómo configurar los navegadores más usados en las siguientes ubicaciones:
 
-- **Internet Explorer**: Herramientas -> Opciones de Internet -> Privacidad -> Configuración. Para más información, puede consultar el [soporte de Microsoft](http://windows.microsoft.com/es-ES/windows/support) o la Ayuda del navegador.
-- **Firefox**: Herramientas -> Opciones -> Privacidad -> Historial -> Configuración Personalizada. Para más información, puede consultar el [soporte de Mozilla](http://support.mozilla.org/es/home) o la Ayuda del navegador.
-- **Chrome**: Configuración -> Mostrar opciones avanzadas -> Privacidad -> Configuración de contenido. Para más información, puede consultar el [soporte de Google](http://support.google.com/chrome/?hl=es) o la Ayuda del navegador.
-- **Safari**: Preferencias -> Seguridad. Para más información, puede consultar el [soporte de Apple](http://www.apple.com/es/support/safari/) o la Ayuda del navegador.
+- **Internet Explorer**: Herramientas -> Opciones de Internet -> Privacidad -> Configuración. Para más información, puede consultar el [soporte de Microsoft](http://windows.microsoft.com/es-ES/windows/support "nofollow") o la Ayuda del navegador.
+- **Firefox**: Herramientas -> Opciones -> Privacidad -> Historial -> Configuración Personalizada. Para más información, puede consultar el [soporte de Mozilla](http://support.mozilla.org/es/home "nofollow") o la Ayuda del navegador.
+- **Chrome**: Configuración -> Mostrar opciones avanzadas -> Privacidad -> Configuración de contenido. Para más información, puede consultar el [soporte de Google](http://support.google.com/chrome/?hl=es "nofollow") o la Ayuda del navegador.
+- **Safari**: Preferencias -> Seguridad. Para más información, puede consultar el [soporte de Apple](http://www.apple.com/es/support/safari/ "nofollow") o la Ayuda del navegador.
 
 Respecto de las cookies de terceros, es decir aquellas que son ajenas a nuestro sitio web, no podemos hacernos responsables del contenido y veracidad de las políticas de privacidad que ellos incluyen por lo que la información que le ofrecemos es siempre con referencia a la fuente.
 
@@ -49,5 +49,7 @@ A continuación le informamos detalladamente de las cookies que pueden instalars
 |---|---|---|---|---|
 |_ga|Análisis|Se usa para distinguir a los usuarios.|Terceros|2 años|
 |_gid|Análisis|Se usa para distinguir a los usuarios.|Terceros|24 horas|
+
+
 
 
