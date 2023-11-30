@@ -22,13 +22,12 @@ rows:
       - icon-xmark No te importa intoxicar a tus clientes
       - icon-xmark Pasas de cumplir con la legislación
       - icon-xmark Quieres perder tu tiempo con el control de temperatura a mano todos los días
-      - icon-xmark Me interesa
 
-# - type: columns
-#   items:
-#   - label: Me interesa
-#     link: /busca-tu-instalador/#instaladores
-#     licon: none
+- type: columns
+  items:
+  - label: Me interesa
+    link: /busca-tu-instalador/#instaladores
+    licon: none
 
 - type: columns
   design:

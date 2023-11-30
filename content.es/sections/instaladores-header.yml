@@ -10,7 +10,7 @@ rows:
     align_y: center
     icon_size: 1
   items:
-  - description: 'Con la**instalación y mantenimiento**del sistema. Sin realizar modificaciones en tus cámaras se encargará de la puesta en marcha. Además, llevará el mantenimiento de los equipos para que siempre tengas todos los datos de temperatura.'
+  - description: 'Con la **instalación y mantenimiento** del sistema. Sin realizar modificaciones en tus cámaras se encargará de la puesta en marcha. Además, llevará el mantenimiento de los equipos para que siempre tengas todos los datos de temperatura.'
     icon: circle-check
   - image: sensor-colocado.png
     ratio: 1x1
@@ -32,7 +32,7 @@ rows:
 #   items:
 #   - image: sensor-colocado.png
 #     description: |
-#       Con la**instalación y mantenimiento**del sistema. Sin realizar modificaciones en tus cámaras se encargará de la puesta en marcha. Además, llevará el mantenimiento de los equipos para que siempre tengas todos los datos de temperatura.
+#       Con la **instalación y mantenimiento** del sistema. Sin realizar modificaciones en tus cámaras se encargará de la puesta en marcha. Además, llevará el mantenimiento de los equipos para que siempre tengas todos los datos de temperatura.
 #     more:
 #       contain: false
 #   - image: deteccion.png

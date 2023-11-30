@@ -65,4 +65,4 @@ El sistema es capaz de controlar también la humedad relativa de tus cámaras. D
 - En caso de que haya algún fallo, estarás informado al instante para poder solucionarlo cuanto antes.
 - Además podrás ahorrar dinero en el consumo eléctrico y en el mantenimiento de tus equipos, y no tirar nunca más alimentos a la basura.
 
-[btn Instaladores](/busca-tu-instalador/)
+[btn Comprar](/busca-tu-instalador/)

@@ -66,4 +66,4 @@ Según la OMS, un 10% de la población, enferma tras ingerir alimentos contamina
 
 Desde doBBox, consideramos que siempre es mejor prevenir que curar, y es por ello que os queremos recordar la importancia que tiene hacer un uso correcto a la hora de manipular los alimentos. De esta manera conseguiremos reducir los casos de contaminación cruzada en los restaurantes, o incluso en tu propia casa.
 
-Además, si queréis leer más información sobre la contaminación cruzada os recomendamos leer el post tan interesante de FSA
+<!-- Además, si queréis leer más información sobre la contaminación cruzada os recomendamos leer el post tan interesante de FSA -->

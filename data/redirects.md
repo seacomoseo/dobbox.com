@@ -27,7 +27,8 @@
 /control-de-temperatura-y-humedad/ /control-temperatura-humedad/
 /avances-tecnologia-alimentaria/ /avances-tecnologia-alimentaria/
 /1-300-millones-de-toneladas-d-desperdicio-de-alimentos/ /1300-millones-toneladas-desperdicio-alimentos/
-/descubre-los-tipos-de-registrador-de-temperatura/ /ipos-registrador-temperatura/
+/descubre-los-tipos-de-registrador-de-temperatura/ /tipos-registrador-temperatura/
+/ipos-registrador-temperatura/ /tipos-registrador-temperatura/
 /control-de-humedad-camaras-frigorificas/ /control-humedad-camaras-frigorificas/
 /anisakis-4-claves-para-prevenir-la-intoxicacion/ /anisakis-claves-prevenir-intoxicacion/
 /los-3-tipos-de-mantenimiento-de-camaras-frigorificas/ /tipos-mantenimiento-camaras-frigorificas/
@@ -136,7 +137,8 @@
 /wp-content/uploads/2021/02/portada_control_tyh.png	/media/blog/control-temperatura-humedad.png
 /wp-content/uploads/2021/02/portadas_blog_dobbox.png	/media/blog/avances-tecnologia-alimentaria.png
 /wp-content/uploads/2021/03/portadas_blog_dobbox-1.png	/media/blog/1300-millones-toneladas-desperdicio-alimentos.png
-/wp-content/uploads/2021/04/portadas_blog_dobbox-2.png	/media/blog/ipos-registrador-temperatura.png
+/wp-content/uploads/2021/04/portadas_blog_dobbox-2.png	/media/blog/tipos-registrador-temperatura.png
+/media/blog/ipos-registrador-temperatura.png	/media/blog/tipos-registrador-temperatura.png
 /wp-content/uploads/2021/05/portadas_blog_dobbox-3.png	/media/blog/control-humedad-camaras-frigorificas.png
 /wp-content/uploads/2021/12/portadas_blog_dobbox-4.png	/media/blog/anisakis-claves-prevenir-intoxicacion.png
 /wp-content/uploads/2022/01/portadas_blog_dobbox-5.png	/media/blog/tipos-mantenimiento-camaras-frigorificas.png
