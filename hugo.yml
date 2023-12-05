@@ -1,5 +1,5 @@
 baseURL: https://dobbox.com
-Paginate: 24
+Paginate: 48
 buildFuture: false
 theme: [sansoul]
 params:
