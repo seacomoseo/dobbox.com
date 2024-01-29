@@ -14,11 +14,11 @@
   .image {
     animation: logo-drop 1s 0s both;
   }
-  @mixin show-up($delay) {
-    animation: show-up .5s (.25s * $delay) both;
+  @mixin show-from($delay) {
+    animation: show-from .5s (.25s * $delay) both;
   }
-  .section__title {       @include show-up(1); }
-  .subtitle {             @include show-up(2); }
+  .section__title {       @include show-from(1); }
+  .subtitle {             @include show-from(2); }
 }
 
 
