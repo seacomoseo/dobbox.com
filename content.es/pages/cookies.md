@@ -47,8 +47,8 @@ A continuación le informamos detalladamente de las cookies que pueden instalars
 
 |Nombre|Categoria|Descripción|Propiedad|Duración|
 |---|---|---|---|---|
-|_ga|Análisis|Se usa para distinguir a los usuarios.|Terceros|2 años|
-|_gid|Análisis|Se usa para distinguir a los usuarios.|Terceros|24 horas|
+|`_ga`|Análisis|Se usa para distinguir a los usuarios.|Terceros|2 años|
+|`_gid`|Análisis|Se usa para distinguir a los usuarios.|Terceros|24 horas|
 
 
 
