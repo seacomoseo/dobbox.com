@@ -20,6 +20,6 @@ rows:
     licon: none
   - image: moviles-app.webp
     description: |
-      [icon-playstore](https://play.google.com/store/apps/details?id=com.dobbox.bcw&gl=ES)
-      [icon-appstore ](https://apps.apple.com/es/app/dobbox-frio/id1532862054#?platform=iphone)
+      [icon-playstore ](https://play.google.com/store/apps/details?id=com.dobbox.bcw&gl=ES "Descarga para Android en la Play Store")
+      [icon-appstore  ](https://apps.apple.com/es/app/dobbox-frio/id1532862054#?platform=iphone "Descarga para iPhone en la App Store")
       {.apps}

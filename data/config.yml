@@ -1,5 +1,5 @@
 title: doBBox
-description: Sistema de control de temperatura para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
+description: Sistema de control inalámbrico (mediante App) de temperatura y humedad para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
 logo: logo-alt.svg
 legal_name: Data Of Business Box, S.L.
 legal_dni: B01663418
@@ -7,11 +7,11 @@ legal_email: hola@dobbox.com
 legal_location: C. de Molina de Segura, 5, Bloque 3, 1A, 30007 Murcia
 country: España
 location_type:
-# - LocalBusiness
+- LocalBusiness
 - Organization
 alternate_name:
 - doBBox - Sistema de control de temperatura
-price_range: ''
+price_range: €€
 google_analytics: G-TE5NJF5LYZ
 google_site_verification: ''
 google_file_verification: google7467d923cbb3eb4c.html
@@ -38,4 +38,4 @@ social:
 - link: https://www.facebook.com/doBBox/
 - link: https://www.linkedin.com/company/dobbox/
 - link: https://www.instagram.com/dobboxfrio/
-- link: https://g.page/doBBox
+- link: https://g.page/r/CWSvbD-vfW33EBM

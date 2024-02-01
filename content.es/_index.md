@@ -1,8 +1,8 @@
 ---
 title: Inicio
-title_seo: doBBox - Sistema de control de temperatura
+title_seo: doBBox - Control Inalámbrico de Temperatura y Humedad por App
 slug: inicio
-description: llll➤ Sistema de control de temperatura ✅ para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
+description: llll➤ Sistema de control inalámbrico de temperatura y humedad ✅ para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
 image: sistema-automatico-control-de-temperatura-dobbox.png
 draft: false
 noindex: false

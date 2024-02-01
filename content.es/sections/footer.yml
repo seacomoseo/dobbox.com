@@ -11,8 +11,8 @@ rows:
       - icon-phone    [968 472 663](tel:+43968472663)
       - icon-envelope hola@dobbox.com
 
-      [icon-playstore](https://play.google.com/store/apps/details?id=com.dobbox.bcw&gl=ES)
-      [icon-appstore ](https://apps.apple.com/es/app/dobbox-frio/id1532862054#?platform=iphone)
+      [icon-playstore ](https://play.google.com/store/apps/details?id=com.dobbox.bcw&gl=ES "Descarga para Android en la Play Store")
+      [icon-appstore  ](https://apps.apple.com/es/app/dobbox-frio/id1532862054#?platform=iphone "Descarga para iPhone en la App Store")
       {.apps}
   - description: |
       - icon-circle-question  [Preguntas frecuentes](/preguntas-frecuentes/)
