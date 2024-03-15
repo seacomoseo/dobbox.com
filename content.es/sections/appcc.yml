@@ -32,4 +32,12 @@ rows:
 
       icon-phone [936 550 995](tel:+34936550995)
 
-      icon-envelope info@intowin.es
+      icon-envelope [info@intowin.es](info@intowin.es)
+  - image: /yurest-neon.png
+    link: https://www.yurest.com/
+    description: |-
+      **YUREST**
+
+      icon-phone [692 89 85 86](tel:+34692898586)
+
+      icon-envelope [hola@yurest.com](hola@yurest.com)
