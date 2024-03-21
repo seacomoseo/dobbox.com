@@ -1,25 +1,83 @@
 anchor: Clientes
 title: Nuestros clientes
-subtitle: te lo cuentan
+subtitle: confían en dobbox
 rows:
-- type: reviews
+- type: columns
   design:
-    num: 3
-    color: light
-    slider: true
+    num: 5
+    num_xs: true
+    button: hide
+    ratio: 16x9
+    contain: true
   items:
-  - title: María Gómez
-    subtitle: Propietaria (1 Estrella Michelin) <br> [Restaurante Magoga](https://restaurantemagoga.com/)
-    image: logo-magoga.svg
-    description: |
-      Ya puedo dormir por las noches y salir de día libre sin preocuparme. A quién no le ha pasado que se ha ido de vacaciones, la cámara ha fallado y ha tenido que tirar todo el género. Es un lujo.
-  - title: Belén Pallarés
-    subtitle: Propietaria <br> [Livanti](https://www.livanti.es/)
-    image: logo-livanti.svg
-    description: |
-      Cuando tu negocio depende de la temperatura de tu producto, contar con doBBox supone estar tranquila y segura. Las alertas ante posibles incidencias nos ha permitido liberarnos de preocupaciones.
-  - title: Manuel
-    subtitle: Jefe de obrador <br> [Panadería Sánchez García](https://www.panaderiasanchezgarcia.com/)
-    image: logo-panaderia-sanchez-garcia.svg
-    description: |
-      Temperaturas y humedad siempre controlada en tiempo real. Además, buen sistema de registros e informes válidos para sanidad. Su sistema de alertas es muy cómodo, de fácil configuración y evita sustos.
+  - image: logos/cuarentaytres.svg
+    link: https://cuarentaytres.com/
+  - image: logos/airemar-restaurante.svg
+    link: http://airemar.es/
+  - image: logos/areas.svg
+    link: https://areas.com/
+  - image: logos/bombones-torres.svg
+    link: https://bombonestorres.com/
+  - image: logos/confiteria-la-cruz.svg
+    link: http://www.confiteriaslacruz.com/
+  - image: logos/confiterias-rodri.svg
+  - image: logos/earmur.png
+    link: https://earmur.com/
+  - image: logos/el-punaito.svg
+    link: https://elpunaito.eatbu.com/
+  - image: logos/escuela-hosteleria-salamanca.svg
+    link: https://escuelahosteleriasalamanca.es/
+  - image: logos/grupo-orenes.svg
+    link: https://orenesgrupo.com/
+  - image: logos/grupo-drinkandeat.svg
+    link: https://www.grupodrinkandeat.es/
+  - image: logos/madrugada.svg
+    link: https://www.instagram.com/la_madrugada_javier_moreno/
+  - image: logos/livanti.svg
+    link: https://www.livanti.es/
+  - image: logos/escuela-hosteleria-madrid.svg
+    link: https://eshtm.es/
+  - image: logos/nueva-cocina-mediterranea.svg
+    link: https://nuevacocinamediterranea.es/
+  - image: logos/panaderia-el-boticario.svg
+    link: https://artesanoselboticario.com/
+  - image: logos/quique-dacosta.svg
+    link: https://www.quiquedacosta.es/
+  - image: logos/restaurante-emboka.svg
+    link: https://www.emboka.com/
+  - image: logos/roencar.svg
+    link: https://www.linkedin.com/company/roencar/
+  - image: logos/la-tapeoteca.svg
+    link: https://www.latapeoteca.es/
+
+  # - image: logos/balsavalle.svg
+  # - image: logos/campamento-chaparral.svg
+  # - image: logos/carniceria-nunez.svg
+  # - image: logos/carniceria-toni.svg
+  # - image: logos/la-casa-de-la-pizza.svg
+  # - image: logos/foster-hollywood.svg
+  # - image: logos/magoga.svg
+  # - image: logos/panaderia-sanchez-garcia.svg
+
+
+# - type: reviews
+#   design:
+#     num: 3
+#     color: light
+#     slider: true
+#   items:
+#   - title: María Gómez
+#     subtitle: Propietaria (1 Estrella Michelin) <br> [Restaurante Magoga](https://restaurantemagoga.com/)
+#     image: logos/magoga.svg
+#     description: |
+#       Ya puedo dormir por las noches y salir de día libre sin preocuparme. A quién no le ha pasado que se ha ido de vacaciones, la cámara ha fallado y ha tenido que tirar todo el género. Es un lujo.
+#   - title: Belén Pallarés
+#     subtitle: Propietaria <br> [Livanti](https://www.livanti.es/)
+#     image: logos/livanti.svg
+#     description: |
+#       Cuando tu negocio depende de la temperatura de tu producto, contar con doBBox supone estar tranquila y segura. Las alertas ante posibles incidencias nos ha permitido liberarnos de preocupaciones.
+#   - title: Manuel
+#     subtitle: Jefe de obrador <br> [Panadería Sánchez García](https://www.panaderiasanchezgarcia.com/)
+#     image: logos/panaderia-sanchez-garcia.svg
+#     description: |
+#       Temperaturas y humedad siempre controlada en tiempo real. Además, buen sistema de registros e informes válidos para sanidad. Su sistema de alertas es muy cómodo, de fácil configuración y evita sustos.

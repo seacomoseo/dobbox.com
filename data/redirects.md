@@ -38,13 +38,13 @@
 
 
 # PDF
-/wp-content/uploads/2023/08/Informe-Diciembre-2022-Temperatura-Restaurante-Alba.pdf /media/informe-temperatura-ejemplo.pdf
+/wp-content/uploads/2023/08/Informe-Diciembre-2022-Temperatura-Restaurante-Alba.pdf /media/pdf/informe-temperatura-ejemplo.pdf
 
 
 # IMAGENES
 
 # inicio
-/wp-content/uploads/2021/06/moviles-app.png /media/moviles-app.webp
+/wp-content/uploads/2021/06/moviles-app.png /media/moviles/app.webp
 /wp-content/uploads/2022/07/pegatina-establecimientos_12cm_version-web-1.png /media/sistema-automatico-control-de-temperatura-dobbox.png
 /wp-content/uploads/2021/01/movil-app3.png /media/movil-app.png
 /wp-content/uploads/2021/02/movil-informe.png /media/movil-informe.png
@@ -78,30 +78,31 @@
 
 # dispositivos
 # header
-/wp-content/uploads/2023/07/captura-camaras-web.webp /media/captura-camaras.png
-/wp-content/uploads/2023/07/captura-grafico-humedad-web_1.webp /media/captura-camaras.png
-/wp-content/uploads/2023/07/captura-grafico-temperatura-web_1.webp /media/captura-camaras.png
+/wp-content/uploads/2023/07/captura-camaras-web.webp /media/moviles/captura-camaras.png
+/wp-content/uploads/2023/07/captura-grafico-humedad-web_1.webp /media/moviles/captura-camaras.png
+/wp-content/uploads/2023/07/captura-grafico-temperatura-web_1.webp /media/moviles/captura-camaras.png
 # funcionalidades
 /wp-content/uploads/2022/05/movil-alertas.png /media/movil-alertas.png
 # informes
-/wp-content/uploads/2023/07/informe-temperatura-nuevov2-e1690452137517.png /media/informe-temperatura.png
+/wp-content/uploads/2023/07/informe-temperatura-nuevov2-e1690452137517.png /media/movil/informe-temperatura.png
 # anticipate
-/wp-content/uploads/2023/07/push-gastos-energetico.webp /media/push-gasto-energetico.png
+/wp-content/uploads/2023/07/push-gastos-energetico.webp /media/movil/push-gasto-energetico.png
 # mide
 /wp-content/uploads/2022/05/movil-humedad-300x300-1.png /media/movil-humedad.png
 # sistemas
-/wp-content/uploads/2022/05/sensor-y-receptor-v2.png /media/sensor-y-receptor.png
-/wp-content/uploads/2022/05/sensor_colocado.png /media/sensor-colocado.png
-/wp-content/uploads/2023/07/sensor-sonda-externa.png /media/sensor-medidas.png
-/wp-content/uploads/2023/07/receptor-wifi_medidas_nuevo.webp /media/receptor-medidas.webp
-/wp-content/uploads/2023/07/sensor_medidas.png /media/sensor-medidas.png
-/wp-content/uploads/2021/07/sensor-sonda-2.png /media/sensor-medidas.png
+/wp-content/uploads/2022/05/sensor-y-receptor-v2.png /media/sensor/y-receptor.png
+/wp-content/uploads/2022/05/sensor_colocado.png /media/sensor/colocado.png
+/wp-content/uploads/2023/07/sensor-sonda-externa.png /media/sensor/medidas.png
+/wp-content/uploads/2023/07/receptor-wifi_medidas_nuevo.webp /media/sensor/receptor-medidas.webp
+/wp-content/uploads/2023/07/sensor_medidas.png /media/sensor/medidas.png
+/wp-content/uploads/2021/07/sensor-sonda-2.png /media/sensor/medidas.png
 
 # instaladores
-/wp-content/uploads/2022/08/deteccion-2_v3.png /media/deteccion.png
-/wp-content/uploads/2022/05/captura-camaras.png /media/monitorizacion.png
-/wp-content/uploads/2022/05/captura-eficiencia-energetica-MOCK-UP-3.png /media/asesoramiento-eficiencia-energetica.png
-/wp-content/uploads/2022/05/restaurante-15-1.png /media/restaurante.png
+/wp-content/uploads/2022/08/deteccion-2_v3.png /media/movil/deteccion.png
+/wp-content/uploads/2022/05/captura-camaras.png /media/movil/monitorizacion.png
+/wp-content/uploads/2022/05/captura-eficiencia-energetica-MOCK-UP-3.png /media/movil/asesoramiento-eficiencia-energetica.png
+/wp-content/uploads/2022/05/restaurante-15-1.png /media/restaurante.jpg
+/media/restaurante.png /media/restaurante.jpg
 
 # instalador-alta
 /wp-content/uploads/2022/05/camara-frigorifica-1.png /media/camara-frigorifica.png
@@ -150,3 +151,24 @@
 /wp-content/uploads/2022/02/ARBOL-DE-DECISION-APPCC1.png	/media/blog/arbol-decision-appcc.png
 /wp-content/uploads/2022/03/Imagen-blog-.png	/media/blog/intoxicaciones-alimentarias-mas-comunes.png
 /wp-content/uploads/2022/08/Imagen-para-blog-sensor-de-temperatura.png	/media/blog/0-grados-preocupaciones-sistema-control-camaras-frigorificas.png
+
+# 2020-03-21
+/media/sensor-y-receptor.png /media/sensor/y-receptor.png
+/media/sensor-colocado.png /media/sensor/colocado.png
+/media/sensor-medidas.png /media/sensor/medidas.png
+/media/sensor-medidas.png /media/sensor/medidas.png
+/media/sensor-medidas.png /media/sensor/medidas.png
+/media/receptor-medidas.webp /media/sensor/receptor-medidas.webp
+
+/media/moviles-app.webp /media/moviles/app.webp
+/media/captura-camaras.png /media/moviles/captura-camaras.png
+
+/media/push-gasto-energetico.png /media/movil/push-gasto-energetico.png
+/media/monitorizacion.png /media/movil/monitorizacion.png
+/media/informe-temperatura.png /media/movil/informe-temperatura.png
+/media/movil/deteccion.png /media/deteccion.png
+/media/movil/asesoramiento-eficiencia-energetica.png /media/asesoramiento-eficiencia-energetica.png
+
+/media/informe-temperatura-ejemplo.pdf /media/pdf/informe-temperatura-ejemplo.pdf
+/media/orden-de-pedido-dobbox.pdf /media/pdf/orden-de-pedido-dobbox.pdf
+/media/1bvdmut9ov-tarifas-instalador-hosteleria-dobbox-2024.pdf /media/pdf/1bvdmut9ov-tarifas-instalador-hosteleria-dobbox-2024.pdf

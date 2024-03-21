@@ -14,7 +14,7 @@ rows:
     align: left
     align_y: center
   items:
-  - image: movil-alertas.png
+  - image: movil/alertas.png
     order: 2
   - title: Tenlo todo controlado estés donde estés
     description: |

@@ -9,7 +9,7 @@ rows:
     licon: none
     label: Ver más
   items:
-  - image: logo-appcc-controller.svg
+  - image: logos/appcc-controller.svg
     link: https://appcc-controller.com/
     description: |
       **APPCC CONTROLLER**
@@ -17,7 +17,7 @@ rows:
       icon-phone [652 454 546](tel:+34652454546)
 
       icon-envelope hola@appcc-controller.com
-  - image: logo-recipok.svg
+  - image: logos/recipok.svg
     link: https://www.recipok.com/
     description: |
       **RECIPOK**
@@ -25,7 +25,7 @@ rows:
       icon-phone [865 600 090](tel:+34865600090)
 
       icon-envelope users@recipok.com
-  - image: logo-andy.svg
+  - image: logos/andy.svg
     link: https://andyapp.io/digitalizar-sistema-appcc/
     description: |
       **ANDY**
@@ -33,7 +33,7 @@ rows:
       icon-phone [936 550 995](tel:+34936550995)
 
       icon-envelope info@intowin.es
-  - image: logo-yurest.svg
+  - image: logos/yurest.svg
     link: https://www.yurest.com/
     description: |
       **YUREST**
