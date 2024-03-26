@@ -15,12 +15,12 @@ rows:
     description: |
       El sensor de temperatura y humedad es el encargado de **medir en tiempo real las condiciones ambientales** de tu cámara frigorífica o cualquier estancia que desees controlar. ¡Tendrás la temperatura de tus productos controlada sin realizar modificaciones en tus cámaras!
   - order: 2
-    image: sensor/y-receptor.png
+    image: sensor/receptor-medidas.webp
   - order: 4
     description: |
       El sensor de temperatura de sonda externa es perfecto para medir la **temperatura de los líquidos.** Tan solo debes introducir la sonda donde quieras controlar las condiciones y entrar en la app para visualizarlo en **tiempo real**.
   - order: 3
-    image: sensor/receptor-medidas.webp
+    image: sensor/y-receptor.png
   - order: 5
     description: |
       El receptor doBBox **envía los datos a la nube** vía Wi-Fi. Con 1 solo receptor podrás obtener los datos de **todos los sensores a su alcance**.
