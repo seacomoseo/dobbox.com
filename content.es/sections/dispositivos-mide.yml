@@ -8,7 +8,7 @@ rows:
     align: left
     align_y: center
   items:
-  - image: movil/humedad.png
+  - image: movil/movil-humedad.webp
   - description: |
       El sensor de temperatura puede medir la **humedad relativa** de tus cámaras frigoríficas en **tiempo real** y podrás visualizarlo desde la **app**. Así, conseguirás proteger los productos no envasados de tu negocio o los medicamentos de tu farmacia.
 
