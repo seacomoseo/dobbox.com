@@ -1,0 +1,10 @@
+title: ¡¡UNIDADES LIMITADAS!!
+more:
+  padding_top: 0
+  padding_bottom: 0
+rows:
+- type: columns
+  items:
+  - label: RESERVA AHORA
+    link: https://book.stripe.com/fZebMn56C5Ppe1GaEE
+    licon: none
