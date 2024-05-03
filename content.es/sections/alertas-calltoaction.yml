@@ -5,6 +5,6 @@ more:
 rows:
 - type: columns
   items:
-  - label: RESERVA AHORA
+  - label: RESERVA POR SOLO 20 €
     link: https://book.stripe.com/fZebMn56C5Ppe1GaEE
     licon: none
