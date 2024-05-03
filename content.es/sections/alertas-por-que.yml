@@ -3,11 +3,16 @@ rows:
 - type: columns
   items:
   - color: main-light
-    description: |
-      - icon-check Hemos fabricado un lote con algunos equipos adicionales a los que nos habéis solicitado
+    description: >
+      - icon-check Hemos fabricado un lote con algunos equipos adicionales a los
+      que nos habéis solicitado
+
       - icon-check Queremos que aquellos que estéis interesados podáis reservar con antelación y no os quedéis sin el vuestro
     span: 2
   - color: main-dark
-    description: |
-      - Precio Total: **119 €**
-      - Depósito: **20 €**
+    description: |+
+      - Precio Total Final: **119 €**
+
+
+
+
