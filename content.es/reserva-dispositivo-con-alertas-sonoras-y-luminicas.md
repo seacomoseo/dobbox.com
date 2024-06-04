@@ -2,9 +2,11 @@
 title: Reserva Dispositivo con Alertas Sonoras y Lumínicas
 title_seo: ''
 slug: reserva-dispositivo-con-alertas-sonoras-y-luminicas
-description: llll➤ Sistema automático de control inalámbrico de temperatura y humedad ✅ para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
+description: llll➤ Sistema automático de control inalámbrico de temperatura y
+  humedad ✅ para cámaras frigoríficas y de congelación, vitrinas, salas de
+  elaboración, etc.
 image: sistema-automatico-control-de-temperatura-dobbox.png
-draft: false
+draft: true
 noindex: true
 translationKey: reserva-dispositivo-con-alertas-sonoras-y-luminicas
 sections:
