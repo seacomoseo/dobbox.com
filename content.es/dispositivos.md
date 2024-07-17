@@ -1,8 +1,9 @@
 ---
-title: Dispositivos
+title: Funcionamiento
 title_seo: Sensor y Registrador de Temperatura y Humedad - doBBox
 slug: catalogo-sensor-de-temperatura-receptor
-description: llll➤ El sensor de temperatura y humedad ✅ es el encargado de medir en tiempo real las condiciones ambientales de tu cámara frigorífica.
+description: llll➤ El sensor de temperatura y humedad ✅ es el encargado de medir
+  en tiempo real las condiciones ambientales de tu cámara frigorífica.
 image: moviles/captura-camaras.webp
 draft: false
 noindex: false
