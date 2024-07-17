@@ -21,7 +21,7 @@ callnow_buttons:
 normal:
 - label: Inicio
   link: /
-- label: Dispositivos
+- label: Funcionamiento
   link: /catalogo-sensor-de-temperatura-receptor/
 - label: Instaladores
   items:
