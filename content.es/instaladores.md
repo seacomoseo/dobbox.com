@@ -6,9 +6,9 @@ description: llll➤ Tu instalador podrá ayudarte en la instalación y mantenim
 image: sensor/colocado.png
 draft: false
 noindex: false
-translationKey: home
+translationKey: instaladores
 sections:
-- file: instaladores-header
-- file: instaladores-mapa
-- file: instaladores-contacto
+- file: instaladores/header
+- file: instaladores/mapa
+- file: instaladores/contacto
 ---

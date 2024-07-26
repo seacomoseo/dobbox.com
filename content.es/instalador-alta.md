@@ -6,9 +6,9 @@ description: llll➤ ¿Quieres ofrecer un servicio de valor añadido a tus clien
 image: logo.png
 draft: false
 noindex: false
-translationKey: home
+translationKey: instalador-alta
 sections:
-- file: instalador-alta-header
-- file: instalador-alta-pasos
-- file: instalador-alta-formulario
+- file: instalador-alta/header
+- file: instalador-alta/pasos
+- file: instalador-alta/formulario
 ---

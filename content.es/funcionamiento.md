@@ -7,13 +7,13 @@ description: llll➤ El sensor de temperatura y humedad ✅ es el encargado de m
 image: moviles/captura-camaras.webp
 draft: false
 noindex: false
-translationKey: home
+translationKey: funcionamiento
 sections:
-- file: dispositivos-header
-- file: dispositivos-funcionalidades
-- file: dispositivos-informes
-- file: dispositivos-anticipate
-- file: dispositivos-mide
-- file: dispositivos-sistema
-- file: dispositivos-clientes
+- file: funcionamiento/header
+- file: funcionamiento/funcionalidades
+- file: funcionamiento/informes
+- file: funcionamiento/anticipate
+- file: funcionamiento/mide
+- file: funcionamiento/sistema
+- file: funcionamiento/clientes
 ---

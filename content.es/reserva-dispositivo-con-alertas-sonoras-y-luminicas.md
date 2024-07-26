@@ -10,11 +10,11 @@ draft: true
 noindex: true
 translationKey: reserva-dispositivo-con-alertas-sonoras-y-luminicas
 sections:
-- file: alertas-header
-- file: alertas-calltoaction
-- file: alertas-sobre
-- file: alertas-por-que
-- file: alertas-calltoaction
+- file: alertas/header
+- file: alertas/calltoaction
+- file: alertas/sobre
+- file: alertas/por-que
+- file: alertas/calltoaction
   id: unidades-limitadas-2
-- file: alertas-garantia
+- file: alertas/garantia
 ---

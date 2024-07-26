@@ -6,7 +6,7 @@ description: llll➤ Apariciones en medios ✅ de comunicación.
 image: logo.png
 draft: false
 noindex: false
-translationKey: home
+translationKey: prensa
 sections:
 - file: prensa
 ---

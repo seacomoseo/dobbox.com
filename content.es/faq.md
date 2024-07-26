@@ -6,8 +6,8 @@ description: llll➤ Preguntas frecuentes ✅ sobre el sistema de control inalá
 image: logo.png
 draft: false
 noindex: false
-translationKey: home
+translationKey: faq
 sections:
-- file: faq-header
-- file: faq-contacto
+- file: faq/header
+- file: faq/contacto
 ---

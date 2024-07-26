@@ -8,14 +8,14 @@ draft: false
 noindex: false
 translationKey: home
 sections:
-- file: inicio-header
-- file: inicio-miedos
-- file: inicio-necesitas
-- file: inicio-control
-- file: inicio-moviles
-- file: inicio-clientes
-- file: inicio-tranquilidad
-- file: inicio-para-ti
+- file: inicio/header
+- file: inicio/miedos
+- file: inicio/necesitas
+- file: inicio/control
+- file: inicio/moviles
+- file: inicio/clientes
+- file: inicio/tranquilidad
+- file: inicio/para-ti
 - file: appcc
 - file: contacto
 ---

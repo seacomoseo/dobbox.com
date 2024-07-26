@@ -6,10 +6,10 @@ description: llll➤ Con nuestra API pública y gratuita podrás facilitar la vi
 image: ecosistema-dobbox.png
 draft: false
 noindex: false
-translationKey: home
+translationKey: api
 sections:
-- file: api-header
-- file: api-ecosistema
-- file: api-para-ti
+- file: api/header
+- file: api/ecosistema
+- file: api/para-ti
 - file: appcc
 ---
