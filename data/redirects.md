@@ -172,3 +172,11 @@
 /media/informe-temperatura-ejemplo.pdf /media/pdf/informe-temperatura-ejemplo.pdf
 /media/orden-de-pedido-dobbox.pdf /media/pdf/orden-de-pedido-dobbox.pdf
 /media/1bvdmut9ov-tarifas-instalador-hosteleria-dobbox-2024.pdf /media/pdf/1bvdmut9ov-tarifas-instalador-hosteleria-dobbox-2024.pdf
+
+# 2024-09-18
+/blog/page/2/ /blog/
+/appcc-principios- /appcc-principios-prerrequisitos/
+/trucos- /trucos-prevenir-salmonella/
+/acceso-app-movil/ https://app.dobbox.com/
+/wp-content/uploads/2021/06/Ficha-tecnica-Receptor-Wi-Fi.pdf /
+/wp-content/uploads/2021/06/Ficha-tecnica-Sensor.pdf /
