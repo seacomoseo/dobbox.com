@@ -180,3 +180,8 @@
 /acceso-app-movil/ https://app.dobbox.com/
 /wp-content/uploads/2021/06/Ficha-tecnica-Receptor-Wi-Fi.pdf /
 /wp-content/uploads/2021/06/Ficha-tecnica-Sensor.pdf /
+
+# 2024-10-29
+/politica-de-privacidad/ /privacidad/
+/media/captura-camaras.webp /media/camara-frigorifica.webp
+/busca-tu- /busca-tu-instalador/
