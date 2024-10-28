@@ -183,5 +183,5 @@
 
 # 2024-10-29
 /politica-de-privacidad/ /privacidad/
-/media/captura-camaras.webp /media/camara-frigorifica.webp
+/media/captura-camaras.webp /media/camara-frigorifica.png
 /busca-tu- /busca-tu-instalador/
