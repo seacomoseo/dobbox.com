@@ -5,7 +5,7 @@ slug: evitar-perdidas-refrigeracion-hosteleria
 description: El 30% de la comida desperdiciada en hostelería se debe a fallos en
   la refrigeración. Descubre cómo evitar pérdidas económicas y garantizar la
   seguridad alimentaria con soluciones tecnológicas avanzadas.
-image: portadas_blog_dobbox-1-.png
+image: ''
 categories:
 - general
 tags: []
