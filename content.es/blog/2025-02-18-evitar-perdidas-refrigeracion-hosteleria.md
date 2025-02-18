@@ -13,7 +13,7 @@ author: ''
 toc: true
 draft: false
 noindex: false
-date: 2025-02-18
+date: 2025-02-18T10:00:00
 lastmod: ''
 ---
 ## **La importancia del control de temperatura en hostelería**
