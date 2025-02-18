@@ -11,7 +11,7 @@ toc: true
 draft: false
 noindex: false
 date: 2019-09-18T12:54:19
-lastmod: ''
+# lastmod: ''
 ---
 
 - **[Salmonella](/trucos-prevenir-salmonella/):** La encontramos en carne de ternera, carne de aves de corral, huevos o leche. Elimínala cocinando el alimento a 75ºC durante unos minutos y consérvalos por debajo de 5ºC.

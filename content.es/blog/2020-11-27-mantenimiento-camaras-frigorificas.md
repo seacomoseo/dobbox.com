@@ -11,7 +11,7 @@ toc: true
 draft: false
 noindex: false
 date: 2020-11-27T12:22:17
-lastmod: ''
+# lastmod: ''
 ---
 
 ### Más del 80% de las averías son provocadas por falta de mantenimiento de cámaras frigoríficas

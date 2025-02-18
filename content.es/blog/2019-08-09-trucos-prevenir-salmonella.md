@@ -11,7 +11,7 @@ toc: true
 draft: false
 noindex: false
 date: 2019-08-09T7:24:15
-lastmod: ''
+# lastmod: ''
 ---
 
 **La intoxicación por Salmonella** es una de las enfermedades causada por bacterias y transmitidas por alimentos más comunes en todo el mundo.

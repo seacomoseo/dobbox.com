@@ -11,7 +11,7 @@ toc: true
 draft: false
 noindex: false
 date: 2019-10-01T13:35:34
-lastmod: ''
+# lastmod: ''
 ---
 
 Ordenar las cámaras frigoríficas correctamente favorece la productividad de todo el personal y disminuye notablemente los riesgos higiénico – sanitarios tales como la contaminación cruzada las intoxicaciones alimentarias.

@@ -11,7 +11,7 @@ toc: true
 draft: false
 noindex: false
 date: 2020-06-30T12:36:35
-lastmod: ''
+# lastmod: ''
 ---
 
 Con la llegada del COVID-19, la tecnología se ha hecho totalmente necesaria para el sector de la hostelería. Los **restaurantes** en concreto están dando el **salto a la digitalización** para adaptarse a esta nueva situación, con tres propósitos:

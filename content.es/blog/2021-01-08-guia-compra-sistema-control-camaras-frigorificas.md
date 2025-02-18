@@ -11,7 +11,7 @@ toc: true
 draft: false
 noindex: false
 date: 2021-01-08T16:27:53
-lastmod: ''
+# lastmod: ''
 ---
 
 ## ¿Qué es el sistema de control de cámaras frigoríficas doBBox?

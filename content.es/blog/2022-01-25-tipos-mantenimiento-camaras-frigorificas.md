@@ -11,7 +11,7 @@ toc: true
 draft: false
 noindex: false
 date: 2022-01-25T16:01:42
-lastmod: ''
+# lastmod: ''
 ---
 
 El mantenimiento de las cámaras frigoríficas influye directamente en su ciclo de vida. Si las inspecciones se realizan de forma periódica y se comprueba que todo está bien se consigue alargar la vida útil de la cámara. Existen 3 tipos de mantenimiento: predictivo, preventivo y correctivo.

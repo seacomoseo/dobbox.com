@@ -11,7 +11,7 @@ toc: true
 draft: false
 noindex: false
 date: 2021-02-05T14:29:30
-lastmod: ''
+# lastmod: ''
 ---
 
 ## El control de temperatura y humedad es de vital importancia

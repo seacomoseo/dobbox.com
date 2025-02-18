@@ -11,7 +11,7 @@ toc: true
 draft: false
 noindex: false
 date: 2019-11-13T17:16:13
-lastmod: ''
+# lastmod: ''
 ---
 
 ## ¿Qué es la cadena de frío?

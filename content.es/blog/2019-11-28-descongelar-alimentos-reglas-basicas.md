@@ -11,7 +11,7 @@ toc: true
 draft: false
 noindex: false
 date: 2019-11-28T17:46:10
-lastmod: ''
+# lastmod: ''
 ---
 
 ## 6 reglas básicas a debes tener en cuenta al descongelar alimentos

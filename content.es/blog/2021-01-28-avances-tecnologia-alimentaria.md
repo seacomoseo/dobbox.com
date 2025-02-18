@@ -11,7 +11,7 @@ toc: true
 draft: false
 noindex: false
 date: 2021-01-28T16:33:28
-lastmod: ''
+# lastmod: ''
 ---
 
 Las nuevas tecnologías y en concreto, la tecnología alimentaria, juega un papel muy importante en nuestro día a día. La tecnología, en general, las podemos encontrar desde el momento que vamos a comprar el pan y pagamos con el móvil, hasta cuando reservamos una cita para el medico mediante una plataforma digital.
