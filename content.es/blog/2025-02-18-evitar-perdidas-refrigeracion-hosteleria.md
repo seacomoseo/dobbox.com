@@ -9,7 +9,7 @@ image: evitar-perdidas-refrigeracion-hosteleria.png
 categories:
 - general
 tags: []
-author: ''
+author: 
 toc: true
 draft: false
 noindex: false
