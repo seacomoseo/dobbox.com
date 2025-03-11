@@ -1,0 +1,14 @@
+anchor: Control Inalámbrico de Temperatura y Humedad para Cámaras Frigoríficas con App
+bg: sistema-automatico-control-de-temperatura-dobbox.svg
+size: md
+rows:
+- type: columns
+  design:
+    num: 3
+    gap: 2
+    align: left
+  items:
+  - title: Automatiza el control de pH y cloro en tu establecimiento
+    image: ph-cloro.webp
+    span: 2
+  - image: movil/app-grande.webp

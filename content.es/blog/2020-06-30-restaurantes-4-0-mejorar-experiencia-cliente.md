@@ -30,7 +30,7 @@ Evitar el contacto y la manipulación del dinero es una de las principales medid
 - [Stripe](https://stripe.com/es), [Izettle](https://www.zettle.com/es), [Sumup](https://www.sumup.com/es-es/?gclid=CjwKCAjwxev3BRBBEiwAiB_PWCgz8dazJfXMAoxJdDrsN9lMENAoyRYNx3BKu0fHsXeZlE3D8jGSoxoC_tsQAvD_BwE) son pasarelas y terminales de pago integrables o integradas con el TPV que permite realizar pagos por Internet.
 - [Cashdro](https://www.cashdro.com/es/) proporciona máquinas para el pago en efectivo sin contacto entre personas.
 - [Bizum](https://bizum.es/) es una opción para pago entre particulares asociado a un número de móvil por lo que no es necesario proporcionar datos bancarios ni utilizar tarjeta de crédito.
-- [Pay-Cui](https://paycui.com/ "nofollow") permite a los clientes ver su cuenta, pagar o incluso dividirla.
+- [Pay-Cui](https://paycui.com/ "[nofollow]") permite a los clientes ver su cuenta, pagar o incluso dividirla.
 - [Watson](https://thewatsonapp.com/) es una app para pedir y pagar sin perder el tiempo.
 
 ## Gestión de reservas y aforo
@@ -38,7 +38,7 @@ Evitar el contacto y la manipulación del dinero es una de las principales medid
 Los restaurantes con gran cantidad de mesas deben ahora redistribuirlas. También se puede optar por una gestión escalonada del aforo para evitar riesgos por el contacto de clientes.
 
 - [Cover Manager](https://www.covermanager.com/) y [The Fork Manager](https://www.theforkmanager.com/es-es) permiten gestionar no-shows y organizar los servicios por franjas horarias.
-- [Ressbook](https://www.ressbook.es/ "nofollow") es un sistema de gestión de reservas que automatiza la gestión de las reservas y te da la posibilidad de comunicarte directamente con tus clientes para fidelizarlos.
+- [Ressbook](https://www.ressbook.es/ "[nofollow]") es un sistema de gestión de reservas que automatiza la gestión de las reservas y te da la posibilidad de comunicarte directamente con tus clientes para fidelizarlos.
 
 ## APPCC, higiene y seguridad en restaurantes
 
@@ -52,7 +52,7 @@ El sistema APPCC debe ser ahora controlado más que nunca en los restaurantes. L
 Con el objetivo de evitar la manipulación de la carta por parte de muchas personas, existen opciones digitales.
 
 - Con [QR Code Generator](https://es.qr-code-generator.com/) puedes generar un código QR para que los clientes lo escaneen y accedan directamente la carta en tu web.
-- [Gofoodie](https://gofoodie.app/carta-digital/ "nofollow"): ofrece un servicio de conversión de cartas físicas a cartas digitales, más seguras y más atractivas para el usuario que podrá consultarlas desde sus móviles.
+- [Gofoodie](https://gofoodie.app/carta-digital/ "[nofollow]"): ofrece un servicio de conversión de cartas físicas a cartas digitales, más seguras y más atractivas para el usuario que podrá consultarlas desde sus móviles.
 - [Vitamojo](https://www.vitamojo.com/) es software para visualizar y personalizar los menús y que además permite pedir directamente desde el móvil, ordenador o tablet.
 
 Existen otras alternativas como el desarrollo de una app propia para los restaurantes con múltiples funcionalidades e incluso tener la carta en un perfil de Instagram accesible para todo el mundo donde muestres fotos de tus platos y sus precios.

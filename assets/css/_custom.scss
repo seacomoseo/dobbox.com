@@ -70,3 +70,38 @@
     }
   }
 }
+
+// ph-cloro
+
+#body-automatiza-el-control-de-ph-y-cloro-en-tu-establecimiento {
+  #header {
+    .column--item-1 .column__header {
+      order: -1;
+      margin: 0;
+    }
+    .column--item-2 {
+      transform: rotate(5deg);
+    }
+  }
+  #problemas {
+    .columns .column .bg-color {
+      border: .25em red solid;
+    }
+  }
+  #soluciones {
+    .columns .section__title > * {
+      color: var(--main);
+    }
+  }
+  #ahorro {
+    .section__title > * {
+      color: var(--link);
+      font-size: 2.25em;
+    }
+  }
+  #formulario {
+    .section__title > * {
+      color: var(--title);
+    }
+  }
+}

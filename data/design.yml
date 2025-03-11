@@ -1,7 +1,6 @@
 icons:
   type: light
-  emojis: ''
-  emojis_default: false
+  emojis: false
 fonts:
   google: true
   base:

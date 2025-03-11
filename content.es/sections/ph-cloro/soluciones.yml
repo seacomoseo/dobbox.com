@@ -1,0 +1,17 @@
+anchor: Soluciones
+subtitle: Ha llegado el momento de digitalizar este proceso
+rows:
+- type: columns
+  design:
+    gap: 2
+    icon: circle-check
+    icon_size: 1
+    icon_color: link
+    title_size: 0.75
+  items:
+  - title: Medición en <br> tiempo real
+    subtitle: sin intervención <br> manual
+  - title: Datos almacenados <br> en la nube
+    subtitle: accesibles en <br> cualquier momento
+  - title: Cumplimiento <br> normativo
+    subtitle: sin papeleo ni <br> margen de error
