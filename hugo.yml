@@ -1,5 +1,6 @@
 baseURL: https://dobbox.com
-Paginate: 48
+pagination:
+  pagerSize: 24
 buildFuture: false
 theme: [sansoul]
 params:
@@ -13,7 +14,8 @@ defaultContentLanguage: es
 disableLanguages: [en,fr]
 languages:
   es:
-    paginatePath: pagina
+    pagination:
+      path: pagina
     permalinks:
       page:
         pages: :slug
