@@ -1,41 +1,22 @@
-title: doBBox
-description: Sistema de control inalámbrico (mediante App) de temperatura y humedad para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
-logo: logo-alt.svg
-legal_name: Data Of Business Box, S.L.
-legal_dni: B01663418
-legal_email: hola@dobbox.com
-legal_location: C. de Molina de Segura, 5, Bloque 3, 1A, 30007 Murcia
-country: España
-location_type:
-- Organization
-- LocalBusiness
-alternate_name:
-- doBBox - Sistema de control de temperatura
-price_range: ''
-google_analytics: G-TE5NJF5LYZ
-google_site_verification: ''
-google_file_verification: google7467d923cbb3eb4c.html
-disqus: ''
-cookies_legal: false
-analytics_pagespeed: true
-process_all_images: false
-cms: true
-cms_editorial_workflow: false
-development: false
-custom_code:
-  html_head:
-    code: ''
-    lang: html
-  html_body:
-    code: ''
-    lang: html
-  css:
-    code: ''
-  js:
-    code: ''
-    lang: javascript
-social:
-- link: https://www.facebook.com/doBBox/
-- link: https://www.linkedin.com/company/dobbox/
-- link: https://www.instagram.com/dobboxfrio/
-- link: https://g.page/r/CWSvbD-vfW33EBM
+langs:
+- lang: es
+  title: doBBox
+  description: Sistema de control inalámbrico (mediante App) de temperatura y humedad para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
+  google_file_verification: google7467d923cbb3eb4c.html
+  email: formularios-web@dobbox.com
+params:
+- name: footer
+  label: Footer
+  widget: object
+  params:
+  - var: BOX_DOTS
+  - name: boxes
+    label: Cajas
+    widget: list
+    params:
+    - var: BOX_MD
+defaults:
+- name: author
+  value: admin
+  path:
+  - /blog/*

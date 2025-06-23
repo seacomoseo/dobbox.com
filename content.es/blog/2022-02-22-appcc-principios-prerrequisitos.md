@@ -1,12 +1,10 @@
 ---
 title: 'APPCC: Principios y prerrequisitos'
-title_seo: 'APPCC: Descubre los 7 principios y prerrequisitos'
+seo: 'APPCC: Descubre los 7 principios y prerrequisitos'
 slug: appcc-principios-prerrequisitos
 description: 'El APPCC es un método preventivo de gestión de la inocuidad de los alimentos y se utiliza en toda la cadena alimentaria.'
 image: blog/appcc-principios-prerrequisitos.png
-categories: [general]
-tags: []
-author: 
+category: [general]
 toc: true
 draft: false
 noindex: false

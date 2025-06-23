@@ -1,0 +1,15 @@
+title: Blog
+base: article
+order: 1
+name: blog
+related: true
+es:
+  permalinks: ''
+tpl:
+  list:
+    card: false
+    color: similar
+    align: left
+    inset: true
+    md: ''
+    hs: 6

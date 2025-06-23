@@ -1,0 +1,92 @@
+icons:
+  type: light
+  sharp: false
+  emojis: false
+  play: youtube-iframe
+  up:
+  down:
+  left:
+  right:
+fonts:
+  base:
+    google: false
+    family: Poppins
+    weight: 300
+    bold: 0
+    italic: false
+    line_height: 1.5
+  cursive:
+    google: false
+    family: Poppins
+    weight: 500
+    bold: 0
+    italic: false
+    line_height: 1.5
+    size: 1
+    top: 0
+  title:
+    google: false
+    family: Poppins
+    weight: 500
+    bold: 0
+    italic: false
+    line_height: 1.5
+    size: 1
+    top: 0
+  blockquote_cursive: false
+colors:
+  main:
+    color: '#00acc8'
+    light: ''
+    dark: ''
+    contrast:
+      fill: false
+      in: true
+      text: false
+  alt:
+    color: ''
+    light: ''
+    dark: ''
+    contrast:
+      fill: true
+      in: true
+      text: true
+  cta:
+    color: '#ff9933'
+    light: ''
+    dark: ''
+    contrast:
+      fill: false
+      in: false
+      text: false
+  base:
+    white: '#fff'
+    light: '#f2f2f2'
+    gray: '#767676'
+    dark: '#444'
+    black: '#000'
+rounded:
+  radius: 0.25
+  chamfer: false
+buttons:
+  sides_round: false
+  icon_circle: true
+  deep: false
+  outline: false
+  font:
+    type: title
+    bold: false
+    uppercase: true
+  swap:
+    type: base
+    bold: false
+    uppercase: false
+inputs:
+  fill: true
+  labels_out: false
+shadow:
+  left: 0
+  top: 0
+  blur: 0
+  color: black
+  alpha: 1

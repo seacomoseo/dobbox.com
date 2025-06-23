@@ -1,8 +1,0 @@
-anchor: Instaladores
-title: ¿Quieres incorporar el sistema doBBox en tu local?
-subtitle: Contacta con el instalador autorizado de tu zona
-rows:
-- type: contact
-  map:
-    active: true
-    iframe: https://www.google.com/maps/d/embed?mid=1Pi71Xz5GMnbwCIe50ZG0ta0DL6NWSws&ehbc=00ACC8

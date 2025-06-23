@@ -1,22 +1,20 @@
 ---
 title: Cómo evitar pérdidas por fallos en la refrigeración en hostelería
-title_seo: 'Evita pérdidas en hostelería: Control de temperatura eficaz'
+seo: 'Evita pérdidas en hostelería: Control de temperatura eficaz'
 slug: evitar-perdidas-refrigeracion-hosteleria
 description: El 30% de la comida desperdiciada en hostelería se debe a fallos en
   la refrigeración. Descubre cómo evitar pérdidas económicas y garantizar la
   seguridad alimentaria con soluciones tecnológicas avanzadas.
 image: evitar-perdidas-refrigeracion-hosteleria.png
-categories:
+category:
 - general
-tags: []
-author: 
 toc: true
 draft: false
 noindex: false
 date: 2025-02-18
 # lastmod: ''
 ---
-## **La importancia del control de temperatura en hostelería**
+## La importancia del control de temperatura en hostelería
 
 En el sector de la hostelería, la seguridad alimentaria es un pilar fundamental. Cada año,miles de bares, restaurantes y hoteles enfrentan pérdidas económicas y riesgos sanitarios debido a fallos en la refrigeración. Estos problemas pueden derivarse de averías inesperadas, fallos eléctricos o incluso pequeñas desviaciones de temperatura que afectan la calidad de los alimentos.
 
@@ -24,7 +22,7 @@ Las normativas sanitarias exigen que los establecimientos hosteleros controlen y
 
 Un fallo en la temperatura de los equipos de refrigeración puede suponer pérdidas de hasta un **20% del stock**, afectando directamente la rentabilidad de un negocio hostelero.
 
-## **¿Cómo la tecnología está transformando la gestión de la refrigeración?**
+## ¿Cómo la tecnología está transformando la gestión de la refrigeración?
 
 Gracias a la digitalización y a los avances tecnológicos que permiten la conexión y automatización de dispositivos a través de internet, los negocios hosteleros pueden optimizar sus procesos y mejorar su seguridad alimentaria. Hoy en día, existen soluciones tecnológicas que permiten **automatizar el control de temperatura**, evitando problemas antes de que ocurran y garantizando el cumplimiento de normativas sin esfuerzo adicional.
 
@@ -34,19 +32,19 @@ históricos facilita la toma de decisiones y la mejora de procesos internos.
 
 El **desperdicio alimentario** es una problemática global. De hecho, el **1°C de más en una cámara frigorífica puede acelerar el crecimiento de bacterias** y reducir drásticamente la vida útil de los alimentos. Este factor impacta directamente en la sostenibilidad del sector y en la seguridad del consumidor.
 
-## **Una solución eficiente para la hostelería**
+## Una solución eficiente para la hostelería
 
 Un sistema automático de control de temperatura, diseñado específicamente para negocios que dependen de una correcta refrigeración. Gracias a su tecnología avanzada, permite:
 
-- icon-check [Monitoreo en tiempo real](https://dobbox.com/#control) de la temperatura de las cámaras frigoríficas y congeladores.
-- icon-check [Alertas automáticas](https://dobbox.com/#tranquilidad) en caso de desviaciones de temperatura o averías.
-- icon-check **Registro automático de datos**, eliminando la necesidad de controles manuales. 
-- icon-check **Cumplimientode normativas sanitarias**, con [informes listos](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/#informes) para inspecciones. 
-- icon-check **Reducción de costes energéticos y de mantenimiento**, optimizando la gestión de equipos frigoríficos.
+- :check: [Monitoreo en tiempo real](https://dobbox.com/#control) de la temperatura de las cámaras frigoríficas y congeladores.
+- :check: [Alertas automáticas](https://dobbox.com/#tranquilidad) en caso de desviaciones de temperatura o averías.
+- :check: **Registro automático de datos**, eliminando la necesidad de controles manuales. 
+- :check: **Cumplimientode normativas sanitarias**, con [informes listos](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/#informes) para inspecciones. 
+- :check: **Reducción de costes energéticos y de mantenimiento**, optimizando la gestión de equipos frigoríficos.
 
 Esta tecnología no solo aporta [tranquilidad y seguridad](https://dobbox.com/#para-ti) a los negocios hosteleros, sino que también permite **una mayor eficiencia operativa** al reducir tiempos de supervisión manual y riesgos de errores humanos.
 
-### **Datos clave sobre la refrigeración en hostelería**
+### Datos clave sobre la refrigeración en hostelería
 
 - **El 30% de la comida que se desperdicia en restaurantes se debe a fallos en la refrigeración**.
 - **Las multas por incumplimiento de normativas sanitarias pueden superar los 600.000€**.
@@ -55,13 +53,13 @@ Esta tecnología no solo aporta [tranquilidad y seguridad](https://dobbox.com/#p
 
 Dado el impacto económico y sanitario que pueden generar estos problemas, contar con una solución eficaz de monitoreo de temperatura se ha convertido en una necesidad para cualquier establecimiento que maneje productos perecederos.
 
-### **Casos reales: la falta de control de temperatura y sus consecuencias**
+### Casos reales: la falta de control de temperatura y sus consecuencias
 
 Un ejemplo reciente de los problemas que puede generar un mal control de temperatura es el caso confirmado por la Junta de Andalucía, donde la bacteria “[Clostridium perfringens](https://www.saludcastillayleon.es/es/seguridadalimentaria/datos-claves-prevencion-riesgos-microbiologicos/intoxicaciones/clostridium-perfringens)”  fue hallada en alimentos debido a una mala refrigeración. Puedes leer más sobre este caso aquí: [Noticia sobre fallos en la cadena de frío](https://www.lavanguardia.com/comer/expres/20250122/10308074/junta-andalucia-confirma-bacteria-clostridium-perfringens-montaditos-pringa-taberna-sacristia-pmv.html).
 
 Estos casos muestran cómo la tecnología puede ayudar a mejorar la seguridad alimentaria y la gestión operativa de los [negocios hosteleros](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/#clientes).
 
-### **Innovación en la hostelería: un camino hacia el futuro**
+### Innovación en la hostelería: un camino hacia el futuro
 
 La implementación de soluciones tecnológicas en la hostelería no es una tendencia pasajera, sino una necesidad para mantenerse competitivo y cumplir con las normativas sanitarias.
 

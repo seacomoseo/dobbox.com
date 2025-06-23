@@ -1,0 +1,33 @@
+name: Informes
+title: Informes de temperatura automáticos
+subtitle: Listos para sanidad
+align: center
+hanchor: Informes
+box:
+  cols: 3
+  gap: 2
+  align: left
+  align_y: center
+boxes:
+- title: Informes de temperatura
+  md: |
+    El sensor de temperatura puede generar los **registros mensuales de temperatura** de todas tus cámaras frigoríficas de forma **automática**.
+
+    ¡Podrás configurar las 2 horas de tomas de temperatura, despreocupándote de tener que tomar la temperatura a mano cada día!
+
+    Los informes están siempre en la app y plataforma web preparados para **descargar y compartir**.
+
+    ¡Despreocúpate de las inspecciones sanitarias!
+- image: movil/informe-temperatura.png
+  label: Informe de ejemplo
+  link: pdf/informe-temperatura-ejemplo.pdf
+  align: center
+- title: Informes de temperatura máxima y mínima
+  md: |
+    El sistema puede generar el **informe automático mensual de las temperaturas diarias máximas y mínimas**.
+
+    ¡Podrás olvidarte de tomar la temperatura máxima y mínima de tus cámaras diariamente! Tus registros siempre serán los correctos.
+
+    Los informes están siempre preparados para **compartir y descargar**.
+
+    Ten la total tranquilidad en una inspección sanitaria en tu farmacia con doBBox

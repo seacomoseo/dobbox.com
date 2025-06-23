@@ -1,0 +1,39 @@
+footer:
+  color: light
+  dots:
+  - link: https://www.facebook.com/doBBox/
+  - link: https://www.linkedin.com/company/dobbox/
+  - link: https://www.instagram.com/dobboxfrio/
+  - link: https://g.page/r/CWSvbD-vfW33EBM
+  boxes:
+  - md: |
+      [![](base/logo.svg)](/)
+
+      Data Of Business BOX S.L.
+
+      - :phone:    [968 472 663](tel:+43968472663)
+      - :envelope: hola@dobbox.com
+      {.holi}
+
+
+      - [![Descarga para Android en la Play Store](playstore.svg)](https://play.google.com/store/apps/details?id=com.dobbox.bcw&gl=ES)
+      - [![Descarga para iPhone en la App Store](appstore.svg)](https://apps.apple.com/es/app/dobbox-frio/id1532862054#?platform=iphone)
+      {.apps .list-inline}
+  - md: |
+      - :circle-question:  [Preguntas frecuentes](/preguntas-frecuentes/)
+      - :paper-plane:      [Contacto](/#contacto)
+      - :sensor-on:        [Funcionamiento](/catalogo-sensor-de-temperatura-receptor/)
+      - :magnifying-glass: [Busca tu instalador](/busca-tu-instalador/)
+      - :user:             [Alta instalador](/alta-instalador-dobbox-frio-aumenta-servicio/)
+  - md: |
+      - :rss:                   [Blog](/blog/)
+      - :newspaper:             [Prensa](/prensa/)
+      - :hand-holding-seedling: [Subvención](/subvencion/)
+      - :brackets-curly:        [API](/api-dobbox-frio-publica-gratuita/)
+      - :right-to-bracket:      [Acceso Plataforma](https://app.dobbox.com/)
+  - md: |
+      - :scale-balanced: {{< internal-link legal >}}
+      - :shield-keyhole: {{< internal-link privacy >}}
+      - :cookie-bite:    {{< internal-link cookies >}}
+      - :copyright:      {{< internal-link index >}}
+      - :seacomoseo:     [Diseño seacomoseo.com](https://seacomoseo.com/)

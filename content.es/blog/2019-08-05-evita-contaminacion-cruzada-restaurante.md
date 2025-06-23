@@ -1,12 +1,10 @@
 ---
 title: 'Contaminación cruzada: 9 medidas para evitarla'
-title_seo: 'Contaminación cruzada: 9 medidas para evitarla - doBBox frío'
+seo: 'Contaminación cruzada: 9 medidas para evitarla - doBBox frío'
 slug: evita-contaminacion-cruzada-restaurante
 description: 'La contaminación cruzada es el proceso mediante el cual los alimentos contaminados entran en contacto con otros limpios y que terminan por contaminarse como'
 image: blog/evita-contaminacion-cruzada-restaurante.png
-categories: [general]
-tags: []
-author: 
+category: [general]
 toc: true
 draft: false
 noindex: false
@@ -38,7 +36,7 @@ La contaminación cruzada es una de las causas más habituales de intoxicación 
 - Utilizar **utensilios diferentes para cada alimento**, renovarlos periódicamente y lavarlos muy bien después de cada uso. También es recomendable utilizar tablas de plástico (evitar porosidades) de diferentes colores destinadas a diferentes producto
 - Evitar que se descongelen los alimentos, utilizando sistemas para el control de las cámaras frigoríficas, como el de [doBBox](/), que te avisa en todo momento del estado de tus cámaras y te alerta de las posibles averías.
 
-## **El truco de los colores para evitar la contaminación** cruzada
+## El truco de los colores para evitar la contaminación cruzada
 
 ¿Lo conocías? El **color de las tablas de cortar** no es solo un tema estético. Se usan para **identificarlas según los alimentos** que se cortan en las mismas. Así se evita la **contaminación cruzada**, además de la mezcla de _sabores_ y _olores_.
 

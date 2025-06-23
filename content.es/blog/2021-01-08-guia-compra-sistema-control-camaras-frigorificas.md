@@ -1,12 +1,10 @@
 ---
 title: 'Sistema de control de cámaras frigoríficas'
-title_seo: 'Sistema de control de cámaras frigoríficas - doBBox frío'
+seo: 'Sistema de control de cámaras frigoríficas - doBBox frío'
 slug: guia-compra-sistema-control-camaras-frigorificas
 description: 'doBBox es el sistema de control de cámaras frigoríficas ideal para tu establecimiento. Podrás dormir tranquilo sabiendo que todo está bajo control'
 image: blog/guia-compra-sistema-control-camaras-frigorificas.png
-categories: [general]
-tags: []
-author: 
+category: [general]
 toc: true
 draft: false
 noindex: false
@@ -65,4 +63,4 @@ El sistema es capaz de controlar también la humedad relativa de tus cámaras. D
 - En caso de que haya algún fallo, estarás informado al instante para poder solucionarlo cuanto antes.
 - Además podrás ahorrar dinero en el consumo eléctrico y en el mantenimiento de tus equipos, y no tirar nunca más alimentos a la basura.
 
-[btn Comprar](/busca-tu-instalador/)
+[[Comprar]](/busca-tu-instalador/)

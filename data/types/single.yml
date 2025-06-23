@@ -1,0 +1,23 @@
+title: Únicas
+order: 0
+base: single
+tpl:
+  section:
+  - size: lg
+    parallax: fix
+    alpha: 0.8
+  modal:
+    caps: true
+  list:
+    cols: 3
+    card: false
+    color: similar
+    align: center
+    shade: true
+    inset: true
+    image: hide
+    icon: ''
+    hs: 4
+    md: hide
+    button: cta
+    tags: []
