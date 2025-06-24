@@ -8,7 +8,7 @@ category: [general]
 toc: true
 draft: false
 noindex: false
-date: 2019-09-18T12:54:19
+date: 2019-09-18 12:54:19
 # lastmod: ''
 ---
 
