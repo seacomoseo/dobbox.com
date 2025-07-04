@@ -10,26 +10,26 @@ Esta semana se celebró el [Día Mundial de la Fruta](https://www.instagram.com/
 
 Porque cuando las temperaturas suben, un simple descuido puede convertirse en una pérdida millonaria.
 
-### El enemigo silencioso: fallos térmicos sin detección
+## El enemigo silencioso: fallos térmicos sin detección
 
 Las cámaras de frío son esenciales en la conservación de frutas, pero no son infalibles. Un sensor descalibrado, una puerta mal cerrada o un fallo en el sistema de refrigeración puede elevar la temperatura por encima del umbral crítico… sin que nadie lo note a tiempo.
 
 El resultado: fermentación, maduración acelerada, pérdida de textura y sabor. Y en muchos casos, el deterioro es irreversible antes de que se detecte el problema.
 
-### El error no está en que falle una cámara, sino en no saberlo a tiempo
+## El error no está en que falle una cámara, sino en no saberlo a tiempo
 
 La diferencia entre prevenir una pérdida y asumir un daño total está en la **visibilidad y el control en tiempo real**. Con sistemas tradicionales, los registros suelen ser manuales y reactivos. Para cuando se detecta el fallo, el producto ya está comprometido.
 
 
 [Dobbox](https://dobbox.com/) cambia este escenario: con [monitoreo continuo 24/7](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/), alertas instantáneas y reportes automáticos, permite actuar en el momento exacto en que ocurre la desviación térmica. Sin esperar, sin depender del factor humano.
 
-### Control total = calidad garantizada
+## Control total = calidad garantizada
 
 La trazabilidad térmica que ofrece Dobbox no solo protege el producto, también fortalece la gestión operativa y asegura el cumplimiento normativo. Es información confiable, en tiempo real, disponible desde cualquier dispositivo.
 
 Y en un entorno donde la calidad del producto es clave para exportar y mantener la confianza del cliente, esa capacidad de anticipación marca una diferencia estratégica.
 
-### Este Día Mundial de la Fruta, el desafío no está solo en producir bien. Está en conservar sin fallos.
+## Este Día Mundial de la Fruta, el desafío no está solo en producir bien. Está en conservar sin fallos.
 
 Las cámaras frigoríficas deben ser una garantía, no una vulnerabilidad. Y la única forma de asegurarlo es con datos, monitoreo continuo y sistemas que no descansen.
 

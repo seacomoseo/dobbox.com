@@ -20,3 +20,8 @@ defaults:
   value: admin
   path:
   - /blog/*
+- name: index
+  value: 'false'
+  type: boolean
+  path:
+  - /blog/*
