@@ -5,7 +5,7 @@ slug: privacidad
 description: ''
 image: ''
 icon: shield-keyhole
-toc: false
+toc: true
 draft: false
 noindex: true
 translationKey: privacy
