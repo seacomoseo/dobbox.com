@@ -4,7 +4,7 @@ title: 'La Manga: 146 afectados y 21 hospitalizados por salmonelosis'
 summary: 'Salud eleva a 146 los casos y a 21 los hospitalizados tras el brote en el Hotel Cavanna. La cocina sigue clausurada e investigación en curso. Clave: cadena de frío y trazabilidad.'
 image: /salmonela.png
 date: 2025-08-26 15:44:41
-toc: true
+toc: false
 category: null
 author: null
 description: 'La Manga: 146 afectados y 21 hospitalizados por salmonelosis. Investigación en curso. ➤ Cadena de frío y registros ✓ para reducir riesgos.'
