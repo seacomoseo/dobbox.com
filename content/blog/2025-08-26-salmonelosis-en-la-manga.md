@@ -1,45 +1,56 @@
 ---
-slug: salmonelosis-en-la-manga
-title: 'La Manga: 146 afectados y 21 hospitalizados por salmonelosis'
-summary: 'Salud eleva a 146 los casos y a 21 los hospitalizados tras el brote en el Hotel Cavanna. La cocina sigue clausurada e investigación en curso. Clave: cadena de frío y trazabilidad.'
-image: /salmonela.png
-date: 2025-08-26 15:44:41
-toc: false
+slug: reducir-gastos-desperdicios-almacen-frigorifico
+title: 'Reducir gastos y desperdicios en almacenamiento frigorífico: cómo traducir la tendencia global a tu cocina y cámaras'
+summary: La demanda de frío crece y el sector se profesionaliza. ¿Qué significa “reducir gastos y desperdicios en almacenamiento frigorífico” para hostelería y alimentación? Detección, análisis y control para no romper la cadena de frío.
+image: blog/portada-reducir-gastos-y-desperdicios-en-almacenamiento-frigorifico.jpg
+date: 2025-10-08 09:17:48
 category: null
 author: null
-description: 'La Manga: 146 afectados y 21 hospitalizados por salmonelosis. Investigación en curso. ➤ Cadena de frío y registros ✓ para reducir riesgos.'
 ---
-# 146 afectados y 21 hospitalizados por un brote de salmonelosis en un hotel de La Manga: la cocina sigue clausurada mientras avanza la investigación
+En 2025, el frío ya no va solo de “tener más cámaras”, sino de **hacerlas trabajar mejor.** La presión por servir más frescos, reducir la factura energética y cumplir con Sanidad obliga a invertir con cabeza: capacidad bien planificada, flujos ordenados y **control continuo de la temperatura.** 
 
-El [brote de salmonelosis](https://dobbox.com/trucos-prevenir-salmonella/) detectado el fin de semana en el **Hotel Cavanna** (La Manga del Mar Menor) **afecta ya a 146 personas** y **21 permanecen hospitalizadas**, según la **Consejería de Salud**. Veinte de los pacientes (12 adultos y 8 menores) están ingresados en el **Hospital Santa Lucía** (Cartagena) y **una paciente** se encuentra en el **Virgen de la Arrixaca** (Murcia). Todos evolucionan **estables**.
 
-### Balance sanitario y operativo
 
-Durante el domingo y el lunes, la **afluencia a Urgencias del Santa Lucía** fue **masiva**, lo que motivó la **instalación de un hospital de campaña** en el salón de actos del hotel. El **061** movilizó cinco equipos para la atención in situ y para los traslados.
 
-### Investigación en curso y medidas adoptadas
 
-La **cocina del hotel continúa clausurada de forma cautelar**. Salud mantiene abierto el **protocolo de investigación epidemiológica**, que incluye:
+## ¿Por qué se habla tanto de inversión en frío?
 
-- **Toma de muestras de alimentos** y **coprocultivos** a manipuladores.
-- Un **estudio comparativo** entre los alimentos consumidos por las personas afectadas y por otras que comieron en el mismo establecimiento **sin enfermar**, para **identificar el vehículo de la infección**.
+•	**Consumo de frescos y preparados al alza:** presiona la infraestructura existente y exige ampliar o renovar cámaras. 
 
-El hotel ha manifestado su **colaboración** con las autoridades y ha activado **protocolos de desinfección** y refuerzo de atención a los huéspedes.
+•	**Mercado en expansión:** previsiones apuntan a crecimiento sostenido de capacidad frigorífica global hacia 2030, con inversión dirigida a modernizar instalaciones.
 
-### Contexto regional: una incidencia históricamente alta
+•	**Competencia y cumplimiento:** quien demuestra control continuo gana auditorías, reduce mermas y evita sanciones.
 
-La **Región de Murcia** figura entre las comunidades con **mayor tasa de salmonelosis**.
 
-- **2021:** 507 casos registrados.
-- **2023:** 1.077 (récord).
-- **2024:** 815 casos (descenso respecto a 2023), con **>2.400 análisis** para detectar _Salmonella_ (**+28%** vs. año anterior). Salud subraya que, aunque el sistema de vigilancia se ha reforzado (Sistema de Información Microbiológica desde 2020), **estas mejoras no explican por sí solas** la diferencia con otras regiones. Se apunta a **factores climáticos** (veranos más largos) y **otros posibles factores** aún por investigar. A día de hoy, **no hay confirmación oficial** del alimento responsable en el caso de La Manga.
 
-> Los síntomas de salmonelosis suelen aparecer entre 12 y 36 horas tras la exposición (hasta 72 h en algunos casos), con diarrea, vómitos, fiebre y dolor abdominal entre los más frecuentes.
 
-> **Fuentes:** Consejería de Salud y prensa regional (24–26 de agosto de 2025).
 
-## Prevención y cadena de frío
+## Qué significa en la práctica (para un restaurante, bar, hotel, cafeterías, o cash & carry)
 
-La investigación oficial determinará **origen y responsabilidades**. Con independencia de ello, la experiencia en seguridad alimentaria muestra que [mantener la cadena de frío](https://dobbox.com/cadena-frio-seguridad-alimentaria/) **y contar con registros automáticos y fiables** en cámaras frigoríficas [reduce de forma significativa el riesgo](https://dobbox.com/control-temperatura-humedad/) y ayuda a **acotar el impacto** si aparece un foco.
+**1.	Capacidad con cabeza:** ampliar volumen sin monitorización continua es multiplicar el riesgo. Añade sondas y conectividad en cada cámara nueva (o renovada).
 
-En **dobbox** trabajamos con [monitorización continua de cámaras](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/) para aportar **alerta temprana** y **trazabilidad APPCC**. Esta visibilidad operativa facilita que **una desviación de temperatura no pase inadvertida** en picos de servicio y que **quede documentada** la actuación correctiva, dificultando que productos **fuera de rango** lleguen a consumo.
+**2.	Ubicación y flujo:** repiensa la distribución del almacén para minimizar aperturas y recorridos.
+
+**3.	Instrumentación fiable:** registra automáticamente temperaturas y guarda históricos para inspecciones. Si no está medido, no existe.
+
+**4.	Mantenimiento predictivo:** invierte en detectar averías incipientes antes de que haya producto comprometido. 
+
+
+
+
+
+## El papel de doBBox en la inversión
+
+Al ampliar o renovar cámaras, **doBBox** te da el retorno operativo desde el primer día:
+
+•	**Alertas al momento** cuando una cámara sale de rango.
+
+•	**Detección de posibles averías** por patrones anómalos en los ciclos.
+
+**•	Vista** en **tiempo real** de **todas tus cámaras** (una sola pantalla).
+
+•	**Informes listos para Sanidad e histórico** para saber qué pasó y cuándo.
+
+**Resultado:** menos producto desperdiciado, clientes protegidos y auditorías fluidas, maximizando el ROI de tu inversión en frío.
+
+En este contexto, soluciones como **doBBox** convierten el almacén en un entorno medible y predecible: alertas al momento, detección temprana de averías e informes listos para inspección. ¿El resultado? **Menos desperdicios, más seguridad y un ROI tangible desde el primer día.**
