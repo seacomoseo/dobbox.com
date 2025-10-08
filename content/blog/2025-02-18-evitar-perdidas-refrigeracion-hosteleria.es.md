@@ -33,13 +33,13 @@ El **desperdicio alimentario** es una problemática global. De hecho, el **1°C 
 
 Un sistema automático de control de temperatura, diseñado específicamente para negocios que dependen de una correcta refrigeración. Gracias a su tecnología avanzada, permite:
 
-- :check: [Monitoreo en tiempo real](https://dobbox.com/#control) de la temperatura de las cámaras frigoríficas y congeladores.
-- :check: [Alertas automáticas](https://dobbox.com/#tranquilidad) en caso de desviaciones de temperatura o averías.
+- :check: [Monitoreo en tiempo real](/#control) de la temperatura de las cámaras frigoríficas y congeladores.
+- :check: [Alertas automáticas](/#tranquilidad) en caso de desviaciones de temperatura o averías.
 - :check: **Registro automático de datos**, eliminando la necesidad de controles manuales. 
-- :check: **Cumplimientode normativas sanitarias**, con [informes listos](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/#informes) para inspecciones. 
+- :check: **Cumplimientode normativas sanitarias**, con [informes listos](/catalogo-sensor-de-temperatura-receptor/#informes) para inspecciones. 
 - :check: **Reducción de costes energéticos y de mantenimiento**, optimizando la gestión de equipos frigoríficos.
 
-Esta tecnología no solo aporta [tranquilidad y seguridad](https://dobbox.com/#para-ti) a los negocios hosteleros, sino que también permite **una mayor eficiencia operativa** al reducir tiempos de supervisión manual y riesgos de errores humanos.
+Esta tecnología no solo aporta [tranquilidad y seguridad](/#para-ti) a los negocios hosteleros, sino que también permite **una mayor eficiencia operativa** al reducir tiempos de supervisión manual y riesgos de errores humanos.
 
 ### Datos clave sobre la refrigeración en hostelería
 
@@ -54,7 +54,7 @@ Dado el impacto económico y sanitario que pueden generar estos problemas, conta
 
 Un ejemplo reciente de los problemas que puede generar un mal control de temperatura es el caso confirmado por la Junta de Andalucía, donde la bacteria “[Clostridium perfringens](https://www.saludcastillayleon.es/es/seguridadalimentaria/datos-claves-prevencion-riesgos-microbiologicos/intoxicaciones/clostridium-perfringens)”  fue hallada en alimentos debido a una mala refrigeración. Puedes leer más sobre este caso aquí: [Noticia sobre fallos en la cadena de frío](https://www.lavanguardia.com/comer/expres/20250122/10308074/junta-andalucia-confirma-bacteria-clostridium-perfringens-montaditos-pringa-taberna-sacristia-pmv.html).
 
-Estos casos muestran cómo la tecnología puede ayudar a mejorar la seguridad alimentaria y la gestión operativa de los [negocios hosteleros](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/#clientes).
+Estos casos muestran cómo la tecnología puede ayudar a mejorar la seguridad alimentaria y la gestión operativa de los [negocios hosteleros](/catalogo-sensor-de-temperatura-receptor/#clientes).
 
 ### Innovación en la hostelería: un camino hacia el futuro
 

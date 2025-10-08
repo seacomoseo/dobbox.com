@@ -21,7 +21,7 @@ El resultado: fermentación, maduración acelerada, pérdida de textura y sabor.
 La diferencia entre prevenir una pérdida y asumir un daño total está en la **visibilidad y el control en tiempo real**. Con sistemas tradicionales, los registros suelen ser manuales y reactivos. Para cuando se detecta el fallo, el producto ya está comprometido.
 
 
-[Dobbox](https://dobbox.com/) cambia este escenario: con [monitoreo continuo 24/7](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/), alertas instantáneas y reportes automáticos, permite actuar en el momento exacto en que ocurre la desviación térmica. Sin esperar, sin depender del factor humano.
+[Dobbox](m/) cambia este escenario: con [monitoreo continuo 24/7](m/catalogo-sensor-de-temperatura-receptor/), alertas instantáneas y reportes automáticos, permite actuar en el momento exacto en que ocurre la desviación térmica. Sin esperar, sin depender del factor humano.
 
 ## Control total = calidad garantizada
 
@@ -36,5 +36,5 @@ Las cámaras frigoríficas deben ser una garantía, no una vulnerabilidad. Y la 
 **Con Dobbox, puedes detectar cualquier fallo térmico antes de que sea un problema.**
 Y en verano, eso puede marcar la diferencia entre éxito y pérdida.
 
-Descubre tu instalador más cercano [aquí](https://dobbox.com/busca-tu-instalador/)
+Descubre tu instalador más cercano [aquí](m/busca-tu-instalador/)
 
