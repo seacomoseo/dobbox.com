@@ -1,0 +1,50 @@
+name: Funcionamiento ➡️ Clientes
+title: Nuestros clientes
+subtitle: confían en dobbox
+hanchor: Clientes
+box:
+  cols: 5
+  cols_vs: 2
+  ratio: 16/9
+  contain: true
+  button: hide
+boxes:
+- image: logos/cuarentaytres.svg
+  link: https://cuarentaytres.com/
+- image: logos/airemar-restaurante.svg
+  link: http://airemar.es/
+- image: logos/areas.svg
+  link: https://areas.com/
+- image: logos/bombones-torres.svg
+  link: https://bombonestorres.com/
+- image: logos/confiteria-la-cruz.svg
+  link: http://www.confiteriaslacruz.com/
+- image: logos/confiterias-rodri.svg
+- image: logos/earmur.png
+  link: https://earmur.com/
+- image: logos/el-punaito.svg
+  link: https://elpunaito.eatbu.com/
+- image: logos/escuela-hosteleria-salamanca.svg
+  link: https://escuelahosteleriasalamanca.es/
+- image: logos/grupo-orenes.svg
+  link: https://orenesgrupo.com/
+- image: logos/grupo-drinkandeat.svg
+  link: https://www.grupodrinkandeat.es/
+- image: logos/madrugada.svg
+  link: https://www.instagram.com/la_madrugada_javier_moreno/
+- image: logos/livanti.svg
+  link: https://www.livanti.es/
+- image: logos/escuela-hosteleria-madrid.svg
+  link: https://eshtm.es/
+- image: logos/nueva-cocina-mediterranea.svg
+  link: https://nuevacocinamediterranea.es/
+- image: logos/panaderia-el-boticario.svg
+  link: https://artesanoselboticario.com/
+- image: logos/quique-dacosta.svg
+  link: https://www.quiquedacosta.es/
+- image: logos/restaurante-emboka.svg
+  link: https://www.emboka.com/
+- image: logos/roencar.svg
+  link: https://www.linkedin.com/company/roencar/
+- image: logos/la-tapeoteca.svg
+  link: https://www.latapeoteca.es/

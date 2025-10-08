@@ -1,0 +1,10 @@
+name: Instalador Alta ➡️ Pasos
+title: Descubre los pasos
+subtitle: para su instalación
+hanchor: Pasos
+box:
+  cols: 3
+boxes:
+- fit: 2
+  md: |
+    ![](https://youtu.be/gyByZzrSfJk)

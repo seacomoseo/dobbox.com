@@ -10,12 +10,12 @@ params:
   label: Footer
   widget: object
   params:
-  - var: BOX_DOTS
+  - var: box_dots
   - name: boxes
     label: Cajas
     widget: list
     params:
-    - var: BOX_MD
+    - var: box_md
 defaults:
 - name: author
   value: admin

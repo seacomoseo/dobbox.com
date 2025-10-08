@@ -1,10 +1,10 @@
 title: Blog
 base: article
-order: 1
+weight: 1
 name: blog
 related: true
 es:
-  permalinks: ''
+  permalinks: /
 tpl:
   list:
     card: false

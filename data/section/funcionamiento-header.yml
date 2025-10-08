@@ -1,0 +1,25 @@
+name: Funcionamiento ➡️ Header
+hanchor: Sensor y Registrador Industrial de Datos de Temperatura y Humedad
+title: El sensor de temperatura que ayuda a proteger tus productos
+subtitle: Despreocúpate de la conservación de tu género para siempre
+hs: 2
+align: left
+box:
+  cols: 2
+  gap: 5
+  align: left
+  align_y: center
+boxes:
+- image: moviles/captura-camaras.png
+- title: 0ºC Preocupaciones
+  md: |
+    - :check: Control de temperatura y humedad a tiempo real
+    - :check: Visualiza los datos desde la app y plataforma web
+    - :check: Conoce los datos de conservación desde cualquier dispositivo y a cualquier momento
+    - :check: Ahorra energía y dinero mejorando la eficiencia energética de tu cámara
+    - :check: Histórico de datos para conocer qué pasó en tu cámara un determinado momento
+    - :check: Registros de temperatura automáticos listos para Sanidad
+    - :check: Alarmas en tu móvil y correo para evitar perder tu producto
+    - :check: Anticípate a posibles averías en tus cámaras
+  label: ¡Lo quiero!
+  link: /busca-tu-instalador/#instaladores

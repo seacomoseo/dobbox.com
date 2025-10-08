@@ -9,47 +9,20 @@ tpl:
     sticky: auto
     logo_sticky: true
     color: white
-    es:
-      image: base/logo.svg
-      items:
-      - label: Inicio
-        link: /
-      - label: Funcionamiento
-        link: /catalogo-sensor-de-temperatura-receptor/
-      - label: Instaladores
-        items:
-        - label: Busca tu instalador
-          link: /busca-tu-instalador/
-        - label: Alta instalador
-          link: /alta-instalador-dobbox-frio-aumenta-servicio/
-      - label: Blog
-        link: /blog/
-      - label: FAQ
-        link: /preguntas-frecuentes/
-      - label: Acceso Plataforma
-        link: https://app.dobbox.com/
-        button: main
-        lock: true
-      # - link: /buscador/
-      #   icon: magnifying-glass
-  callnow:
-    show: items
-    es:
-    - type: whatsapp
-      label: 968 472 663
+  callnow: custom
   section:
   - size: sm
   sections:
-  - file: base/_header
-  - file: base/toc
-  - file: base/content
-  - file: base/address
-  - file: base/author
-  - file: base/social
-  - file: base/comments
-  - file: base/children
-  - file: base/share
-  - file: base/related
+  - file: base-_header
+  - file: base-toc
+  - file: base-content
+  - file: base-address
+  - file: base-author
+  - file: base-social
+  - file: base-comments
+  - file: base-children
+  - file: base-share
+  - file: base-related
   list:
     cols: 3
     card: true

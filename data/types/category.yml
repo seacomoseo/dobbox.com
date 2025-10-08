@@ -1,6 +1,6 @@
 title: Categorías
 base: page
-order: 2
+weight: 2
 name: category
 tax_of:
 - name: blog

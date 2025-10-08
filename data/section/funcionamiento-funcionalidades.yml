@@ -1,0 +1,42 @@
+name: Funcionamiento ➡️ Funcionalidades
+md: |
+  Funcionalidades que se adaptan a tus necesidades
+  {.h1}
+
+  ¡Avisado estarás con las alertas en tiempo real!
+  {.subtitle}
+align: left
+hanchor: Funcionalidades
+boxes:
+- box:
+    gap: 5
+    align: left
+    align_y: center
+    cols: 2
+  boxes:
+  - image: movil/alertas.png
+    order: 2
+  - title: Tenlo todo controlado estés donde estés
+    md: |
+      Con el sensor de temperatura en tu cámara dispondrás del sistema de alertas en tiempo real vía email y push notification.
+
+      ¡**Podrás relajarte** cuando no estés en tu establecimiento!
+
+      Te **avisa a tu móvil** ante cualquier **[anomalía](/cadena-frio-seguridad-alimentaria/) que afecte al estado de tus productos** almacenados para que puedas solucionarlo de inmediato.
+
+      ¡Evita desperdiciar tus productos y ahorra miles de euros!
+    label: Me interesa
+    link: /busca-tu-instalador/#instaladores
+- box:
+    cols: 4
+    icon_size: 3
+    align: center
+  boxes:
+  - title: Cortes de luz o energía
+    icon: lightbulb-slash
+  - title: Variaciones de temperatura
+    icon: temperature-three-quarters
+  - title: Desconexión accidental
+    icon: power-off
+  - title: Avería de las cámaras
+    icon: wrench

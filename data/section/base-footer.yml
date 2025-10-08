@@ -1,0 +1,28 @@
+name: Base ➡️ Footer
+color: dark
+space: 1
+params:
+- from: footer.size
+  to: size
+- from: footer.color
+  to: color
+boxes:
+- if: footer.dots
+  params:
+  - from: footer.dots
+    to: dots
+- params:
+  - from: footer.boxes
+    to: boxes
+  box:
+    cols: 4
+    align: left
+    align_y: top
+  boxes:
+  - md: |
+      - :copyright:      {{< internal-link index >}}
+      - :scale-balanced: {{< internal-link legal >}}
+      - :shield-keyhole: {{< internal-link privacy >}}
+      - :cookie-bite:    {{< internal-link cookies >}}
+      - :seacomoseo:     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")
+      {.list-inline}

@@ -1,0 +1,49 @@
+name: Inicio ➡️ Para ti
+id: para-ti
+title: ¿Aún no sabes si doBBox es para ti?
+box:
+  gap_vs: 3
+  gap_ny: 1
+boxes:
+- box:
+    cols: 2
+    gap: 5
+    gap_vs: 2
+    gap_ny: 1
+    align_y: top
+    icon_type: side
+    line: true
+  boxes:
+  - title: Lo es si…
+    icon: check
+    md: |
+      - :check: Prefieres la tranquilidad de no perder el producto por un corte de luz
+      - :check: Quieres cumplir con Sanidad sin tener que estar tomando el registro a mano todos los días
+      - :check: Deseas aumentar la confianza de tus clientes
+      - :check: Quieres ahorrar dinero en la factura de la luz
+  - title: No lo es si…
+    icon: xmark
+    md: |
+      - :xmark: No te importa intoxicar a tus clientes
+      - :xmark: Pasas de cumplir con la legislación
+      - :xmark: Quieres perder tu tiempo con el control de temperatura a mano todos los días
+- boxes:
+  - label: Me interesa
+    link: /busca-tu-instalador/#instaladores
+- box:
+    cols: 5
+    gap_vs: 2
+    gap_ny: 1
+    icon_size: 3
+    hs: 5
+  boxes:
+  - title: Restaurantes
+    icon: utensils
+  - title: Supermercados
+    icon: cart-shopping
+  - title: Hoteles
+    icon: bed
+  - title: Tiendas de alimentación
+    icon: basket-shopping
+  - title: Farmacias
+    icon: prescription-bottle-medical

@@ -1,0 +1,11 @@
+name: PH Cloro ➡️ Problemas
+title: Menos tiempo en controles = Más tiempo para tu negocio
+hanchor: Problemas
+box:
+  gap: 3
+  color: white
+  cols: 3
+boxes:
+- title: Horas perdidas en registros diarios
+- title: Riesgo de errores humanos en la medición
+- title: Almacenamiento manual de datos y dificultad en auditorías

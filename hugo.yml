@@ -1,6 +1,4 @@
 baseURL: https://dobbox.com
-pagination:
-  pagerSize: 24
 buildFuture: false
 theme: [sansoul]
 params:

@@ -1,0 +1,11 @@
+name: Inicio ➡️ Moviles
+pt: 1
+hanchor: Móviles
+box:
+  cols_vs: 2
+  cols: 4
+boxes:
+- image: movil/app.png
+- image: movil/informe.png
+- image: movil/alertas.png
+- image: movil/informe-max-min.png

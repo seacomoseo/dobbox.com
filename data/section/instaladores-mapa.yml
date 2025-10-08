@@ -1,0 +1,6 @@
+name: Instaladores ➡️ Mapa
+title: ¿Quieres incorporar el sistema doBBox en tu local?
+subtitle: Contacta con el instalador autorizado de tu zona
+hanchor: Instaladores
+md: |
+  <iframe class="map" loading="lazy" width="600" height="450" allowfullscreen="" title="Ubicaciones en Google Maps" src="https://www.google.com/maps/d/embed?mid=1Pi71Xz5GMnbwCIe50ZG0ta0DL6NWSws&amp;ehbc=00ACC8"></iframe>

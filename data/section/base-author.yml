@@ -1,0 +1,24 @@
+name: Base ➡️ Autores
+node: aside
+if: author
+id: author
+hanchor: '{{ author 0 hanchor }}'
+title: '{{ author 1 parent }}'
+boxes:
+- box:
+    cols: 1
+    align_x: flex-start
+    align_y: top
+  boxes:
+  - fit: 0.2
+    fit_vs: 0.4
+    image: '{{ author 0 image }}'
+    ratio: 1/1
+    border: similar
+  - fit: 0.8
+    fit_vs: 0.6
+    space: 0.75
+    align: left
+    title: '{{% author 0 title %}}'
+    md: |
+      {{< author 0 summary >}}

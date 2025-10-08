@@ -1,0 +1,33 @@
+name: Base ➡️ Cabecera
+node: header
+align: left
+boxes:
+- if: icon
+  params:
+  - to: title
+  - to: icon
+  icon_type: side
+- if: not icon
+  params:
+  - to: title
+- tags:
+  - type: type
+  - type: date
+  - type: time
+  - type: address
+- if: cancelled
+  md: |
+    =={{< i18n cancelled >}}==
+    {.cancelled}
+- if: image
+  node: div
+  params:
+  - from: image
+    to: image
+  - from: title
+    to: alt
+  - from: seo
+    to: alt
+  - from: image
+    to: link
+  button: hide
