@@ -7,8 +7,9 @@ related:
 - 2021-01-08-guia-compra-sistema-control-camaras-frigorificas
 - 2021-03-18-1300-millones-toneladas-desperdicio-alimentos
 date: 2025-10-08 09:17:00
+toc: n
 ---
-En 2025, el frío ya no va solo de “tener más cámaras”, sino de **hacerlas trabajar mejor.** La presión por servir más frescos, reducir la factura energética y cumplir con Sanidad obliga a invertir con cabeza: capacidad bien planificada, flujos ordenados y [**control continuo de la temperatura](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/).** 
+En 2025, el frío ya no va solo de “tener más cámaras”, sino de **hacerlas trabajar mejor.** La presión por servir más frescos, reducir la factura energética y cumplir con Sanidad obliga a invertir con cabeza: capacidad bien planificada, flujos ordenados y [\*\*control continuo de la temperatura](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/).\*\* 
 
 ## ¿Por qué se habla tanto de inversión en frío?
 
