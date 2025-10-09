@@ -8,7 +8,7 @@ boxes:
     gap: 4
     align_y: stretch
     ratio: 16/9
-    icon: circle-check
+    icon: check_circle
     icon_size: 4
     hs: 4
   boxes:

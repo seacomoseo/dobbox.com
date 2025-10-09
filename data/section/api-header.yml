@@ -12,15 +12,15 @@ box:
   icon_size: 4
   align_y: top
 boxes:
-- icon: temperature-three-quarters
+- icon: device_thermostat
   md: |
     Acceso a la **temperatura y humedad** en tiempo real de tus salas y cámaras.
-- icon: chart-mixed
+- icon: monitoring
   md: |
     **Gráficos** de los datos históricos para comprobar la evolución de las temperaturas y humedades.
-- icon: memo-circle-info
+- icon: breaking_news
   md: |
     Personaliza y descarga los **informes de temperatura** al momento.
-- icon: triangle-exclamation
+- icon: warning
   md: |
     **Alertas de temperatura** para controlar en todo momento que todo funciona correctamente.

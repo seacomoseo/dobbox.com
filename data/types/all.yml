@@ -3,11 +3,11 @@ tpl:
   bg:
     color: white
   menu:
-    logo: true
+    logo: y
     logo_align: center
-    transparent: true
+    transparent: y
     sticky: auto
-    logo_sticky: true
+    logo_sticky: y
     color: white
   callnow: custom
   section:
@@ -25,7 +25,7 @@ tpl:
   - file: base-related
   list:
     cols: 3
-    card: true
+    card: y
     align: center
     icon: hide
     hs: 3
@@ -33,8 +33,8 @@ tpl:
     button: hide
     tags:
     - type: date
-      hide_hour: true
-      hide_lastmod: true
+      hide_hour: y
+      hide_lastmod: y
     - type: time
   related:
-    slider: true
+    slider: y

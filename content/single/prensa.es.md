@@ -9,4 +9,3 @@ tpl:
   sections:
   - file: prensa
 ---
-

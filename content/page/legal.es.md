@@ -1,9 +1,9 @@
 ---
 slug: legal
 title: Avisos Legales
-icon: scale-balanced
-toc: true
-noindex: true
+icon: balance
+toc: y
+noindex: y
 weight: 1
 ---
 

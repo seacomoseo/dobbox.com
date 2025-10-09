@@ -7,35 +7,35 @@ box:
   ratio: 2/1
   label: Ver más
 boxes:
-- image: logos/appcc-controller.svg
+- image: logos/appcc/appcc-controller.svg
   link: https://appcc-controller.com/
   md: |
     **APPCC CONTROLLER**
 
-    :phone: [652 454 546](tel:+34652454546)
+    ::phone:: [652 454 546](tel:+34652454546)
 
-    :envelope: hola@appcc-controller.com
-- image: logos/recipok.svg
+    ::mail:: hola@appcc-controller.com
+- image: logos/appcc/recipok.svg
   link: https://www.recipok.com/
   md: |
     **RECIPOK**
 
-    :phone: [865 600 090](tel:+34865600090)
+    ::phone:: [865 600 090](tel:+34865600090)
 
-    :envelope: users@recipok.com
-- image: logos/andy.svg
+    ::mail:: users@recipok.com
+- image: logos/appcc/andy.svg
   link: https://andyapp.io/digitalizar-sistema-appcc/
   md: |
     **ANDY**
 
-    :phone: [936 550 995](tel:+34936550995)
+    ::phone:: [936 550 995](tel:+34936550995)
 
-    :envelope: info@intowin.es
-- image: logos/yurest.svg
+    ::mail:: info@intowin.es
+- image: logos/appcc/yurest.svg
   link: https://www.yurest.com/
   md: |
     **YUREST**
 
-    :phone: [692 89 85 86](tel:+34692898586)
+    ::phone:: [692 89 85 86](tel:+34692898586)
 
-    :envelope: hola@yurest.com
+    ::mail:: hola@yurest.com

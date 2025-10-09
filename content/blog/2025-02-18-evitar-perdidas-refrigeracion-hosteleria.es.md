@@ -8,7 +8,7 @@ description: El 30% de la comida desperdiciada en hostelería se debe a fallos e
 image: evitar-perdidas-refrigeracion-hosteleria.png
 category:
 - general
-toc: true
+toc: y
 date: 2025-02-18 00:00:00
 ---
 ## La importancia del control de temperatura en hostelería
@@ -33,11 +33,11 @@ El **desperdicio alimentario** es una problemática global. De hecho, el **1°C 
 
 Un sistema automático de control de temperatura, diseñado específicamente para negocios que dependen de una correcta refrigeración. Gracias a su tecnología avanzada, permite:
 
-- :check: [Monitoreo en tiempo real](/#control) de la temperatura de las cámaras frigoríficas y congeladores.
-- :check: [Alertas automáticas](/#tranquilidad) en caso de desviaciones de temperatura o averías.
-- :check: **Registro automático de datos**, eliminando la necesidad de controles manuales. 
-- :check: **Cumplimientode normativas sanitarias**, con [informes listos](/catalogo-sensor-de-temperatura-receptor/#informes) para inspecciones. 
-- :check: **Reducción de costes energéticos y de mantenimiento**, optimizando la gestión de equipos frigoríficos.
+- ::check:: [Monitoreo en tiempo real](/#control) de la temperatura de las cámaras frigoríficas y congeladores.
+- ::check:: [Alertas automáticas](/#tranquilidad) en caso de desviaciones de temperatura o averías.
+- ::check:: **Registro automático de datos**, eliminando la necesidad de controles manuales. 
+- ::check:: **Cumplimientode normativas sanitarias**, con [informes listos](/catalogo-sensor-de-temperatura-receptor/#informes) para inspecciones. 
+- ::check:: **Reducción de costes energéticos y de mantenimiento**, optimizando la gestión de equipos frigoríficos.
 
 Esta tecnología no solo aporta [tranquilidad y seguridad](/#para-ti) a los negocios hosteleros, sino que también permite **una mayor eficiencia operativa** al reducir tiempos de supervisión manual y riesgos de errores humanos.
 

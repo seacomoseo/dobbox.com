@@ -1,28 +1,3 @@
-langs:
-- lang: es
-  title: doBBox
-  description: Sistema de control inalámbrico (mediante App) de temperatura y humedad para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
-  google_analytics: G-TE5NJF5LYZ
-  google_file_verification: google7467d923cbb3eb4c.html
-  email: formularios-web@dobbox.com
-params:
-- name: footer
-  label: Footer
-  widget: object
-  params:
-  - var: box_dots
-  - name: boxes
-    label: Cajas
-    widget: list
-    params:
-    - var: box_md
-defaults:
-- name: author
-  value: admin
-  path:
-  - /blog/*
-- name: index
-  value: 'false'
-  type: boolean
-  path:
-  - /blog/*
+google_analytics: G-TE5NJF5LYZ
+google_file_verification: google7467d923cbb3eb4c.html
+email: formularios-web@dobbox.com

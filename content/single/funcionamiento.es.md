@@ -4,7 +4,7 @@ title: Funcionamiento
 seo: Sensor y Registrador de Temperatura y Humedad - doBBox
 description: llll➤ El sensor de temperatura y humedad ✅ es el encargado de medir en tiempo real las condiciones ambientales de tu cámara frigorífica.
 image: moviles/captura-camaras.webp
-icon: sensor-on
+icon: sensors
 tpl:
   sections:
   - file: funcionamiento-header
@@ -15,4 +15,3 @@ tpl:
   - file: funcionamiento-sistema
   - file: funcionamiento-clientes
 ---
-

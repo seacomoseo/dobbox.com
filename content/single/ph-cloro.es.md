@@ -4,7 +4,7 @@ title: Control de pH y cloro
 seo: Automatiza el control de pH y cloro en tu establecimiento
 description: llll➤ Menos tiempo en controles = Más tiempo para tu negocio ✅ Medición en tiempo real, sin intervención manual...
 image: base/poster.svg
-icon: flask-gear
+icon: lab_research
 tpl:
   sections:
   - file: ph-cloro-header
@@ -13,4 +13,3 @@ tpl:
   - file: ph-cloro-ahorro
   - file: ph-cloro-formulario
 ---
-

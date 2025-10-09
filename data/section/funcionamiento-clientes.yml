@@ -6,45 +6,45 @@ box:
   cols: 5
   cols_vs: 2
   ratio: 16/9
-  contain: true
+  contain: y
   button: hide
 boxes:
-- image: logos/cuarentaytres.svg
+- image: logos/clientes/cuarentaytres.svg
   link: https://cuarentaytres.com/
-- image: logos/airemar-restaurante.svg
+- image: logos/clientes/airemar-restaurante.svg
   link: http://airemar.es/
-- image: logos/areas.svg
+- image: logos/clientes/areas.svg
   link: https://areas.com/
-- image: logos/bombones-torres.svg
+- image: logos/clientes/bombones-torres.svg
   link: https://bombonestorres.com/
-- image: logos/confiteria-la-cruz.svg
+- image: logos/clientes/confiteria-la-cruz.svg
   link: http://www.confiteriaslacruz.com/
-- image: logos/confiterias-rodri.svg
-- image: logos/earmur.png
+- image: logos/clientes/confiterias-rodri.svg
+- image: logos/clientes/earmur.png
   link: https://earmur.com/
-- image: logos/el-punaito.svg
+- image: logos/clientes/el-punaito.svg
   link: https://elpunaito.eatbu.com/
-- image: logos/escuela-hosteleria-salamanca.svg
+- image: logos/clientes/escuela-hosteleria-salamanca.svg
   link: https://escuelahosteleriasalamanca.es/
-- image: logos/grupo-orenes.svg
+- image: logos/clientes/grupo-orenes.svg
   link: https://orenesgrupo.com/
-- image: logos/grupo-drinkandeat.svg
+- image: logos/clientes/grupo-drinkandeat.svg
   link: https://www.grupodrinkandeat.es/
-- image: logos/madrugada.svg
+- image: logos/clientes/madrugada.svg
   link: https://www.instagram.com/la_madrugada_javier_moreno/
-- image: logos/livanti.svg
+- image: logos/clientes/livanti.svg
   link: https://www.livanti.es/
-- image: logos/escuela-hosteleria-madrid.svg
+- image: logos/clientes/escuela-hosteleria-madrid.svg
   link: https://eshtm.es/
-- image: logos/nueva-cocina-mediterranea.svg
+- image: logos/clientes/nueva-cocina-mediterranea.svg
   link: https://nuevacocinamediterranea.es/
-- image: logos/panaderia-el-boticario.svg
+- image: logos/clientes/panaderia-el-boticario.svg
   link: https://artesanoselboticario.com/
-- image: logos/quique-dacosta.svg
+- image: logos/clientes/quique-dacosta.svg
   link: https://www.quiquedacosta.es/
-- image: logos/restaurante-emboka.svg
+- image: logos/clientes/restaurante-emboka.svg
   link: https://www.emboka.com/
-- image: logos/roencar.svg
+- image: logos/clientes/roencar.svg
   link: https://www.linkedin.com/company/roencar/
-- image: logos/la-tapeoteca.svg
+- image: logos/clientes/la-tapeoteca.svg
   link: https://www.latapeoteca.es/

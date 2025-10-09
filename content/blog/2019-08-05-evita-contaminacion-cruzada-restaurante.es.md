@@ -5,7 +5,7 @@ slug: evita-contaminacion-cruzada-restaurante
 description: 'La contaminación cruzada es el proceso mediante el cual los alimentos contaminados entran en contacto con otros limpios y que terminan por contaminarse como'
 image: blog/evita-contaminacion-cruzada-restaurante.png
 category: [general]
-toc: true
+toc: y
 date: 2019-08-05 07:18:09
 ---
 

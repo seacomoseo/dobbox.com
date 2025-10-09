@@ -5,7 +5,7 @@ slug: trucos-prevenir-salmonella
 description: 'La intoxicación por Salmonella es una de las enfermedades causada por bacterias y transmitidas por alimentos más comunes en todo el mundo.'
 image: blog/trucos-prevenir-salmonella.png
 category: [general]
-toc: true
+toc: y
 date: 2019-08-09 07:24:15
 ---
 

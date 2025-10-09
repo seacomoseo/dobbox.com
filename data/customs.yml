@@ -1,0 +1,10 @@
+- name: footer
+  label: Footer
+  widget: object
+  sub:
+  - var: box_dots
+  - name: boxes
+    label: Cajas
+    widget: list
+    sub:
+    - var: box_md

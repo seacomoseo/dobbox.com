@@ -1,9 +1,9 @@
 ---
 title: Privacidad
 slug: privacidad
-icon: shield-keyhole
-toc: true
-noindex: true
+icon: encrypted
+toc: y
+noindex: y
 weight: 2
 ---
 

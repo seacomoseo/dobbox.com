@@ -6,7 +6,7 @@ tax_of:
   schema: author
 tpl:
   list:
-    card: false
+    card: n
     color: similar
     rate: 1
     tags: []

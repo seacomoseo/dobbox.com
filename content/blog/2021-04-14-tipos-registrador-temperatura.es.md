@@ -5,7 +5,7 @@ slug: tipos-registrador-temperatura
 description: 'Un registrador de temperatura de cámaras frigoríficas es un equipo que mide de manera continua la temperatura que se encuentra dentro de ellas.'
 image: blog/tipos-registrador-temperatura.png
 category: [general]
-toc: true
+toc: y
 date: 2021-04-14 14:35:51
 ---
 

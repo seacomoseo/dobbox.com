@@ -33,10 +33,10 @@ boxes:
     align: center
   boxes:
   - title: Cortes de luz o energía
-    icon: lightbulb-slash
+    icon: light_off
   - title: Variaciones de temperatura
-    icon: temperature-three-quarters
+    icon: device_thermostat
   - title: Desconexión accidental
-    icon: power-off
+    icon: power_settings_new
   - title: Avería de las cámaras
-    icon: wrench
+    icon: build

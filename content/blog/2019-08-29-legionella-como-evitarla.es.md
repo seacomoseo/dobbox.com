@@ -5,7 +5,7 @@ slug: legionella-como-evitarla
 description: 'La Legionella es una bacteria que vive en ambientes húmedos por lo que es capaz de colarse a través del aire en sistemas abastecimiento agua, aires'
 image: blog/legionella-como-evitarla.png
 category: [general]
-toc: true
+toc: y
 date: 2019-08-29 07:47:06
 ---
 

@@ -4,7 +4,7 @@ seo: 'doBBox: App y Control Inalámbrico de Temperatura y Humedad'
 slug: inicio
 description: llll➤ Sistema automático de control inalámbrico de temperatura y humedad ✅ para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
 image: sistema-automatico-control-de-temperatura-dobbox.png
-icon: house
+icon: home
 tpl:
   sections:
   - file: _inicio-header
@@ -57,15 +57,14 @@ org:
   - España
   schedule:
   - days:
-      mon: true
-      tue: true
-      wed: true
-      thu: true
-      fri: true
+      mon: y
+      tue: y
+      wed: y
+      thu: y
+      fri: y
     hours:
     - open: 8:00
       close: 17:00
   prices: €€
   services: []
 ---
-

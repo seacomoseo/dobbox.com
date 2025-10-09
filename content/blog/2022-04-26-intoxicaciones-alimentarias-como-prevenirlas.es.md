@@ -5,7 +5,7 @@ slug: intoxicaciones-alimentarias-como-prevenirlas
 description: 'La salmonelosis es una de las intoxicaciones alimentarias más comunes. Cada año en España se contagian 8.000 personas.'
 image: blog/intoxicaciones-alimentarias-como-prevenirlas.png
 category: [general]
-toc: true
+toc: y
 date: 2022-04-26 08:36:57
 ---
 

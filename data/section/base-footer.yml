@@ -20,9 +20,9 @@ boxes:
     align_y: top
   boxes:
   - md: |
-      - :copyright:      {{< internal-link index >}}
-      - :scale-balanced: {{< internal-link legal >}}
-      - :shield-keyhole: {{< internal-link privacy >}}
-      - :cookie-bite:    {{< internal-link cookies >}}
-      - :seacomoseo:     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")
+      - ::copyright::      {{< internal-link index >}}
+      - ::balance:: {{< internal-link legal >}}
+      - ::encrypted:: {{< internal-link privacy >}}
+      - ::cookie::    {{< internal-link cookies >}}
+      - ::brand:seacomoseo::     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")
       {.list-inline}

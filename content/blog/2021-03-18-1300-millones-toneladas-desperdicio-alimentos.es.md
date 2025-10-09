@@ -5,7 +5,7 @@ slug: 1300-millones-toneladas-desperdicio-alimentos
 description: 'En la actualidad se produce un 60% más de los alimentos que necesitamos, el desperdicio de alimentos cada vez es mayor.'
 image: blog/1300-millones-toneladas-desperdicio-alimentos.png
 category: [general]
-toc: true
+toc: y
 date: 2021-03-18 08:09:03
 ---
 

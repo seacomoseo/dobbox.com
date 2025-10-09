@@ -15,16 +15,16 @@ contact:
   label: 968 472 663
 - type: mail
   label: hola@dobbox.com
-  full: true
+  full: y
 inputs:
 - type: text
   name: Nombre
-  required: true
+  required: y
 - type: tel
   name: Teléfono
 - type: email
   name: Email
-  required: true
+  required: y
 - type: textarea
   name: Mensaje
-  required: true
+  required: y

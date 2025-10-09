@@ -16,9 +16,9 @@ boxes:
   link: /busca-tu-instalador/#instaladores
 - fit: 3
   md: |
-    - :check: Que un corte de luz no te haga perder el género almacenado
-    - :check: Conoce que tus productos están conservados en perfectas condiciones
-    - :check: Garantiza la cadena de frío de los productos que vendes
-    - :check: Cumple con la normativa de forma automática y sin esfuerzos
-    - :check: Anticípate a las averías de tus cámaras, evita el tirar miles de productos
-    - :check: Ahorra energía en tus cámaras frigoríficas
+    - ::check:: Que un corte de luz no te haga perder el género almacenado
+    - ::check:: Conoce que tus productos están conservados en perfectas condiciones
+    - ::check:: Garantiza la cadena de frío de los productos que vendes
+    - ::check:: Cumple con la normativa de forma automática y sin esfuerzos
+    - ::check:: Anticípate a las averías de tus cámaras, evita el tirar miles de productos
+    - ::check:: Ahorra energía en tus cámaras frigoríficas

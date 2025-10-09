@@ -10,11 +10,11 @@ box:
   gap: 3
   cols: 3
 boxes:
-- icon: siren-on
+- icon: e911_emergency
   title: Alertas Sonoras y Lumínicas
   md: |
     Configura cuando quieres que el sistema te avise mientras estás trabajando.
-- icon: people-group
+- icon: groups_3
   title: Tu Equipo <br> Informado
   md: |
     Estará informado sobre cualquier alerta sin necesidad de estar constantemente revisando el móvil.

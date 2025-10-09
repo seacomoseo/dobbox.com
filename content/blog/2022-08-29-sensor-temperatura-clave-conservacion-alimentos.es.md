@@ -5,7 +5,7 @@ slug: sensor-temperatura-clave-conservacion-alimentos
 description: 'Gracias al sensor de temperatura se lleva un control de los productos que se conservan.'
 image: blog/sensor-temperatura-clave-conservacion-alimentos.png
 category: [general]
-toc: true
+toc: y
 date: 2022-08-29 13:58:22
 ---
 

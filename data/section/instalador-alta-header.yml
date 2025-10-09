@@ -9,16 +9,16 @@ box:
   space: 2
   icon_size: 3
 boxes:
-- icon: wrench
+- icon: build
   md: |
     Herramienta en la que basarte para aumentar tus acciones en los equipos de tus clientes. Podrás ofrecer un servicio de [mantenimiento preventivo](/catalogo-sensor-de-temperatura-receptor/) más valioso al conocer con antelación qué cámaras necesitan ser revisadas.
-- icon: ballot-check
+- icon: fact_check
   md: |
     Mejora la **gestión de tu trabajo**. Ten todas las cámaras de tus clientes en una misma plataforma. Tu trabajo estará mejor organizado y de un solo vistazo las tendrás controladas.
-- icon: chart-mixed
+- icon: monitoring
   md: |
     Tus clientes querrán quedarse contigo. Tendrán más **confianza** en ti gracias a los datos, gráficos e históricos a los que él mismo tendrá acceso. Conoceréis como nunca antes la conservación del género.
-- icon: people-group
+- icon: groups_3
   md: |
     Conseguirás **diferenciarte** de la competencia, ofreciendo un servicio de valor añadido y distinto a otros instaladores de frío comercial.
 

@@ -22,11 +22,11 @@ accordions:
   md: |
     Un sistema de control automático tiene muchas ventajas:
 
-    - :check: Liberación de tener que tomar a mano la temperatura de tus cámaras todos los días
-    - :check: Seguridad de no cometer errores
-    - :check: Tranquilidad de tener tus productos conservados en perfectas condiciones
-    - :check: Garantía de que mantienes la cadena de frío de los alimentos que sirves a tus clientes
-    - :check: Comodidad de tenerlo todo controlado desde tu móvil
+    - ::check:: Liberación de tener que tomar a mano la temperatura de tus cámaras todos los días
+    - ::check:: Seguridad de no cometer errores
+    - ::check:: Tranquilidad de tener tus productos conservados en perfectas condiciones
+    - ::check:: Garantía de que mantienes la cadena de frío de los alimentos que sirves a tus clientes
+    - ::check:: Comodidad de tenerlo todo controlado desde tu móvil
 - title: ¿Cuáles son las ventajas de los sensores inalámbricos frente a los cableados?
   md: |
     Los sensores de doBBox son inalámbricos por lo que su instalación en las cámaras es tan fácil como colocarlos en el interior con el adhesivo que incluye. Además, son de pequeñas dimensiones por lo que no molesta al sacar y meter productos de la cámara.

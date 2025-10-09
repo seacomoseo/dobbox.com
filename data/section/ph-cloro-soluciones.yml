@@ -4,7 +4,7 @@ subtitle: Ha llegado el momento de digitalizar este proceso
 box:
   cols: 3
   gap: 2
-  icon: circle-check
+  icon: check_circle
   icon_size: 3
   icon_color: cta
 boxes:

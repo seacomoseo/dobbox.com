@@ -5,7 +5,7 @@ slug: anisakis-claves-prevenir-intoxicacion
 description: 'El anisakis es un parásito con forma de gusano de color blanquecino que mide 2 a 3 cm y permanece en nuestro organismo durante 1 o 2 días.'
 image: blog/anisakis-claves-prevenir-intoxicacion.png
 category: [general]
-toc: true
+toc: y
 date: 2021-12-20 16:55:24
 ---
 

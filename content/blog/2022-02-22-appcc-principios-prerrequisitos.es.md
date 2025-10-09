@@ -5,7 +5,7 @@ slug: appcc-principios-prerrequisitos
 description: 'El APPCC es un método preventivo de gestión de la inocuidad de los alimentos y se utiliza en toda la cadena alimentaria.'
 image: blog/appcc-principios-prerrequisitos.png
 category: [general]
-toc: true
+toc: y
 date: 2022-02-22 15:15:49
 ---
 

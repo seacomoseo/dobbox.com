@@ -12,21 +12,21 @@ boxes:
     gap_ny: 1
     align_y: top
     icon_type: side
-    line: true
+    line: y
   boxes:
   - title: Lo es si…
     icon: check
     md: |
-      - :check: Prefieres la tranquilidad de no perder el producto por un corte de luz
-      - :check: Quieres cumplir con Sanidad sin tener que estar tomando el registro a mano todos los días
-      - :check: Deseas aumentar la confianza de tus clientes
-      - :check: Quieres ahorrar dinero en la factura de la luz
+      - ::check:: Prefieres la tranquilidad de no perder el producto por un corte de luz
+      - ::check:: Quieres cumplir con Sanidad sin tener que estar tomando el registro a mano todos los días
+      - ::check:: Deseas aumentar la confianza de tus clientes
+      - ::check:: Quieres ahorrar dinero en la factura de la luz
   - title: No lo es si…
-    icon: xmark
+    icon: close
     md: |
-      - :xmark: No te importa intoxicar a tus clientes
-      - :xmark: Pasas de cumplir con la legislación
-      - :xmark: Quieres perder tu tiempo con el control de temperatura a mano todos los días
+      - ::close:: No te importa intoxicar a tus clientes
+      - ::close:: Pasas de cumplir con la legislación
+      - ::close:: Quieres perder tu tiempo con el control de temperatura a mano todos los días
 - boxes:
   - label: Me interesa
     link: /busca-tu-instalador/#instaladores
@@ -38,12 +38,12 @@ boxes:
     hs: 5
   boxes:
   - title: Restaurantes
-    icon: utensils
+    icon: restaurant
   - title: Supermercados
-    icon: cart-shopping
+    icon: shopping_cart
   - title: Hoteles
-    icon: bed
+    icon: hotel
   - title: Tiendas de alimentación
-    icon: basket-shopping
+    icon: shopping_basket
   - title: Farmacias
-    icon: prescription-bottle-medical
+    icon: medication

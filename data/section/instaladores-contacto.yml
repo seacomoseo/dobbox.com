@@ -11,15 +11,15 @@ form:
 inputs:
 - type: text
   name: Nombre
-  required: true
+  required: y
 - type: email
   name: Email
   label: Correo electrónico
-  required: true
+  required: y
 - type: tel
   name: Teléfono
-  required: true
+  required: y
 - type: textarea
   name: Mensaje
   label: Escribe un mensaje
-  required: true
+  required: y
