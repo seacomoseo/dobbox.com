@@ -2,7 +2,7 @@
 slug: triple-palanca-frio-automatizacion-eficiencia
 title: 'Automatización, sostenibilidad y eficiencia energética: la triple palanca del frío que reduce mermas y factura eléctrica'
 summary: 'En 2025 la automatización deja de ser “nice to have” y se cruza con objetivos de sostenibilidad y eficiencia energética. El hilo conductor: datos en tiempo real para operar con precisión y proteger el género.'
-image: /Portada%20-%20la%20triple%20palanca%20del%20fr%C3%ADo%20que%20reduce%20mermas%20y%20factura%20el%C3%A9ctrica.webp
+image: blog/la-triple-palanca-del-frio-que-reduce-mermas-y-factura-electrica.webp
 draft: y
 related:
 - 2021-05-20-control-humedad-camaras-frigorificas
@@ -22,14 +22,14 @@ En 2025, la competitividad del frío se sostiene en **la triple palanca: automat
 
 - **Automatización + gestión del almacén**: integrar automatización con el diseño y la gestión del almacén mejora el uso del espacio, ahorra energía y reduce exposición del personal al frío.
 - **Eficiencia medible**: optimizar ciclos (p. ej., enfriamientos y abatimiento térmico) puede **aumentar rendimiento** y **bajar consumo** sin sacrificar seguridad alimentaria.
-- **De lo manual a lo digital (y mejor adelantarse):** igual que el **control horario** pasó del papel al **registro digital obligatorio**, todo apunta a una exigencia similar en **temperatura:** datos continuos, trazables y compartibles. Estar preparados hoy con [doBBox](https://dobbox.com/) ([**registro automático, histórico e informes listos para Sanidad](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/#informes))** evita prisas, errores y sanciones cuando la digitalización sea requisito ineludible.
+- **De lo manual a lo digital (y mejor adelantarse):** igual que el **control horario** pasó del papel al **registro digital obligatorio**, todo apunta a una exigencia similar en **temperatura:** datos continuos, trazables y compartibles. Estar preparados hoy con [doBBox](/) ([registro automático, histórico e informes listos para Sanidad](/catalogo-sensor-de-temperatura-receptor/#informes)) evita prisas, errores y sanciones cuando la digitalización sea requisito ineludible.
 
 ## **Buenas prácticas que puedes aplicar ya**
 
 1. **Rangos claros y puntos de ajuste** por familia de producto.
 2. **Cargas y aperturas**: planifica para evitar “dientes de sierra” térmicos (consumo y riesgo se disparan con cada cambio brusco de temperatura).
-3. **Mantenimiento preventivo** basado en datos (no solo en calendario) sobre [temperatura ](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/#anticipate)y [humedad](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/#mide).
-4. [**Trazabilidad**](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/#informes): registros automáticos y **descarga de informes** para inspecciones y auditorías.
+3. **Mantenimiento preventivo** basado en datos (no solo en calendario) sobre [temperatura ](/catalogo-sensor-de-temperatura-receptor/#anticipate)y [humedad](/catalogo-sensor-de-temperatura-receptor/#mide).
+4. [**Trazabilidad**](/catalogo-sensor-de-temperatura-receptor/#informes): registros automáticos y **descarga de informes** para inspecciones y auditorías.
 
 ## **Cómo te ayuda doBBox a accionar la triple palanca**
 

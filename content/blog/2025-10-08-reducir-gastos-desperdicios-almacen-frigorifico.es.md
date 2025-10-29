@@ -9,7 +9,7 @@ related:
 date: 2025-10-08 09:17:00
 toc: n
 ---
-En 2025, el frío ya no va solo de “tener más cámaras”, sino de **hacerlas trabajar mejor.** La presión por servir más frescos, reducir la factura energética y cumplir con Sanidad obliga a invertir con cabeza: capacidad bien planificada, flujos ordenados y [\*\*control continuo de la temperatura](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/).\*\* 
+En 2025, el frío ya no va solo de “tener más cámaras”, sino de **hacerlas trabajar mejor.** La presión por servir más frescos, reducir la factura energética y cumplir con Sanidad obliga a invertir con cabeza: capacidad bien planificada, flujos ordenados y [control continuo de la temperatura](/catalogo-sensor-de-temperatura-receptor/).
 
 ## ¿Por qué se habla tanto de inversión en frío?
 
@@ -26,13 +26,13 @@ En 2025, el frío ya no va solo de “tener más cámaras”, sino de **hacerlas
 
 ## El papel de doBBox en la inversión
 
-Al ampliar o renovar cámaras, [**doBBox** ](https://dobbox.com/)te da el retorno operativo desde el primer día:
+Al ampliar o renovar cámaras, [**doBBox** ](/)te da el retorno operativo desde el primer día:
 
 - **Alertas al momento** cuando una cámara sale de rango.
-- [**Detección de posibles averías**](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/#anticipate) por patrones anómalos en los ciclos.
+- [**Detección de posibles averías**](/catalogo-sensor-de-temperatura-receptor/#anticipate) por patrones anómalos en los ciclos.
 - **Vista** en **tiempo real** de **todas tus cámaras** (una sola pantalla).
-- [**Informes listos para Sanidad e histórico**](https://dobbox.com/catalogo-sensor-de-temperatura-receptor/#informes) para saber qué pasó y cuándo.
+- [**Informes listos para Sanidad e histórico**](/catalogo-sensor-de-temperatura-receptor/#informes) para saber qué pasó y cuándo.
 
 **Resultado:** menos producto desperdiciado, clientes protegidos y auditorías fluidas, maximizando el ROI de tu inversión en frío.
 
-En este contexto, soluciones como **doBBox** convierten el almacén en un entorno medible y predecible: alertas al momento, detección temprana de averías e informes listos para inspección. ¿El resultado? **Menos desperdicios, más seguridad y un ROI tangible desde el primer día.** ¡[Contáctanos](https://dobbox.com/busca-tu-instalador/)!
+En este contexto, soluciones como **doBBox** convierten el almacén en un entorno medible y predecible: alertas al momento, detección temprana de averías e informes listos para inspección. ¿El resultado? **Menos desperdicios, más seguridad y un ROI tangible desde el primer día.** ¡[Contáctanos](/busca-tu-instalador/)!
