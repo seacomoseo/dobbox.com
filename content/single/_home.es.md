@@ -44,7 +44,7 @@ org:
   phones:
   - 968 472 663
   address:
-    name: doBBox
+  - name: doBBox
     street: C. de Molina de Segura, 5, Bloque 3, 1A
     pc: '30007'
     locality: Murcia

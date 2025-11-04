@@ -2,8 +2,6 @@ name: Inicio ➡️ Contacto
 title: Contacto
 subtitle: ¿En qué podemos ayudarte?
 size: sm
-form:
-  id: formulario
 contact:
 - type: schedule
   days: Lunes a Viernes
@@ -16,6 +14,8 @@ contact:
 - type: mail
   label: hola@dobbox.com
   full: y
+form:
+  id: formulario
 inputs:
 - type: text
   name: Nombre
