@@ -1,10 +1,8 @@
 ---
 slug: conservar-fruta
 title: Esta semana celebramos el Día Mundial de la Fruta… pero, ¿qué pasa si una cámara frigorífica falla y nadie se entera?
-image: /conservar-la-fruta.png
-date: 2025-07-04 09:42:10
-category: null
-author: null
+image: /conservar-la-fruta.webp
+date: 2025-07-04 09:42:00
 ---
 Esta semana se celebró el [Día Mundial de la Fruta](https://www.instagram.com/p/DLjenTwh4cU/), una fecha para reconocer su valor nutricional y económico, pero también para mirar más de cerca los riesgos ocultos en su conservación. Y es que, en pleno verano, mantener la frescura no depende solo de la cosecha: **depende de que las cámaras frigoríficas funcionen sin margen de error**.
 
@@ -37,4 +35,3 @@ Las cámaras frigoríficas deben ser una garantía, no una vulnerabilidad. Y la 
 Y en verano, eso puede marcar la diferencia entre éxito y pérdida.
 
 Descubre tu instalador más cercano [aquí](m/busca-tu-instalador/)
-
