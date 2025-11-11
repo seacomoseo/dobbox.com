@@ -3,7 +3,7 @@ slug: triple-palanca-frio-automatizacion-eficiencia
 title: 'Automatización, sostenibilidad y eficiencia energética: la triple palanca del frío que reduce mermas y factura eléctrica'
 summary: 'En 2025 la automatización deja de ser “nice to have” y se cruza con objetivos de sostenibilidad y eficiencia energética. El hilo conductor: datos en tiempo real para operar con precisión y proteger el género.'
 image: blog/la-triple-palanca-del-frio-que-reduce-mermas-y-factura-electrica.webp
-draft: n
+draft: y
 related:
 - 2021-05-20-control-humedad-camaras-frigorificas
 - 2021-02-05-control-temperatura-humedad
