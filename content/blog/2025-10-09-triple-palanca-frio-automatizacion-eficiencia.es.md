@@ -4,6 +4,7 @@ title: 'Automatización, sostenibilidad y eficiencia energética: la triple pala
 summary: 'En 2025 la automatización deja de ser “nice to have” y se cruza con objetivos de sostenibilidad y eficiencia energética. El hilo conductor: datos en tiempo real para operar con precisión y proteger el género.'
 image: blog/la-triple-palanca-del-frio-que-reduce-mermas-y-factura-electrica.webp
 draft: y
+hide: y
 related:
 - 2021-05-20-control-humedad-camaras-frigorificas
 - 2021-02-05-control-temperatura-humedad
@@ -12,8 +13,8 @@ related:
 - 2020-11-27-mantenimiento-camaras-frigorificas
 - 2021-04-14-tipos-registrador-temperatura
 - 2021-01-08-guia-compra-sistema-control-camaras-frigorificas
-date: 2025-11-05 11:41:00
-lastmod: 2025-11-05 11:41:00
+date: 2025-12-04 11:41:00
+lastmod: 2025-12-04 11:41:00
 toc: n
 ---
 En 2025, la competitividad del frío se sostiene en **la triple palanca: automatización, sostenibilidad y eficiencia energética**. Integrar automatización en la gestión del almacén mejora el uso del espacio y reduce exposiciones innecesarias; operar con criterios de sostenibilidad minimiza mermas y huella; y optimizar la eficiencia energética recorta consumo sin comprometer la seguridad alimentaria.
