@@ -13,8 +13,8 @@ related:
 - 2020-11-27-mantenimiento-camaras-frigorificas
 - 2021-04-14-tipos-registrador-temperatura
 - 2021-01-08-guia-compra-sistema-control-camaras-frigorificas
-date: 2025-12-04 11:41:00
-lastmod: 2025-12-04 11:41:00
+date: 2025-11-18 08:54:00
+lastmod: 2025-11-18 08:54:00
 toc: n
 ---
 En 2025, la competitividad del frío se sostiene en **la triple palanca: automatización, sostenibilidad y eficiencia energética**. Integrar automatización en la gestión del almacén mejora el uso del espacio y reduce exposiciones innecesarias; operar con criterios de sostenibilidad minimiza mermas y huella; y optimizar la eficiencia energética recorta consumo sin comprometer la seguridad alimentaria.
