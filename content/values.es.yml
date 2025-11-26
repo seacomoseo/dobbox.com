@@ -1,37 +1,32 @@
-title: Valores Globales
 menu:
   image: base/logo.svg
   items:
-  - label: Inicio
-    link: /
-  - label: Funcionamiento
-    link: /catalogo-sensor-de-temperatura-receptor/
+  - link: /
+    label: Inicio
+  - link: /catalogo-sensor-de-temperatura-receptor/
+    label: Funcionamiento
   - label: Instaladores
     items:
-    - label: Busca tu instalador
-      link: /busca-tu-instalador/
-    - label: Alta instalador
-      link: /alta-instalador-dobbox-frio-aumenta-servicio/
-  - label: Blog
-    link: /blog/
-  - label: FAQ
-    link: /preguntas-frecuentes/
-  - label: Acceso Plataforma
-    link: https://app.dobbox.com/
-    button: main
+    - link: /busca-tu-instalador/
+      label: Busca tu instalador
+    - link: /alta-instalador-dobbox-frio-aumenta-servicio/
+      label: Alta instalador
+  - link: /blog/
+    label: Blog
+  - link: /preguntas-frecuentes/
+    label: FAQ
+  - link: https://app.dobbox.com/
+    label: Acceso Plataforma
     lock: y
-callnows:
-- type: whatsapp
-  label: 968 472 663
+    button: main
 footer:
-  color: light
   dots:
   - link: https://www.facebook.com/doBBox/
   - link: https://www.linkedin.com/company/dobbox/
   - link: https://www.instagram.com/dobboxfrio/
   - link: https://g.page/r/CWSvbD-vfW33EBM
   boxes:
-  - md: |
+  - md: |-
       [![](base/logo.svg)](/)
 
       Data Of Business BOX S.L.
@@ -43,21 +38,23 @@ footer:
       - [![Descarga para Android en la Play Store](logos/apps/playstore.svg)](https://play.google.com/store/apps/details?id=com.dobbox.bcw&gl=ES)
       - [![Descarga para iPhone en la App Store](logos/apps/appstore.svg)](https://apps.apple.com/es/app/dobbox-frio/id1532862054#?platform=iphone)
       {.apps .list-inline}
-  - md: |
+  - md: |-
       - ::help_outline:: [Preguntas frecuentes](/preguntas-frecuentes/)
       - ::send::         [Contacto](/#contacto)
       - ::sensors::      [Funcionamiento](/catalogo-sensor-de-temperatura-receptor/)
       - ::search::       [Busca tu instalador](/busca-tu-instalador/)
       - ::person::       [Alta instalador](/alta-instalador-dobbox-frio-aumenta-servicio/)
-  - md: |
+  - md: |-
       - ::feed::        [Blog](/blog/)
       - ::newspaper::   [Prensa](/prensa/)
       - ::support::     [Subvención](/subvencion/)
       - ::data_object:: [API](/api-dobbox-frio-publica-gratuita/)
       - ::login::       [Acceso Plataforma](https://app.dobbox.com/)
-  - md: |
+  - md: |-
       - ::balance::          {{< internal-link legal >}}
       - ::encrypted::        {{< internal-link privacy >}}
       - ::cookie::           {{< internal-link cookies >}}
       - ::copyright::        {{< internal-link index >}}
       - ::brand:seacomoseo:: [Diseño seacomoseo.com](https://seacomoseo.com/)
+  color: light
+title: Valores Globales
