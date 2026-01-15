@@ -13,7 +13,7 @@ seo:
 date: 2026-01-15 12:36:00
 mod: 2026-01-15 12:36:00
 ---
-## El problema de tener cada local a su aire
+## El problema de tener cada local "a su aire"
 
 En una cadena con varios establecimientos suele repetirse un patrón:
 
@@ -51,7 +51,7 @@ En práctica, esto implica:
 - Instalas **sensores de temperatura y humedad** en cada cámara, vitrina o almacén relevante.
 - Que esos **sensores de temperatura wifi (inalámbricos)** envíen datos de forma continua a un receptor conectado a internet.
 - Toda la información de todos los locales se sube a la misma plataforma y es accesible desde cualquier dispositivo.
-- Poder consultar, en una sola pantalla y a tiempo real, la **monitorización de cámaras frigoríficas **de toda la cadena.
+- Poder consultar, en una sola pantalla y a tiempo real, la \*\*monitorización de cámaras frigoríficas \*\*de toda la cadena.
 
 De esta forma pasas a tener un **sistema unificado para todos los locales**, con criterios comunes y datos fiables y comparables.
 
@@ -92,9 +92,9 @@ Los sensores de temperatura y humedad permiten detectar:
     - Patrones anómalos que anticipan una avería.
 
 Con alertas centralizadas, es posible priorizar actuaciones de mantenimiento antes de que la incidencia se convierta en una pérdida de producto, en un problema de seguridad alimentaria, reputacional y en una sanción.
- 
-En definitiva, la tendencia del sector es clara: **más digitalización, más tatos y más control centralizado, **especialmente en cadenas que quieren escalar sin perder el control operativo.
+
+En definitiva, la tendencia del sector es clara: \*\*más digitalización, más tatos y más control centralizado, \*\*especialmente en cadenas que quieren escalar sin perder el control operativo.
 
 Se trata de pasar de preguntas “¿Habéis apuntado hoy la temperatura?” a saber, en todo momento, qué está pasando en cada cámara de cada local, desde cualquier dispositivo.
 
-Y ahí es donde soluciones como **doBBox **marcan la diferencia: convertimos un problema distribuido y manual en un **sistema centralizado, automático y bajo control.**
+Y ahí es donde soluciones como **doBBox \*\*marcan la diferencia: convertimos un problema distribuido y manual en un \*\*sistema centralizado, automático y bajo control.**
