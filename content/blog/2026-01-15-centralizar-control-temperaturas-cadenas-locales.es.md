@@ -24,19 +24,19 @@ En una cadena con varios establecimientos suele repetirse un patrón:
 
 En este patrón, podemos detectar varios **puntos débiles:**
 
-- Falta de visibilidad global y actualizada
+- **Falta de visibilidad global y actualizada**
 
 Desde la oficina central es imposible saber en tiempo real si todas las cámaras frigoríficas de la cadena están dentro de rango. Solo se sabe lo que cada local envía… cuando lo envía.
 
-- Dependencia total de cada equipo
+- **Dependencia total de cada equipo**
 
 Si alguien olvida anotar las temperaturas en el registro o las anota mal, la información se pierde. No hay manera de validar que el control de temperatura en cámaras frigoríficas se está haciendo de forma homogénea y con rigor.
 
-- Mucho tiempo administrativo
+- **Mucho tiempo administrativo**
 
 Encargados y responsables de cada establecimiento dedican tiempo cada día a medir, anotar y archivar los datos, tiempo que podrían dedicar a servicio, ventas u organización del equipo…
 
-- Riesgo ante inspecciones y auditorías
+- **Riesgo ante inspecciones y auditorías**
 
 Los registros incompletos, dispersos o ilegibles ponen en riesgo el cumplimiento del APPCC, y en última instancia la reputación y el bolsillo de la marca.
 
