@@ -1,10 +1,11 @@
 ---
 title: 'Salmonella: 6 trucos para prevenirla'
-seo: 'Salmonella: 6 trucos para prevenirla - doBBox frío'
+seo:
+  title: 'Salmonella: 6 trucos para prevenirla - doBBox frío'
+  desc: La intoxicación por Salmonella es una de las enfermedades causada por bacterias y transmitidas por alimentos más comunes en todo el mundo.
 slug: trucos-prevenir-salmonella
-description: 'La intoxicación por Salmonella es una de las enfermedades causada por bacterias y transmitidas por alimentos más comunes en todo el mundo.'
-image: blog/trucos-prevenir-salmonella.png
-category: [general]
+img: /u/blog/trucos-prevenir-salmonella.png
+category: [ general ]
 toc: y
 date: 2019-08-09 07:24:15
 ---

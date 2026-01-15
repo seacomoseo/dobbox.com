@@ -4,10 +4,8 @@ icons:
   grade: 0
   optical: 24
   style: outlined
-  play: svg:youtube-iframe
-  up:
-  down:
-  left:
+  defs:
+    play: svg:youtube-iframe
   right:
 fonts:
   base:
@@ -23,7 +21,6 @@ fonts:
     italic: n
     line_height: 1.5
     size: 1
-    top: 0
   title:
     family: Poppins
     weight: 500
@@ -31,14 +28,13 @@ fonts:
     italic: n
     line_height: 1.5
     size: 1
-    top: 0
   blockquote_cursive: n
 colors:
   main:
     color: '#00acc8'
     light: '#ffffff'
     dark: '#ffffff'
-    contrast:
+    turn:
       fill: n
       in: y
       text: n
@@ -46,7 +42,7 @@ colors:
     color: '#ffffff'
     light: '#ffffff'
     dark: '#ffffff'
-    contrast:
+    turn:
       fill: y
       in: y
       text: y
@@ -54,7 +50,7 @@ colors:
     color: '#ff9933'
     light: '#ffffff'
     dark: '#ffffff'
-    contrast:
+    turn:
       fill: n
       in: n
       text: n
@@ -67,9 +63,9 @@ colors:
 rounded:
   radius: 0.25
   chamfer: n
-buttons:
-  sides_round: n
-  dot_circle: y
+btns:
+  pill: n
+  disc: y
   deep: n
   outline: n
   font:
@@ -82,7 +78,7 @@ buttons:
     uppercase: n
 inputs:
   fill: y
-  labels_out: n
+  labels: in
 shadow:
   left: 0
   top: 0

@@ -1,9 +1,10 @@
 ---
 title: Inicio
-seo: 'doBBox: App y Control Inalámbrico de Temperatura y Humedad'
+seo:
+  title: 'doBBox: App y Control Inalámbrico de Temperatura y Humedad'
+  desc: llll➤ Sistema automático de control inalámbrico de temperatura y humedad ✅ para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
 slug: inicio
-description: llll➤ Sistema automático de control inalámbrico de temperatura y humedad ✅ para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
-image: sistema-automatico-control-de-temperatura-dobbox.png
+img: /u/sistema-automatico-control-de-temperatura-dobbox.png
 icon: home
 tpl:
   sections:
@@ -25,17 +26,17 @@ org:
   names:
   - doBBox
   - doBBox - Sistema de control de temperatura
-  description: Sistema de control inalámbrico (mediante App) de temperatura y humedad para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
+  desc: Sistema de control inalámbrico (mediante App) de temperatura y humedad para cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
   legal: Data Of Business Box, S.L.
   nif: B01663418
-  email: hola@dobbox.com
-  logo: base/poster.svg
-  images:
-  - base/icon.svg
-  - sistema-automatico-control-de-temperatura-dobbox.svg
-  - moviles/captura-camaras.webp
-  - moviles/captura-camaras.png
-  - moviles/app.webp
+  mail: hola@dobbox.com
+  logo: /u/base/poster.svg
+  imgs:
+  - /u/base/icon.svg
+  - /u/sistema-automatico-control-de-temperatura-dobbox.svg
+  - /u/moviles/captura-camaras.webp
+  - /u/moviles/captura-camaras.png
+  - /u/moviles/app.webp
   as:
   - https://www.facebook.com/doBBox/
   - https://www.linkedin.com/company/dobbox/
@@ -51,11 +52,11 @@ org:
     region: Murcia
     country: España
     geo: '{"type":"Point","coordinates":[-1.1134976,37.9932005]}'
-    link: null
+    url: null
   areas:
   - Murcia
   - España
-  schedule:
+  when:
   - days:
       mon: y
       tue: y

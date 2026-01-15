@@ -19,14 +19,14 @@
 }
 #body-home #header {
   overflow: hidden;
-  .image {
+  .img {
     animation: logo-drop 1s 0s both;
   }
   @mixin show-from($delay) {
     animation: show-from .5s (.25s * $delay) both;
   }
   .box__title { @include show-from(1); }
-  .subtitle   { @include show-from(2); }
+  .sub   { @include show-from(2); }
 }
 
 
@@ -38,13 +38,13 @@
     color: var(--main);
   }
 }
-.review__figure-image {
+.review__fig-image {
   background-color: $white;
   color: $black;
   width: 100%;
   height: 100%;
 }
-.review__figure .bg-color {
+.review__fig .bg-color {
   background-color: transparent;
 }
 .apps {
@@ -70,7 +70,7 @@
 // Footer
 
 #footer {
-  .image {
+  .img {
     max-width: 12em;
     margin-left: 0;
   }

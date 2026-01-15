@@ -1,10 +1,11 @@
 ---
 title: 'Temperatura a la que mueren las bacterias'
-seo: 'Temperatura a la que mueren las bacterias - doBBox frío'
+seo:
+  title: Temperatura a la que mueren las bacterias - doBBox frío
+  desc: El rango de temperatura donde se multiplica el número de bacterias es entre los 5ºC y los 75ºC. A partir de los 120ºC se eliminan todas las bacterias.
 slug: como-matar-bicho-temperatura
-description: 'El rango de temperatura donde se multiplica el número de bacterias es entre los 5ºC y los 75ºC. A partir de los 120ºC se eliminan todas las bacterias.'
-image: blog/como-matar-bicho-temperatura.png
-category: [general]
+img: /u/blog/como-matar-bicho-temperatura.png
+category: [ general ]
 toc: y
 date: 2019-09-18 12:54:19
 ---

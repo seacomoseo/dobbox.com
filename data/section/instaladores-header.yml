@@ -1,24 +1,25 @@
 name: Instaladores ➡️ Header
-title: Descubre en todo
-subtitle: lo que te puede ayudar el instalador
-hanchor: Instaladores doBBox frío
-box:
-  cols: 4
-  gap: 2
-  align_vl: right
-  align_y: center
-  icon_size: 3
 boxes:
-- md: Con la **instalación y mantenimiento** del sistema. Sin realizar modificaciones en tus cámaras se encargará de la puesta en marcha. Además, llevará el mantenimiento de los equipos para que siempre tengas todos los datos de temperatura.
-  icon: check_circle
-- image: sensor/colocado.png
-  ratio: 1/1
-- md: El instalador podrá**anticiparse a las averías**ahorrándote dinero y disgustos, con los datos obtenidos del sistema. Gracias al algoritmo inteligente conocerá si la cámara necesita ser revisada por alguna anomalía.
-  icon: check_circle
-- image: movil/deteccion.png
-- md: '**Monitorización de tus cámaras**.Estará informado en todo momento de la temperatura. El instalador controlará la temperatura de tus cámaras por lo que podrá ofrecerte un mejor servicio.'
-  icon: check_circle
-- image: movil/monitorizacion.png
-- md: '**Asesoramiento** sobre el uso de las cámaras gracias a los históricos de datos. El instalador podrá aconsejarte en términos de eficiencia energética y temperaturas de uso de tus cámaras.'
-  icon: check_circle
-- image: movil/asesoramiento-eficiencia-energetica.png
+- title: Descubre en todo
+  sub: lo que te puede ayudar el instalador
+  hanchor: Instaladores doBBox frío
+  box:
+    cols: 4
+    gap: 2
+    align_vl: right
+    align_y: center
+    icon_size: 3
+  boxes:
+  - md: Con la **instalación y mantenimiento** del sistema. Sin realizar modificaciones en tus cámaras se encargará de la puesta en marcha. Además, llevará el mantenimiento de los equipos para que siempre tengas todos los datos de temperatura.
+    icon: check_circle
+  - img: /u/sensor/colocado.png
+    ratio: 1/1
+  - md: El instalador podrá**anticiparse a las averías**ahorrándote dinero y disgustos, con los datos obtenidos del sistema. Gracias al algoritmo inteligente conocerá si la cámara necesita ser revisada por alguna anomalía.
+    icon: check_circle
+  - img: /u/movil/deteccion.png
+  - md: '**Monitorización de tus cámaras**.Estará informado en todo momento de la temperatura. El instalador controlará la temperatura de tus cámaras por lo que podrá ofrecerte un mejor servicio.'
+    icon: check_circle
+  - img: /u/movil/monitorizacion.png
+  - md: '**Asesoramiento** sobre el uso de las cámaras gracias a los históricos de datos. El instalador podrá aconsejarte en términos de eficiencia energética y temperaturas de uso de tus cámaras.'
+    icon: check_circle
+  - img: /u/movil/asesoramiento-eficiencia-energetica.png

@@ -1,16 +1,17 @@
 name: Inicio ➡️ Miedos
-title: ¿Tienes alguno de estos 3 miedos?
 pt: 2
 pb: 1
-hanchor: Miedos
-box:
-  cols: 3
-  gap: 5
-  align: left
 boxes:
-- md: |
-    - ::delete:: **Tirar todos tus productos a la basura** porque se haya estropeado una cámara.
-- md: |
-    - ::skull:: La **intoxicación** de algún **cliente**, que lo lleve al hospital o incluso al cementerio.
-- md: |
-    - ::local_police:: Pagar una **multa** de **Sanidad** por no tener los **registros de temperatura** al día.
+- title: ¿Tienes alguno de estos 3 miedos?
+  hanchor: Miedos
+  box:
+    cols: 3
+    gap: 5
+    align: left
+  boxes:
+  - md: |
+      - ::delete:: **Tirar todos tus productos a la basura** porque se haya estropeado una cámara.
+  - md: |
+      - ::skull:: La **intoxicación** de algún **cliente**, que lo lleve al hospital o incluso al cementerio.
+  - md: |
+      - ::local_police:: Pagar una **multa** de **Sanidad** por no tener los **registros de temperatura** al día.

@@ -1,22 +1,23 @@
 name: Funcionamiento ➡️ Anticipate
-title: Anticípate
-subtitle: a las averías
-box:
-  gap: 5
-  align: left
-  align_y: center
-  cols: 2
 boxes:
-- image: movil/push-gasto-energetico.png
-  order: 2
-- title: La inteligencia artificial que conoce al 100% tus cámaras
-  md: |
-    Con el algoritmo inteligente Doctor Cámara podrás conocer si el rendimiento de tus cámaras es el adecuado y cuando necesitan ser revisadas. Detecta anomalías como:
+- title: Anticípate
+  sub: a las averías
+  box:
+    gap: 5
+    align: left
+    align_y: center
+    cols: 2
+  boxes:
+  - img: /u/movil/push-gasto-energetico.png
+    order: 2
+  - title: La inteligencia artificial que conoce al 100% tus cámaras
+    md: |
+      Con el algoritmo inteligente Doctor Cámara podrás conocer si el rendimiento de tus cámaras es el adecuado y cuando necesitan ser revisadas. Detecta anomalías como:
 
-    - ::check:: Averías o cortes de suministro
-    - ::check:: Mal funcionamiento del compresor
-    - ::check:: Pérdida de frío por cerramientos
-    - ::check:: Pérdida de gas refrigerante
-    - ::check:: Control apertura de puertas
-    - ::check:: Supervisión ciclos de desescarche
-    - ::check:: Control de gasto energético
+      - ::check:: Averías o cortes de suministro
+      - ::check:: Mal funcionamiento del compresor
+      - ::check:: Pérdida de frío por cerramientos
+      - ::check:: Pérdida de gas refrigerante
+      - ::check:: Control apertura de puertas
+      - ::check:: Supervisión ciclos de desescarche
+      - ::check:: Control de gasto energético

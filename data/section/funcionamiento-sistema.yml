@@ -1,35 +1,34 @@
 name: Funcionamiento ➡️ Sistema
-align: left
-hanchor: Sistema
-box:
-  gap_ny: 1
-  gap_vs: 4
 boxes:
-- box:
-    cols: 2
-    gap_ny: 1
-    gap_vs: 2
-    align: left
-    align_y: center
-    ratio: 3/2
-    duo: 1
+- align: left
+  hanchor: Sistema
+  box:
+    gap_vs: 4
   boxes:
-  - title: ¿De qué se compone el sistema?
-    md: |
-      El sensor de temperatura y humedad es el encargado de **medir en tiempo real las condiciones ambientales** de tu cámara frigorífica o cualquier estancia que desees controlar. ¡Tendrás la temperatura de tus productos controlada sin realizar modificaciones en tus cámaras!
-  - image: sensor/medidas-simple.webp
-  - md: |
-      El sensor de temperatura de sonda externa es perfecto para medir la **temperatura de los líquidos.** Tan solo debes introducir la sonda donde quieras controlar las condiciones y entrar en la app para visualizarlo en **tiempo real**.
-  - image: sensor/medidas.webp
-  - md: |
-      El receptor doBBox **envía los datos a la nube** vía Wi-Fi. Con un receptor podrás obtener los datos de **todos los sensores a su alcance**.
-  - image: sensor/receptor-g-15.png
-  - md: |
-      Disfruta de la comodidad y tranquilidad que te ofrece nuestro sistema. Desde la APP móvil doBBox frío, disponible para Android e iOS, puedes consultar la temperatura, ver los gráficos, establecer y recibir alertas, y descargar los informes automáticos para sanidad como indica la [normativa](https://www.boe.es/buscar/doc.php?id=DOUE-L-2004-81035).
+  - box:
+      cols: 2
+      gap_vs: 2
+      align: left
+      align_y: center
+      ratio: 3/2
+      duo: 1
+    boxes:
+    - title: ¿De qué se compone el sistema?
+      md: |
+        El sensor de temperatura y humedad es el encargado de **medir en tiempo real las condiciones ambientales** de tu cámara frigorífica o cualquier estancia que desees controlar. ¡Tendrás la temperatura de tus productos controlada sin realizar modificaciones en tus cámaras!
+    - img: /u/sensor/medidas-simple.webp
+    - md: |
+        El sensor de temperatura de sonda externa es perfecto para medir la **temperatura de los líquidos.** Tan solo debes introducir la sonda donde quieras controlar las condiciones y entrar en la app para visualizarlo en **tiempo real**.
+    - img: /u/sensor/medidas.webp
+    - md: |
+        El receptor doBBox **envía los datos a la nube** vía Wi-Fi. Con un receptor podrás obtener los datos de **todos los sensores a su alcance**.
+    - img: /u/sensor/receptor-g-15.png
+    - md: |
+        Disfruta de la comodidad y tranquilidad que te ofrece nuestro sistema. Desde la APP móvil doBBox frío, disponible para Android e iOS, puedes consultar la temperatura, ver los gráficos, establecer y recibir alertas, y descargar los informes automáticos para sanidad como indica la [normativa](https://www.boe.es/buscar/doc.php?id=DOUE-L-2004-81035).
 
-      ¿Te imaginabas que algo tan pequeño te ahorraría tantos calentamientos de cabeza?
-  - image: sensor/colocado.png
-- boxes:
-  - label: Lo quiero
-    link: /busca-tu-instalador/#instaladores
-    align: center
+        ¿Te imaginabas que algo tan pequeño te ahorraría tantos calentamientos de cabeza?
+    - img: /u/sensor/colocado.png
+  - boxes:
+    - label: Lo quiero
+      url: /busca-tu-instalador/#instaladores
+      align: center

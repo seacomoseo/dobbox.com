@@ -1,11 +1,10 @@
 ---
 title: Cómo evitar pérdidas por fallos en la refrigeración en hostelería
-seo: 'Evita pérdidas en hostelería: Control de temperatura eficaz'
+seo:
+  title: 'Evita pérdidas en hostelería: Control de temperatura eficaz'
+  desc: El 30% de la comida desperdiciada en hostelería se debe a fallos en la refrigeración. Descubre cómo evitar pérdidas económicas y garantizar la seguridad alimentaria con soluciones tecnológicas avanzadas.
 slug: evitar-perdidas-refrigeracion-hosteleria
-description: El 30% de la comida desperdiciada en hostelería se debe a fallos en
-  la refrigeración. Descubre cómo evitar pérdidas económicas y garantizar la
-  seguridad alimentaria con soluciones tecnológicas avanzadas.
-image: evitar-perdidas-refrigeracion-hosteleria.png
+img: /u/evitar-perdidas-refrigeracion-hosteleria.png
 category:
 - general
 toc: y
@@ -64,11 +63,4 @@ Cada vez más asociaciones de hostelería en España están adoptando estos sist
 
 Independientemente del tamaño o tipo de establecimiento hostelero, es importante estar al día con las innovaciones que pueden mejorar la eficiencia y seguridad de los negocios asociados. Contar con sistemas avanzados de monitoreo de temperatura puede ser una ventaja competitiva para los establecimientos que buscan diferenciarse y operar con mayor tranquilidad.
 
-
-
-
-
-![](/blog/0-grados-preocupaciones-sistema-control-camaras-frigorificas.webp)
-
-
-
+![](/u/blog/0-grados-preocupaciones-sistema-control-camaras-frigorificas.webp)

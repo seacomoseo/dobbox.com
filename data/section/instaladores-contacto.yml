@@ -1,25 +1,26 @@
 name: Instaladores ➡️ Contacto
-hanchor: Contacto
-title: ¿No encuentras un instalador en tu zona?
-subtitle: Contacta con nosotros
-hs: 3
-bi: fondo.webp
+bi: /u/fondo.webp
 color: light
 size: sm
-form:
-  id: formulario
-inputs:
-- type: text
-  name: Nombre
-  required: y
-- type: email
-  name: Email
-  label: Correo electrónico
-  required: y
-- type: tel
-  name: Teléfono
-  required: y
-- type: textarea
-  name: Mensaje
-  label: Escribe un mensaje
-  required: y
+boxes:
+- hanchor: Contacto
+  title: ¿No encuentras un instalador en tu zona?
+  sub: Contacta con nosotros
+  hs: 3
+  form:
+    id: formulario
+  inputs:
+  - type: text
+    name: Nombre
+    req: y
+  - type: mail
+    name: Email
+    label: Correo electrónico
+    req: y
+  - type: phone
+    name: Teléfono
+    req: y
+  - type: area
+    name: Mensaje
+    label: Escribe un mensaje
+    req: y

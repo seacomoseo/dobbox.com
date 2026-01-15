@@ -4,6 +4,6 @@
   - /blog/*
 - name: index
   value: 'false'
-  type: boolean
+  type: bool
   path:
   - /blog/*

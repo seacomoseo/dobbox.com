@@ -1,7 +1,7 @@
 ---
 slug: conservar-fruta
 title: Esta semana celebramos el Día Mundial de la Fruta… pero, ¿qué pasa si una cámara frigorífica falla y nadie se entera?
-image: blog/conservar-la-fruta.webp
+img: /u/blog/conservar-la-fruta.webp
 date: 2025-07-04 09:42:00
 ---
 Esta semana se celebró el [Día Mundial de la Fruta](https://www.instagram.com/p/DLjenTwh4cU/), una fecha para reconocer su valor nutricional y económico, pero también para mirar más de cerca los riesgos ocultos en su conservación. Y es que, en pleno verano, mantener la frescura no depende solo de la cosecha: **depende de que las cámaras frigoríficas funcionen sin margen de error**.
@@ -19,7 +19,7 @@ El resultado: fermentación, maduración acelerada, pérdida de textura y sabor.
 La diferencia entre prevenir una pérdida y asumir un daño total está en la **visibilidad y el control en tiempo real**. Con sistemas tradicionales, los registros suelen ser manuales y reactivos. Para cuando se detecta el fallo, el producto ya está comprometido.
 
 
-[Dobbox](m/) cambia este escenario: con [monitoreo continuo 24/7](m/catalogo-sensor-de-temperatura-receptor/), alertas instantáneas y reportes automáticos, permite actuar en el momento exacto en que ocurre la desviación térmica. Sin esperar, sin depender del factor humano.
+[Dobbox](/) cambia este escenario: con [monitoreo continuo 24/7](/catalogo-sensor-de-temperatura-receptor/), alertas instantáneas y reportes automáticos, permite actuar en el momento exacto en que ocurre la desviación térmica. Sin esperar, sin depender del factor humano.
 
 ## Control total = calidad garantizada
 
@@ -34,4 +34,4 @@ Las cámaras frigoríficas deben ser una garantía, no una vulnerabilidad. Y la 
 **Con Dobbox, puedes detectar cualquier fallo térmico antes de que sea un problema.**
 Y en verano, eso puede marcar la diferencia entre éxito y pérdida.
 
-Descubre tu instalador más cercano [aquí](m/busca-tu-instalador/)
+Descubre tu instalador más cercano [aquí](/busca-tu-instalador/)

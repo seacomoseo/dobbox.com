@@ -1,17 +1,17 @@
 ---
 slug: coste-control-temperatura-hosteleria-appcc-digital
 title: 'Controlar la temperatura a mano: el coste oculto que está pagando tu negocio'
-summary: Descubre cuánto le cuesta realmente a tu negocio seguir con el control de temperatura en hostelería de forma manual y cómo un sistema automático de control de temperatura con sensores de temperatura wifi permite digitalizar el APPCC, monitorizar cámaras frigoríficas 24/7 y lograr ROI en menos de 12 meses.
-image: /control%20ta%20manual.webp
+sum: Descubre cuánto le cuesta realmente a tu negocio seguir con el control de temperatura en hostelería de forma manual y cómo un sistema automático de control de temperatura con sensores de temperatura wifi permite digitalizar el APPCC, monitorizar cámaras frigoríficas 24/7 y lograr ROI en menos de 12 meses.
+img: /u/blog/control-ta-manual.webp
 date: 2025-12-12 13:14:00
-lastmod: 2025-12-12 13:14:00
+mod: 2025-12-12 13:14:00
 toc: n
 ---
 En **hostelería y retail frío**, todos conocemos la rutina: abrir cámaras, mirar el termómetro, apuntar en una hoja o en un Excel. Forma parte del día a día del **control de temperatura en HORECA**… pero eso no significa que sea eficiente.
 
 La realidad es que **controlar temperaturas a mano ya no es solo incómodo: es caro**. Y los números lo dejan muy claro.
 
-##  **El problema de seguir anotando temperaturas en papel**
+## El problema de seguir anotando temperaturas en papel
 
 Durante años, el **registro de temperaturas APPCC** se ha hecho así:
 
@@ -27,7 +27,7 @@ Este modelo tiene varias limitaciones:
 
 En definitiva, cuesta dinero y no garantiza una **monitorización de cámaras frigoríficas** en tiempo real, que es justo lo que exige hoy la seguridad alimentaria.
 
-## **Un caso real: 3 locales, 39 sensores y más de 6.500 € al año**
+## Un caso real: 3 locales, 39 sensores y más de 6.500 € al año
 
 Veamos qué ocurre cuando ponemos números concretos.
 
@@ -64,7 +64,7 @@ Así se transforma un proceso manual, repetitivo y con riesgo de error, en un **
 
 Además del frío, muchos negocios necesitan también **control de humedad en almacenes** (por ejemplo, bodegas, secaderos o cámaras de maduración). Los mismos dispositivos permiten vigilar humedad y temperatura sin cambiar de herramienta.
 
-## **ROI en menos de 12 meses: qué ganas cuando automatizas**
+## ROI en menos de 12 meses: qué ganas cuando automatizas
 
 Volvamos al caso de los 3 locales.
 
@@ -81,7 +81,7 @@ Solo con el ahorro de tiempo de personal, la inversión se recupera en **menos d
 - Más tranquilidad al disponer de una **monitorización de cámaras frigoríficas** 24/7.
 - Informes listos para descargar y presentar cuando lo solicite la autoridad sanitaria.
 
-## **Por dónde empezar si aún trabajas “a boli y papel”**
+## Por dónde empezar si aún trabajas “a boli y papel”
 
 Si todavía haces el **control de temperatura en hostelería** con hojas y bolígrafos, este ejercicio te puede ayudar:
 

@@ -1,10 +1,11 @@
 ---
 title: 'Mantenimiento de cámaras frigoríficas con doBBox'
-seo: 'Mantenimiento de cámaras frigoríficas con doBBox'
+seo:
+  title: Mantenimiento de cámaras frigoríficas con doBBox
+  desc: Un sistema como doBBox puede ser una herramienta ideal para ofrecer un servicio de mantenimiento de cámaras frigoríficas más eficiente
 slug: mantenimiento-camaras-frigorificas
-description: 'Un sistema como doBBox puede ser una herramienta ideal para ofrecer un servicio de mantenimiento de cámaras frigoríficas más eficiente'
-image: blog/mantenimiento-camaras-frigorificas.png
-category: [general]
+img: /u/blog/mantenimiento-camaras-frigorificas.png
+category: [ general ]
 toc: y
 date: 2020-11-27 12:22:17
 ---

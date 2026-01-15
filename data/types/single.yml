@@ -4,18 +4,18 @@ base: single
 tpl:
   section:
   - size: lg
-    parallax: fix
+    scroll: fix
     alpha: 0.8
   list:
     cols: 3
     card: n
-    color: similar
+    color: such
     align: center
     shade: y
     inset: y
-    image: hide
+    img: hide
     icon: hide
     hs: 4
     md: hide
-    button: cta
+    btn: cta
     tags: []

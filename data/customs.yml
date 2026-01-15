@@ -1,10 +1,10 @@
 - name: footer
   label: Footer
-  widget: object
+  widget: dict
   sub:
-  - var: box_dots
+  - var: dots
   - name: boxes
     label: Cajas
-    widget: list
+    widget: slice
     sub:
-    - var: box_md
+    - var: md

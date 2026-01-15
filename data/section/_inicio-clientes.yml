@@ -1,8 +1,8 @@
 name: Inicio ➡️ Clientes
-title: Y no solo lo decimos nosotros
-subtitle: ellos te lo cuentan
-hanchor: Clientes
 boxes:
+- title: Y no solo lo decimos nosotros
+  sub: ellos te lo cuentan
+  hanchor: Clientes
 - box:
     cols: 3
   boxes:
@@ -16,72 +16,72 @@ boxes:
     cols: 3
   reviews:
   - title: Juan Sánchez
-    subtitle: Propietario
-    image: logos/clientes/el-punaito.svg
+    sub: Propietario
+    img: /u/logos/clientes/el-punaito.svg
     md: |
       Estoy encantado. Ya no tenemos que preocuparnos de medir la temperatura todos los días. Ahora sin ningún esfuerzo se miden de manera automática todas las horas.
   - title: José
-    subtitle: Gerente
-    image: logos/clientes/balsavalle.svg
+    sub: Gerente
+    img: /u/logos/clientes/balsavalle.svg
     md: |
       Gracias al sistema doBBox, garantizamos la cadena de frio en nuestro local, sabemos a tiempo real la temperatura y humedad de nuestras cámaras y su sistema de alerta nos ha evitado algún que otro susto.
   - title: Director
-    subtitle: Dpto. de Hostelería
-    image: logos/clientes/escuela-hosteleria-madrid.svg
+    sub: Dpto. de Hostelería
+    img: /u/logos/clientes/escuela-hosteleria-madrid.svg
     md: |
       Todo controlado siempre desde el móvil
   - title: Carlos Castillo
-    subtitle: Gerente
-    image: logos/clientes/campamento-chaparral.svg
+    sub: Gerente
+    img: /u/logos/clientes/campamento-chaparral.svg
     md: |
       Lo mejor de doBBox es que puedo garantizar la seguridad alimentaria de cara a los clientes sin esfuerzo y supervisar las condiciones de mis cámaras frigoríficas a través del móvil.
   - title: Antonio
-    subtitle: Gerente
-    image: logos/clientes/carniceria-nunez.svg
+    sub: Gerente
+    img: /u/logos/clientes/carniceria-nunez.svg
     md: |
       Lo recomiendo por la tranquilidad que te da teniendo tanto dinero en género en las cámaras. Me permite irme un domingo o festivo a desconectar sin preocupaciones y si surge algún problema nos avisa al móvil.
   - title: Antonio
-    subtitle: Gerente
-    image: logos/clientes/carniceria-toni.svg
+    sub: Gerente
+    img: /u/logos/clientes/carniceria-toni.svg
     md: |
       El sistema funciona muy bien. Lo que más nos gusta es el trabajo que nos quita al no tener que estar tomando la temperatura de las cámaras manualmente todos los días.
   - title: Marc Barniol
-    subtitle: Gerente
-    image: logos/clientes/la-casa-de-la-pizza.svg
+    sub: Gerente
+    img: /u/logos/clientes/la-casa-de-la-pizza.svg
     md: |
       doBBox me ayuda a garantizar que nuestras cámaras frigoríficas, vehículos e instalaciones están siempre a la temperatura correcta y totalmente controlados.
   - title: Javi Moreno
-    subtitle: Gerente y subcampeón mundial <br> [Panadería La Madrugada](https://www.instagram.com/la_madrugada_javier_moreno/)
-    image: logos/clientes/madrugada.svg
+    sub: Gerente y subcampeón mundial <br> [Panadería La Madrugada](https://www.instagram.com/la_madrugada_javier_moreno/)
+    img: /u/logos/clientes/madrugada.svg
     md: |
       Con doBBox tengo el control de mis masas desde cualquier sitio y duermo más tranquilo sabiendo que todo el trabajo que he realizado está bien y que si pasa algo me avisa para poder tomar medidas.
   - title: Juan Ant. Aguilella
-    subtitle: Gerente <br> [Fosters Hollywood Atalayas](https://fostershollywood.es/restaurantes/murcia/murcia/fh-atalayas?utm_source=directorios&amp;utm_medium=organic&amp;utm_campaign=estatica_directorios&amp;utm_content=sitio_web)
-    image: logos/clientes/foster-hollywood.svg
+    sub: Gerente <br> [Fosters Hollywood Atalayas](https://fostershollywood.es/restaurantes/murcia/murcia/fh-atalayas?utm_source=directorios&amp;utm_medium=organic&amp;utm_campaign=estatica_directorios&amp;utm_content=sitio_web)
+    img: /u/logos/clientes/foster-hollywood.svg
     md: |
       El sistema nos ayuda a garantizar la conservación del producto que le damos a nuestros clientes y la tranquilidad de tener las cámaras frigoríficas controladas cuando no estamos en el local.
   - title: Antonio Serrano
-    subtitle: Gerente <br> [Confiterías La Cruz](http://www.confiteriaslacruz.com/)
-    image: logos/clientes/confiteria-la-cruz.svg
+    sub: Gerente <br> [Confiterías La Cruz](http://www.confiteriaslacruz.com/)
+    img: /u/logos/clientes/confiteria-la-cruz.svg
     md: |
       Llevábamos mucho tiempo buscando un sistema así. doBBox nos da la tranquilidad de que la temperatura está controlada y de que si hay algún problema, estamos informados.
   - title: María Gómez
-    subtitle: Propietaria (1 Estrella Michelin) <br> [Restaurante Magoga](https://restaurantemagoga.com/)
-    image: logos/clientes/magoga.svg
+    sub: Propietaria (1 Estrella Michelin) <br> [Restaurante Magoga](https://restaurantemagoga.com/)
+    img: /u/logos/clientes/magoga.svg
     md: |
       Ya puedo dormir por las noches y salir de día libre sin preocuparme. A quién no le ha pasado que se ha ido de vacaciones, la cámara ha fallado y ha tenido que tirar todo el género. Es un lujo.
   - title: Belén Pallarés
-    subtitle: Propietaria <br> [Livanti](https://www.livanti.es/)
-    image: logos/clientes/livanti.svg
+    sub: Propietaria <br> [Livanti](https://www.livanti.es/)
+    img: /u/logos/clientes/livanti.svg
     md: |
       Cuando tu negocio depende de la temperatura de tu producto, contar con doBBox supone estar tranquila y segura. Las alertas ante posibles incidencias nos ha permitido liberarnos de preocupaciones.
   - title: Manuel
-    subtitle: Jefe de obrador <br> [Panadería Sánchez García](https://www.panaderiasanchezgarcia.com/)
-    image: logos/clientes/panaderia-sanchez-garcia.svg
+    sub: Jefe de obrador <br> [Panadería Sánchez García](https://www.panaderiasanchezgarcia.com/)
+    img: /u/logos/clientes/panaderia-sanchez-garcia.svg
     md: |
       Temperaturas y humedad siempre controlada en tiempo real. Además, buen sistema de registros e informes válidos para sanidad. Su sistema de alertas es muy cómodo, de fácil configuración y evita sustos.
   - title: Manuel Álvarez
-    subtitle: Propietario <br> [La Tapeoteca](https://www.latapeoteca.es/)
-    image: logos/clientes/la-tapeoteca.svg
+    sub: Propietario <br> [La Tapeoteca](https://www.latapeoteca.es/)
+    img: /u/logos/clientes/la-tapeoteca.svg
     md: |
       Me da la tranquilidad de saber que todos mis productos van a estar perfectos siempre porque es un sistema exhaustivo que está funcionando en todo momento y que me avisa del mínimo fallo que haya en mis cámaras.

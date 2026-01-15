@@ -1,10 +1,11 @@
 ---
 title: 'Tipos de mantenimiento de cámaras frigoríficas'
-seo: 'Los 3 tipos de mantenimiento de cámaras frigoríficas'
+seo:
+  title: Los 3 tipos de mantenimiento de cámaras frigoríficas
+  desc: El mantenimiento de las cámaras frigoríficas influye en su ciclo de vida. Los tipos de mantenimiento son predictivo, preventivo y correctivo.
 slug: tipos-mantenimiento-camaras-frigorificas
-description: 'El mantenimiento de las cámaras frigoríficas influye en su ciclo de vida. Los tipos de mantenimiento son predictivo, preventivo y correctivo.'
-image: blog/tipos-mantenimiento-camaras-frigorificas.png
-category: [general]
+img: /u/blog/tipos-mantenimiento-camaras-frigorificas.png
+category: [ general ]
 toc: y
 date: 2022-01-25 16:01:42
 ---

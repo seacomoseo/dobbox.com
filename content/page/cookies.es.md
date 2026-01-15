@@ -3,7 +3,8 @@ slug: cookies
 title: Cookies
 icon: cookie
 toc: y
-noindex: y
+seo:
+  noindex: y
 weight: 3
 ---
 Política de Cookies

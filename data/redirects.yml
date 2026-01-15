@@ -38,18 +38,18 @@
 
 
 # PDF
-- { from: /wp-content/uploads/2023/08/Informe-Diciembre-2022-Temperatura-Restaurante-Alba.pdf , to: /media/pdf/informe-temperatura-ejemplo.pdf }
+- { from: /wp-content/uploads/2023/08/Informe-Diciembre-2022-Temperatura-Restaurante-Alba.pdf , to: /u/pdf/informe-temperatura-ejemplo.pdf }
 
 
 # IMAGENES
 
 # inicio
-- { from: /wp-content/uploads/2021/06/moviles-app.png , to: /media/moviles/app.webp }
-- { from: /wp-content/uploads/2022/07/pegatina-establecimientos_12cm_version-web-1.png , to: /media/sistema-automatico-control-de-temperatura-dobbox.png }
-- { from: /wp-content/uploads/2021/01/movil-app3.png , to: /media/movil-app.png }
-- { from: /wp-content/uploads/2021/02/movil-informe.png , to: /media/movil-informe.png }
-- { from: /wp-content/uploads/2021/02/movil-alertas.png , to: /media/movil-alertas.png }
-- { from: /wp-content/uploads/2021/03/movil-informe-max-min.png , to: /media/movil-informe-max-min.png }
+- { from: /wp-content/uploads/2021/06/moviles-app.png , to: /u/moviles/app.webp }
+- { from: /wp-content/uploads/2022/07/pegatina-establecimientos_12cm_version-web-1.png , to: /u/sistema-automatico-control-de-temperatura-dobbox.png }
+- { from: /wp-content/uploads/2021/01/movil-app3.png , to: /u/movil-app.png }
+- { from: /wp-content/uploads/2021/02/movil-informe.png , to: /u/movil-informe.png }
+- { from: /wp-content/uploads/2021/02/movil-alertas.png , to: /u/movil-alertas.png }
+- { from: /wp-content/uploads/2021/03/movil-informe-max-min.png , to: /u/movil-informe-max-min.png }
 # apps
 - { from: /wp-content/uploads/2020/11/logo_appstore.png , to: / }
 - { from: /wp-content/uploads/2022/07/LOGO-APP-STORE_V2.png , to: / }
@@ -78,42 +78,42 @@
 
 # dispositivos
 # header
-- { from: /wp-content/uploads/2023/07/captura-camaras-web.webp , to: /media/moviles/captura-camaras.png }
-- { from: /wp-content/uploads/2023/07/captura-grafico-humedad-web_1.webp , to: /media/moviles/captura-camaras.png }
-- { from: /wp-content/uploads/2023/07/captura-grafico-temperatura-web_1.webp , to: /media/moviles/captura-camaras.png }
+- { from: /wp-content/uploads/2023/07/captura-camaras-web.webp , to: /u/moviles/captura-camaras.png }
+- { from: /wp-content/uploads/2023/07/captura-grafico-humedad-web_1.webp , to: /u/moviles/captura-camaras.png }
+- { from: /wp-content/uploads/2023/07/captura-grafico-temperatura-web_1.webp , to: /u/moviles/captura-camaras.png }
 # funcionalidades
-- { from: /wp-content/uploads/2022/05/movil-alertas.png , to: /media/movil-alertas.png }
+- { from: /wp-content/uploads/2022/05/movil-alertas.png , to: /u/movil-alertas.png }
 # informes
-- { from: /wp-content/uploads/2023/07/informe-temperatura-nuevov2-e1690452137517.png , to: /media/movil/informe-temperatura.png }
+- { from: /wp-content/uploads/2023/07/informe-temperatura-nuevov2-e1690452137517.png , to: /u/movil/informe-temperatura.png }
 # anticipate
-- { from: /wp-content/uploads/2023/07/push-gastos-energetico.webp , to: /media/movil/push-gasto-energetico.png }
+- { from: /wp-content/uploads/2023/07/push-gastos-energetico.webp , to: /u/movil/push-gasto-energetico.png }
 # mide
-- { from: /wp-content/uploads/2022/05/movil-humedad-300x300-1.png , to: /media/movil-humedad.png }
+- { from: /wp-content/uploads/2022/05/movil-humedad-300x300-1.png , to: /u/movil-humedad.png }
 # sistemas
-- { from: /wp-content/uploads/2022/05/sensor-y-receptor-v2.png , to: /media/sensor/y-receptor.png }
-- { from: /wp-content/uploads/2022/05/sensor_colocado.png , to: /media/sensor/colocado.png }
-- { from: /wp-content/uploads/2023/07/sensor-sonda-externa.png , to: /media/sensor/medidas.png }
-- { from: /wp-content/uploads/2023/07/receptor-wifi_medidas_nuevo.webp , to: /media/sensor/receptor-medidas.webp }
-- { from: /wp-content/uploads/2023/07/sensor_medidas.png , to: /media/sensor/medidas.png }
-- { from: /wp-content/uploads/2021/07/sensor-sonda-2.png , to: /media/sensor/medidas.png }
+- { from: /wp-content/uploads/2022/05/sensor-y-receptor-v2.png , to: /u/sensor/y-receptor.png }
+- { from: /wp-content/uploads/2022/05/sensor_colocado.png , to: /u/sensor/colocado.png }
+- { from: /wp-content/uploads/2023/07/sensor-sonda-externa.png , to: /u/sensor/medidas.png }
+- { from: /wp-content/uploads/2023/07/receptor-wifi_medidas_nuevo.webp , to: /u/sensor/receptor-medidas.webp }
+- { from: /wp-content/uploads/2023/07/sensor_medidas.png , to: /u/sensor/medidas.png }
+- { from: /wp-content/uploads/2021/07/sensor-sonda-2.png , to: /u/sensor/medidas.png }
 
 # instaladores
-- { from: /wp-content/uploads/2022/08/deteccion-2_v3.png , to: /media/movil/deteccion.png }
-- { from: /wp-content/uploads/2022/05/captura-camaras.png , to: /media/movil/monitorizacion.png }
-- { from: /wp-content/uploads/2022/05/captura-eficiencia-energetica-MOCK-UP-3.png , to: /media/movil/asesoramiento-eficiencia-energetica.png }
-- { from: /wp-content/uploads/2022/05/restaurante-15-1.png , to: /media/restaurante.jpg }
-- { from: /media/restaurante.png , to: /media/restaurante.jpg }
+- { from: /wp-content/uploads/2022/08/deteccion-2_v3.png , to: /u/movil/deteccion.png }
+- { from: /wp-content/uploads/2022/05/captura-camaras.png , to: /u/movil/monitorizacion.png }
+- { from: /wp-content/uploads/2022/05/captura-eficiencia-energetica-MOCK-UP-3.png , to: /u/movil/asesoramiento-eficiencia-energetica.png }
+- { from: /wp-content/uploads/2022/05/restaurante-15-1.png , to: /u/restaurante.jpg }
+- { from: /media/restaurante.png , to: /u/restaurante.jpg }
 
 # instalador-alta
-- { from: /wp-content/uploads/2022/05/camara-frigorifica-1.png , to: /media/camara-frigorifica.png }
+- { from: /wp-content/uploads/2022/05/camara-frigorifica-1.png , to: /u/camara-frigorifica.png }
 
 # faq
-- { from: /wp-content/uploads/2023/07/teclado.gif , to: /media/teclado.webm }
+- { from: /wp-content/uploads/2023/07/teclado.gif , to: /u/teclado.webm }
 
 # api
-- { from: /wp-content/uploads/2022/07/imagen-web-7.png , to: /media/ecosistema-dobbox.png }
-- { from: /wp-content/uploads/2022/07/appcc-tablet-2.jpg , to: /media/appcc-digital.jpg }
-- { from: /wp-content/uploads/2022/07/TPV-joven-editada-1.jpg , to: /media/appcc-tpv.jpg }
+- { from: /wp-content/uploads/2022/07/imagen-web-7.png , to: /u/ecosistema-dobbox.png }
+- { from: /wp-content/uploads/2022/07/appcc-tablet-2.jpg , to: /u/appcc-digital.jpg }
+- { from: /wp-content/uploads/2022/07/TPV-joven-editada-1.jpg , to: /u/appcc-tpv.jpg }
 
 # prensa
 - { from: /wp-content/uploads/2020/10/logo_cadenaser3.png , to: / }
@@ -121,57 +121,57 @@
 - { from: /wp-content/uploads/2020/10/logo_infohoreca2.png , to: / }
 
 # subvencion
-- { from: /wp-content/uploads/2020/12/subvencion_footer-300x196.png , to: /media/subvencion.png }
+- { from: /wp-content/uploads/2020/12/subvencion_footer-300x196.png , to: /u/subvencion.png }
 
 # blog
-- { from: /wp-content/uploads/2019/10/pexels-rodnae-productions-7362882.jpg , to: /media/blog/inspecciones-sanitarias-que-se-revisa.jpg }
-- { from: /wp-content/uploads/2020/05/12-descongelar_blog.png , to: /media/blog/descongelar-alimentos-reglas-basicas.png }
-- { from: /wp-content/uploads/2020/05/1-contaminacion_blog.png , to: /media/blog/evita-contaminacion-cruzada-restaurante.png }
-- { from: /wp-content/uploads/2020/05/3-salmonella_blog.png , to: /media/blog/trucos-prevenir-salmonella.png }
-- { from: /wp-content/uploads/2020/05/9-Legionela_blog-1.png , to: /media/blog/legionella-como-evitarla.png }
-- { from: /wp-content/uploads/2020/06/portada_blog-1.png , to: /media/blog/restaurantes-4-0-mejorar-experiencia-cliente.png }
-- { from: /wp-content/uploads/2020/10/portadas_blog.png , to: /media/blog/cadena-frio-seguridad-alimentaria.png }
-- { from: /wp-content/uploads/2020/11/portada_mantenimiento.png , to: /media/blog/mantenimiento-camaras-frigorificas.png }
-- { from: /wp-content/uploads/2021/01/0-COMPRA-FACIL.png , to: /media/blog/guia-compra-sistema-control-camaras-frigorificas.png }
-- { from: /wp-content/uploads/2021/01/portada_ordenar-camaras.png , to: /media/blog/claves-ordenar-camaras-frigorificas.png }
-- { from: /wp-content/uploads/2021/01/portada_temperatura-bacterias.png , to: /media/blog/como-matar-bicho-temperatura.png }
-- { from: /wp-content/uploads/2021/02/portada_control_tyh.png , to: /media/blog/control-temperatura-humedad.png }
-- { from: /wp-content/uploads/2021/02/portadas_blog_dobbox.png , to: /media/blog/avances-tecnologia-alimentaria.png }
-- { from: /wp-content/uploads/2021/03/portadas_blog_dobbox-1.png , to: /media/blog/1300-millones-toneladas-desperdicio-alimentos.png }
-- { from: /wp-content/uploads/2021/04/portadas_blog_dobbox-2.png , to: /media/blog/tipos-registrador-temperatura.png }
-- { from: /media/blog/ipos-registrador-temperatura.png , to: /media/blog/tipos-registrador-temperatura.png }
-- { from: /wp-content/uploads/2021/05/portadas_blog_dobbox-3.png , to: /media/blog/control-humedad-camaras-frigorificas.png }
-- { from: /wp-content/uploads/2021/12/portadas_blog_dobbox-4.png , to: /media/blog/anisakis-claves-prevenir-intoxicacion.png }
-- { from: /wp-content/uploads/2022/01/portadas_blog_dobbox-5.png , to: /media/blog/tipos-mantenimiento-camaras-frigorificas.png }
-- { from: /wp-content/uploads/2022/02/portadas_blog_dobbox-7.png , to: /media/blog/appcc-principios-prerrequisitos.png }
-- { from: /wp-content/uploads/2022/03/portadas_blog_dobbox.png , to: /media/blog/intoxicaciones-alimentarias-como-prevenirlas.png }
-- { from: /wp-content/uploads/2022/08/portada-blog-agosto.png , to: /media/blog/sensor-temperatura-clave-conservacion-alimentos.png }
-- { from: /wp-content/uploads/2020/05/1-contaminacion_blog.png , to: /media/blog/evita-contaminacion-cruzada-restaurante.png }
-- { from: /wp-content/uploads/2022/08/Imagen-para-blog-sensor-de-temperatura.webp , to: /media/blog/0-grados-preocupaciones-sistema-control-camaras-frigorificas.webp }
-- { from: /wp-content/uploads/2022/02/ARBOL-DE-DECISION-APPCC1.png , to: /media/blog/arbol-decision-appcc.png }
-- { from: /wp-content/uploads/2022/03/Imagen-blog-.png , to: /media/blog/intoxicaciones-alimentarias-mas-comunes.png }
-- { from: /wp-content/uploads/2022/08/Imagen-para-blog-sensor-de-temperatura.png , to: /media/blog/0-grados-preocupaciones-sistema-control-camaras-frigorificas.png }
+- { from: /wp-content/uploads/2019/10/pexels-rodnae-productions-7362882.jpg , to: /u/blog/inspecciones-sanitarias-que-se-revisa.jpg }
+- { from: /wp-content/uploads/2020/05/12-descongelar_blog.png , to: /u/blog/descongelar-alimentos-reglas-basicas.png }
+- { from: /wp-content/uploads/2020/05/1-contaminacion_blog.png , to: /u/blog/evita-contaminacion-cruzada-restaurante.png }
+- { from: /wp-content/uploads/2020/05/3-salmonella_blog.png , to: /u/blog/trucos-prevenir-salmonella.png }
+- { from: /wp-content/uploads/2020/05/9-Legionela_blog-1.png , to: /u/blog/legionella-como-evitarla.png }
+- { from: /wp-content/uploads/2020/06/portada_blog-1.png , to: /u/blog/restaurantes-4-0-mejorar-experiencia-cliente.png }
+- { from: /wp-content/uploads/2020/10/portadas_blog.png , to: /u/blog/cadena-frio-seguridad-alimentaria.png }
+- { from: /wp-content/uploads/2020/11/portada_mantenimiento.png , to: /u/blog/mantenimiento-camaras-frigorificas.png }
+- { from: /wp-content/uploads/2021/01/0-COMPRA-FACIL.png , to: /u/blog/guia-compra-sistema-control-camaras-frigorificas.png }
+- { from: /wp-content/uploads/2021/01/portada_ordenar-camaras.png , to: /u/blog/claves-ordenar-camaras-frigorificas.png }
+- { from: /wp-content/uploads/2021/01/portada_temperatura-bacterias.png , to: /u/blog/como-matar-bicho-temperatura.png }
+- { from: /wp-content/uploads/2021/02/portada_control_tyh.png , to: /u/blog/control-temperatura-humedad.png }
+- { from: /wp-content/uploads/2021/02/portadas_blog_dobbox.png , to: /u/blog/avances-tecnologia-alimentaria.png }
+- { from: /wp-content/uploads/2021/03/portadas_blog_dobbox-1.png , to: /u/blog/1300-millones-toneladas-desperdicio-alimentos.png }
+- { from: /wp-content/uploads/2021/04/portadas_blog_dobbox-2.png , to: /u/blog/tipos-registrador-temperatura.png }
+- { from: /media/blog/ipos-registrador-temperatura.png , to: /u/blog/tipos-registrador-temperatura.png }
+- { from: /wp-content/uploads/2021/05/portadas_blog_dobbox-3.png , to: /u/blog/control-humedad-camaras-frigorificas.png }
+- { from: /wp-content/uploads/2021/12/portadas_blog_dobbox-4.png , to: /u/blog/anisakis-claves-prevenir-intoxicacion.png }
+- { from: /wp-content/uploads/2022/01/portadas_blog_dobbox-5.png , to: /u/blog/tipos-mantenimiento-camaras-frigorificas.png }
+- { from: /wp-content/uploads/2022/02/portadas_blog_dobbox-7.png , to: /u/blog/appcc-principios-prerrequisitos.png }
+- { from: /wp-content/uploads/2022/03/portadas_blog_dobbox.png , to: /u/blog/intoxicaciones-alimentarias-como-prevenirlas.png }
+- { from: /wp-content/uploads/2022/08/portada-blog-agosto.png , to: /u/blog/sensor-temperatura-clave-conservacion-alimentos.png }
+- { from: /wp-content/uploads/2020/05/1-contaminacion_blog.png , to: /u/blog/evita-contaminacion-cruzada-restaurante.png }
+- { from: /wp-content/uploads/2022/08/Imagen-para-blog-sensor-de-temperatura.webp , to: /u/blog/0-grados-preocupaciones-sistema-control-camaras-frigorificas.webp }
+- { from: /wp-content/uploads/2022/02/ARBOL-DE-DECISION-APPCC1.png , to: /u/blog/arbol-decision-appcc.png }
+- { from: /wp-content/uploads/2022/03/Imagen-blog-.png , to: /u/blog/intoxicaciones-alimentarias-mas-comunes.png }
+- { from: /wp-content/uploads/2022/08/Imagen-para-blog-sensor-de-temperatura.png , to: /u/blog/0-grados-preocupaciones-sistema-control-camaras-frigorificas.png }
 
 # 2020-03-21
-- { from: /media/sensor-y-receptor.png , to: /media/sensor/y-receptor.png }
-- { from: /media/sensor-colocado.png , to: /media/sensor/colocado.png }
-- { from: /media/sensor-medidas.png , to: /media/sensor/medidas.png }
-- { from: /media/sensor-medidas.png , to: /media/sensor/medidas.png }
-- { from: /media/sensor-medidas.png , to: /media/sensor/medidas.png }
-- { from: /media/receptor-medidas.webp , to: /media/sensor/receptor-medidas.webp }
+- { from: /media/sensor-y-receptor.png , to: /u/sensor/y-receptor.png }
+- { from: /media/sensor-colocado.png , to: /u/sensor/colocado.png }
+- { from: /media/sensor-medidas.png , to: /u/sensor/medidas.png }
+- { from: /media/sensor-medidas.png , to: /u/sensor/medidas.png }
+- { from: /media/sensor-medidas.png , to: /u/sensor/medidas.png }
+- { from: /media/receptor-medidas.webp , to: /u/sensor/receptor-medidas.webp }
 
-- { from: /media/moviles-app.webp , to: /media/moviles/app.webp }
-- { from: /media/captura-camaras.png , to: /media/moviles/captura-camaras.png }
+- { from: /media/moviles-app.webp , to: /u/moviles/app.webp }
+- { from: /media/captura-camaras.png , to: /u/moviles/captura-camaras.png }
 
-- { from: /media/push-gasto-energetico.png , to: /media/movil/push-gasto-energetico.png }
-- { from: /media/monitorizacion.png , to: /media/movil/monitorizacion.png }
-- { from: /media/informe-temperatura.png , to: /media/movil/informe-temperatura.png }
-- { from: /media/movil/deteccion.png , to: /media/deteccion.png }
-- { from: /media/movil/asesoramiento-eficiencia-energetica.png , to: /media/asesoramiento-eficiencia-energetica.png }
+- { from: /media/push-gasto-energetico.png , to: /u/movil/push-gasto-energetico.png }
+- { from: /media/monitorizacion.png , to: /u/movil/monitorizacion.png }
+- { from: /media/informe-temperatura.png , to: /u/movil/informe-temperatura.png }
+- { from: /media/movil/deteccion.png , to: /u/deteccion.png }
+- { from: /media/movil/asesoramiento-eficiencia-energetica.png , to: /u/asesoramiento-eficiencia-energetica.png }
 
-- { from: /media/informe-temperatura-ejemplo.pdf , to: /media/pdf/informe-temperatura-ejemplo.pdf }
-- { from: /media/orden-de-pedido-dobbox.pdf , to: /media/pdf/orden-de-pedido-dobbox.pdf }
-- { from: /media/1bvdmut9ov-tarifas-instalador-hosteleria-dobbox-2024.pdf , to: /media/pdf/1bvdmut9ov-tarifas-instalador-hosteleria-dobbox-2024.pdf }
+- { from: /media/informe-temperatura-ejemplo.pdf , to: /u/pdf/informe-temperatura-ejemplo.pdf }
+- { from: /media/orden-de-pedido-dobbox.pdf , to: /u/pdf/orden-de-pedido-dobbox.pdf }
+- { from: /media/1bvdmut9ov-tarifas-instalador-hosteleria-dobbox-2024.pdf , to: /u/pdf/1bvdmut9ov-tarifas-instalador-hosteleria-dobbox-2024.pdf }
 
 # 2024-09-18
 - { from: /blog/page/2/ , to: /blog/ }
@@ -183,5 +183,5 @@
 
 # 2024-10-29
 - { from: /politica-de-privacidad/ , to: /privacidad/ }
-- { from: /media/captura-camaras.webp , to: /media/camara-frigorifica.png }
+- { from: /media/captura-camaras.webp , to: /u/camara-frigorifica.png }
 - { from: /busca-tu- , to: /busca-tu-instalador/ }

@@ -1,24 +1,25 @@
 name: Alertas ➡️ Sobre
-title: 📱 Sobre el Producto
-md: |
-  Imagina que estais concentrados en tu zona de trabajo, con las manos ocupadas, y de repente ocurre un fallo en tus cámaras.
-
-  **Con el nuevo dispositivo de doBBox, no tienes que preocuparte.**
-
-  Cualquiera de tu equipo puede detectar cualquier anomalía al instante con la alerta sonora y/o lumínica sin tener que mirar la notificación del móvil.
-box:
-  gap: 3
-  cols: 3
 boxes:
-- icon: e911_emergency
-  title: Alertas Sonoras y Lumínicas
+- title: 📱 Sobre el Producto
   md: |
-    Configura cuando quieres que el sistema te avise mientras estás trabajando.
-- icon: groups_3
-  title: Tu Equipo <br> Informado
-  md: |
-    Estará informado sobre cualquier alerta sin necesidad de estar constantemente revisando el móvil.
-- icon: link
-  title: Fácil <br> Instalación
-  md: |
-    Solo conectar a la corriente y a tu WiFi.
+    Imagina que estais concentrados en tu zona de trabajo, con las manos ocupadas, y de repente ocurre un fallo en tus cámaras.
+
+    **Con el nuevo dispositivo de doBBox, no tienes que preocuparte.**
+
+    Cualquiera de tu equipo puede detectar cualquier anomalía al instante con la alerta sonora y/o lumínica sin tener que mirar la notificación del móvil.
+  box:
+    gap: 3
+    cols: 3
+  boxes:
+  - icon: e911_emergency
+    title: Alertas Sonoras y Lumínicas
+    md: |
+      Configura cuando quieres que el sistema te avise mientras estás trabajando.
+  - icon: groups_3
+    title: Tu Equipo <br> Informado
+    md: |
+      Estará informado sobre cualquier alerta sin necesidad de estar constantemente revisando el móvil.
+  - icon: link
+    title: Fácil <br> Instalación
+    md: |
+      Solo conectar a la corriente y a tu WiFi.

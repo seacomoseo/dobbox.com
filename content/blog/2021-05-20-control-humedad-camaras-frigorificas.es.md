@@ -1,10 +1,11 @@
 ---
 title: 'Control de humedad: ¿Cómo detectarla?'
-seo: 'Control de humedad: las claves para detectarlo y olvidarte'
+seo:
+  title: 'Control de humedad: las claves para detectarlo y olvidarte'
+  desc: El control de humedad en los alimentos es tan importante como el control de la temperatura de las cámaras frigoríficas de las mismas.
 slug: control-humedad-camaras-frigorificas
-description: 'El control de humedad en los alimentos es tan importante como el control de la temperatura de las cámaras frigoríficas de las mismas.'
-image: blog/control-humedad-camaras-frigorificas.png
-category: [general]
+img: /u/blog/control-humedad-camaras-frigorificas.png
+category: [ general ]
 toc: y
 date: 2021-05-20 11:19:59
 ---

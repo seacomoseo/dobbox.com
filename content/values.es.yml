@@ -1,33 +1,33 @@
 menu:
-  image: base/logo.svg
+  img: /u/base/logo.svg
   items:
-  - link: /
+  - url: /
     label: Inicio
-  - link: /catalogo-sensor-de-temperatura-receptor/
+  - url: /catalogo-sensor-de-temperatura-receptor/
     label: Funcionamiento
   - label: Instaladores
     items:
-    - link: /busca-tu-instalador/
+    - url: /busca-tu-instalador/
       label: Busca tu instalador
-    - link: /alta-instalador-dobbox-frio-aumenta-servicio/
+    - url: /alta-instalador-dobbox-frio-aumenta-servicio/
       label: Alta instalador
-  - link: /blog/
+  - url: /blog/
     label: Blog
-  - link: /preguntas-frecuentes/
+  - url: /preguntas-frecuentes/
     label: FAQ
-  - link: https://app.dobbox.com/
+  - url: https://app.dobbox.com/
     label: Acceso Plataforma
     lock: y
-    button: main
+    btn: main
 footer:
   dots:
-  - link: https://www.facebook.com/doBBox/
-  - link: https://www.linkedin.com/company/dobbox/
-  - link: https://www.instagram.com/dobboxfrio/
-  - link: https://g.page/r/CWSvbD-vfW33EBM
+  - url: https://www.facebook.com/doBBox/
+  - url: https://www.linkedin.com/company/dobbox/
+  - url: https://www.instagram.com/dobboxfrio/
+  - url: https://g.page/r/CWSvbD-vfW33EBM
   boxes:
   - md: |-
-      [![](base/logo.svg)](/)
+      [![](/u/base/logo.svg)](/)
 
       Data Of Business BOX S.L.
 
@@ -35,8 +35,8 @@ footer:
       - ::mail::  hola@dobbox.com
       {.aux-space}
 
-      - [![Descarga para Android en la Play Store](logos/apps/playstore.svg)](https://play.google.com/store/apps/details?id=com.dobbox.bcw&gl=ES)
-      - [![Descarga para iPhone en la App Store](logos/apps/appstore.svg)](https://apps.apple.com/es/app/dobbox-frio/id1532862054#?platform=iphone)
+      - [![Descarga para Android en la Play Store](/u/logos/apps/playstore.svg)](https://play.google.com/store/apps/details?id=com.dobbox.bcw&gl=ES)
+      - [![Descarga para iPhone en la App Store](/u/logos/apps/appstore.svg)](https://apps.apple.com/es/app/dobbox-frio/id1532862054#?platform=iphone)
       {.apps .list-inline}
   - md: |-
       - ::help_outline:: [Preguntas frecuentes](/preguntas-frecuentes/)
@@ -57,4 +57,3 @@ footer:
       - ::copyright::        {{< internal-link index >}}
       - ::brand:seacomoseo:: [Diseño seacomoseo.com](https://seacomoseo.com/)
   color: light
-title: Valores Globales

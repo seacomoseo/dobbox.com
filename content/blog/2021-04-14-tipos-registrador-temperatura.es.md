@@ -1,10 +1,11 @@
 ---
 title: 'Registrador de temperatura: qué es, para que sirve y tipos.'
-seo: 'Registrador de temperatura: qué es, para que sirve y tipos'
+seo:
+  title: 'Registrador de temperatura: qué es, para que sirve y tipos'
+  desc: Un registrador de temperatura de cámaras frigoríficas es un equipo que mide de manera continua la temperatura que se encuentra dentro de ellas.
 slug: tipos-registrador-temperatura
-description: 'Un registrador de temperatura de cámaras frigoríficas es un equipo que mide de manera continua la temperatura que se encuentra dentro de ellas.'
-image: blog/tipos-registrador-temperatura.png
-category: [general]
+img: /u/blog/tipos-registrador-temperatura.png
+category: [ general ]
 toc: y
 date: 2021-04-14 14:35:51
 ---
@@ -45,4 +46,4 @@ En segundo lugar, tener registrada la temperatura de tus cámaras frigoríficas 
 
 Por último, mencionar que desde [doBBox](/), nuestro registrador de temperatura, contribuimos al cuidado del medio ambiente y del planeta, y es por ello que nuestro receptor Wi-fi está hecho con material totalmente biodegradable, el PLA.
 
-![registrador de temperatura](blog/0-grados-preocupaciones-sistema-control-camaras-frigorificas.webp)
+![registrador de temperatura](/u/blog/0-grados-preocupaciones-sistema-control-camaras-frigorificas.webp)

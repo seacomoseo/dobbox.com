@@ -1,9 +1,10 @@
 ---
 slug: preguntas-frecuentes
 title: FAQ
-seo: Preguntas frecuentes - doBBox
-description: llll➤ Preguntas frecuentes ✅ sobre el sistema de control inalámbrico de temperatura de cámaras frigoríficas
-image: base/poster.svg
+seo:
+  title: Preguntas frecuentes - doBBox
+  desc: llll➤ Preguntas frecuentes ✅ sobre el sistema de control inalámbrico de temperatura de cámaras frigoríficas
+img: /u/base/poster.svg
 icon: help_outline
 tpl:
   sections:

@@ -1,14 +1,15 @@
 name: Alertas ➡️ ¿Por qué?
-title: 📣 ¿Por qué hay unidades limitadas?
-box:
-  cols: 3
 boxes:
-- color: main-light
-  md: |
-    - ::check:: Hemos fabricado un lote con algunos equipos adicionales a los que nos habéis solicitado
-    - ::check:: Queremos que aquellos que estéis interesados podáis reservar con antelación y no os quedéis sin el vuestro
-  fit: 2
-- id: final-price
-  color: main-dark
-  md: |
-    - Precio Total Final: **119 €**
+- title: 📣 ¿Por qué hay unidades limitadas?
+  box:
+    cols: 3
+  boxes:
+  - color: main-light
+    md: |
+      - ::check:: Hemos fabricado un lote con algunos equipos adicionales a los que nos habéis solicitado
+      - ::check:: Queremos que aquellos que estéis interesados podáis reservar con antelación y no os quedéis sin el vuestro
+    fit: 2
+  - id: final-price
+    color: main-dark
+    md: |
+      - Precio Total Final: **119 €**

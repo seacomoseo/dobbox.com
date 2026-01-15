@@ -1,28 +1,42 @@
 name: Base ➡️ Footer
 color: dark
-space: 1
-params:
+get:
 - from: footer.size
   to: size
 - from: footer.color
   to: color
+- from: footer.fade
+  to: fade
+- from: footer.fade_to
+  to: fade_to
+- from: footer.bi
+  to: bi
+- from: footer.alpha
+  to: alpha
+- from: footer.scroll
+  to: scroll
+- from: footer.div
+  to: div
+- from: footer.div_x
+  to: div_x
+- from: footer.div_y
+  to: div_y
 boxes:
-- if: footer.dots
-  params:
-  - from: footer.dots
-    to: dots
-- params:
-  - from: footer.boxes
-    to: boxes
-  box:
-    cols: 4
-    align: left
-    align_y: top
+- space: 1
+  get:
+  - from: footer.space
+    to: space
   boxes:
-  - md: |
-      - ::copyright::      {{< internal-link index >}}
-      - ::balance:: {{< internal-link legal >}}
-      - ::encrypted:: {{< internal-link privacy >}}
-      - ::cookie::    {{< internal-link cookies >}}
-      - ::brand:seacomoseo::     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")
-      {.list-inline}
+  - if: footer.dots
+    get:
+    - from: footer.dots
+      to: dots
+  - box:
+      cols: 4
+      align: left
+      align_y: top
+    get:
+    - from: footer.md
+      to: md
+    - from: footer.boxes
+      to: boxes

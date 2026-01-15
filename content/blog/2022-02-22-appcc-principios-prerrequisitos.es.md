@@ -1,10 +1,11 @@
 ---
 title: 'APPCC: Principios y prerrequisitos'
-seo: 'APPCC: Descubre los 7 principios y prerrequisitos'
+seo:
+  title: 'APPCC: Descubre los 7 principios y prerrequisitos'
+  desc: El APPCC es un método preventivo de gestión de la inocuidad de los alimentos y se utiliza en toda la cadena alimentaria.
 slug: appcc-principios-prerrequisitos
-description: 'El APPCC es un método preventivo de gestión de la inocuidad de los alimentos y se utiliza en toda la cadena alimentaria.'
-image: blog/appcc-principios-prerrequisitos.png
-category: [general]
+img: /u/blog/appcc-principios-prerrequisitos.png
+category: [ general ]
 toc: y
 date: 2022-02-22 15:15:49
 ---
@@ -23,9 +24,9 @@ Para que el sistema APPCC se aplique correctamente hay que realizar 7 tareas, ta
 Para determinar los PCC es necesario utilizar el árbol de decisiones de la derecha. Con cada práctica o procedimiento que lleves a cabo en tu restaurante tendrás que cuestionarte las preguntas que se ven en la imagen.
 
 - Principio 3. Determinar los límites críticos: Para cada punto de control hay que establecer unos límites críticos. Estos deben ser claros y accesibles y deben cumplirse para controlar el peligro.
-- Principio 4. Establecer un sistema de vigilancia: Hay que observar y analizar de forma periódica los PCC y comprobar si la práctica o procedimiento está bajo control. Para saber si se está realizando de forma correcta hay que observar si los criterios están dentro de sus límites, fijados en el principio 3.
+- Principio 4. Establecer un sistema de vigilancia: /u/Hay que observar y analizar de forma periódica los PCC y comprobar si la práctica o procedimiento está bajo control. Para saber si se está realizando de forma correcta hay que observar si los criterios están dentro de sus límites, fijados en el principio 3.
 
-![](blog/arbol-decision-appcc.webp)
+![](/u/blog/arbol-decision-appcc.webp)
 
 - Principio 5. Llevar a cabo medidas correctoras: Si se ha visto que alguno de los criterios de control no se cumple se deben aplicar acciones correctivas. Así, se consiguen controlar los productos con los que hay riesgo de intoxicación y retirarlos de la venta.
 - Principio 6. Verificar el sistema de APPCC: Para comprobar que se está realizando correctamente hay vigilar periódicamente el plan.

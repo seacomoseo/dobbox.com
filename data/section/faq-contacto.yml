@@ -1,21 +1,22 @@
 name: FAQ ➡️ Contacto
-hanchor: Contacto
-title: ¿Tu pregunta no está aquí?
-subtitle: Puedes hacérnosla rellenando el siguiente formulario
-bi: teclado.webm
+bi: /u/teclado.webm
 color: light
 size: sm
-form:
-  id: formulario
-inputs:
-- type: text
-  name: Nombre
-  required: y
-- type: email
-  name: Email
-  label: Correo electrónico
-  required: y
-- type: textarea
-  name: Mensaje
-  label: Escribe tu pregunta
-  required: y
+boxes:
+- hanchor: Contacto
+  title: ¿Tu pregunta no está aquí?
+  sub: Puedes hacérnosla rellenando el siguiente formulario
+  form:
+    id: formulario
+  inputs:
+  - type: text
+    name: Nombre
+    req: y
+  - type: mail
+    name: Email
+    label: Correo electrónico
+    req: y
+  - type: area
+    name: Mensaje
+    label: Escribe tu pregunta
+    req: y

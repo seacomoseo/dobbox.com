@@ -1,4 +1,5 @@
 name: Alertas ➡️ Garantia
-md: |
-  **Garantía:** Para nosotros la experiencia es lo más importante. Si tras adquirir el dispositivo no te gusta, te reembolsamos el dinero que hayas depositado.
-hanchor: Garantía
+boxes:
+- md: |
+    **Garantía:** Para nosotros la experiencia es lo más importante. Si tras adquirir el dispositivo no te gusta, te reembolsamos el dinero que hayas depositado.
+  hanchor: Garantía

@@ -1,8 +1,9 @@
 ---
 slug: subvencion
 title: Subvención
-image: subvencion.webp
+img: /u/subvencion.webp
 icon: support
-noindex: y
+seo:
+  noindex: y
 weight: 8
 ---

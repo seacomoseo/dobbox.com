@@ -1,13 +1,14 @@
 name: PH Cloro ➡️ Header
-bi: sistema-automatico-control-de-temperatura-dobbox.svg
+bi: /u/sistema-automatico-control-de-temperatura-dobbox.svg
 size: md
-hanchor: Control Inalámbrico de Temperatura y Humedad para Cámaras Frigoríficas con App
-box:
-  gap: 2
-  align: left
-  cols: 3
 boxes:
-- title: Automatiza el control de pH y cloro en tu establecimiento
-  image: ph-cloro.webp
-  fit: 2
-- image: movil/app-grande.png
+- hanchor: Control Inalámbrico de Temperatura y Humedad para Cámaras Frigoríficas con App
+  box:
+    gap: 2
+    align: left
+    cols: 3
+  boxes:
+  - title: Automatiza el control de pH y cloro en tu establecimiento
+    img: /u/ph-cloro.webp
+    fit: 2
+  - img: /u/movil/app-grande.png

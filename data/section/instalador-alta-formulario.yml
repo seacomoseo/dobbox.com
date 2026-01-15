@@ -1,24 +1,25 @@
 name: Instalador Alta ➡️ Formulario
-hanchor: Formulario Alta
-title: Alta instalador
-subtitle: ¡Únete a doBBox!
-bi: camara-frigorifica.png
+bi: /u/camara-frigorifica.png
 color: light
 size: sm
-form:
-  id: formulario
-inputs:
-- type: text
-  name: Nombre
-  required: y
-- type: email
-  name: Email
-  label: Correo electrónico
-  required: y
-- type: tel
-  name: Teléfono
-  required: y
-- type: textarea
-  name: Mensaje
-  label: Escribe un mensaje
-  required: y
+boxes:
+- hanchor: Formulario Alta
+  title: Alta instalador
+  sub: ¡Únete a doBBox!
+  form:
+    id: formulario
+  inputs:
+  - type: text
+    name: Nombre
+    req: y
+  - type: mail
+    name: Email
+    label: Correo electrónico
+    req: y
+  - type: phone
+    name: Teléfono
+    req: y
+  - type: area
+    name: Mensaje
+    label: Escribe un mensaje
+    req: y

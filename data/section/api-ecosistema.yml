@@ -1,3 +1,4 @@
 name: API ➡️ Ecosistema
-image: ecosistema-dobbox.png
-hanchor: Ecosistema
+boxes:
+- img: /u/ecosistema-dobbox.png
+  hanchor: Ecosistema

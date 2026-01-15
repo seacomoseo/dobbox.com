@@ -1,23 +1,24 @@
 name: PH Cloro ➡️ Formulario
-hanchor: Formulario Empresas
-title: Estamos buscando empresas interesadas en esta nueva tecnología
-md: |
-  Descubre cómo ahorrar tiempo y cumplir con la normativa del control de pH y cloro sin esfuerzo en tu negocio.
 size: sm
-align: center
-form:
-  id: formulario
-inputs:
-- type: text
-  name: Nombre
-  required: y
-- type: text
-  name: Empresa
-  required: y
-- type: email
-  name: Email
-  label: Correo electrónico
-  required: y
-- type: text
-  name: Teléfono
-  required: y
+boxes:
+- hanchor: Formulario Empresas
+  title: Estamos buscando empresas interesadas en esta nueva tecnología
+  md: |
+    Descubre cómo ahorrar tiempo y cumplir con la normativa del control de pH y cloro sin esfuerzo en tu negocio.
+  align: center
+  form:
+    id: formulario
+  inputs:
+  - type: text
+    name: Nombre
+    req: y
+  - type: text
+    name: Empresa
+    req: y
+  - type: mail
+    name: Email
+    label: Correo electrónico
+    req: y
+  - type: text
+    name: Teléfono
+    req: y

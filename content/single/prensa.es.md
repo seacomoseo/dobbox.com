@@ -1,9 +1,10 @@
 ---
 slug: prensa
 title: Prensa
-seo: Prensa - doBBox frío
-description: llll➤ Apariciones en medios ✅ de comunicación.
-image: base/poster.svg
+seo:
+  title: Prensa - doBBox frío
+  desc: llll➤ Apariciones en medios ✅ de comunicación.
+img: /u/base/poster.svg
 icon: newspaper
 tpl:
   sections:

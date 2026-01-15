@@ -5,7 +5,7 @@ tpl:
   menu:
     logo: y
     logo_align: center
-    transparent: y
+    clear: y
     sticky: auto
     logo_sticky: y
     color: white
@@ -22,7 +22,7 @@ tpl:
   - file: base-comments
   - file: base-children
   - file: base-share
-  - file: base-related
+  - file: base-rel
   list:
     cols: 3
     card: y
@@ -30,7 +30,7 @@ tpl:
     icon: hide
     hs: 3
     md: hide
-    button: hide
+    btn: hide
     tags:
     - type: date
       hide_hour: y

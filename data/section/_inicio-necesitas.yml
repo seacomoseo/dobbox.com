@@ -1,27 +1,28 @@
 name: Inicio ➡️ Necesitas
-title: Entonces necesitas doBBox
-hanchor: Necesitas
-box:
-  gap: 2
 boxes:
-- box:
-    cols: 4
-    gap: 3
-    icon_size: 4
-    hs: 5
+- title: Entonces necesitas doBBox
+  hanchor: Necesitas
+  box:
+    gap: 4
+    gap_vs: 2
   boxes:
-  - title: Cumple con Sanidad sin esfuerzo
-    icon: health_and_safety
-    md: Informe automático de temperatura listo para presentarlo
-  - title: Alertas a tu móvil en tiempo real
-    icon: warning
-    md: Sabrás al instante cualquier problema en tus cámaras
-  - title: Detección de posibles averías
-    icon: manufacturing
-    md: Evita averías y ahorra energía mediante un algoritmo inteligente
-  - title: Accede con cualquier dispositivo
-    icon: phone_iphone
-    md: Consulta tus temperaturas estés donde estés
-- boxes:
-  - link: /catalogo-sensor-de-temperatura-receptor/
+  - box:
+      cols: 4
+      gap: 3
+      icon_size: 4
+      hs: 5
+    boxes:
+    - title: Cumple con Sanidad sin esfuerzo
+      icon: health_and_safety
+      md: Informe automático de temperatura listo para presentarlo
+    - title: Alertas a tu móvil en tiempo real
+      icon: warning
+      md: Sabrás al instante cualquier problema en tus cámaras
+    - title: Detección de posibles averías
+      icon: manufacturing
+      md: Evita averías y ahorra energía mediante un algoritmo inteligente
+    - title: Accede con cualquier dispositivo
+      icon: phone_iphone
+      md: Consulta tus temperaturas estés donde estés
+  - url: /catalogo-sensor-de-temperatura-receptor/
     label: Saber más

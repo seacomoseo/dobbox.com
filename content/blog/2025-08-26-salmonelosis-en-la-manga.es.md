@@ -1,21 +1,22 @@
 ---
 slug: salmonelosis-en-la-manga
 title: 'La Manga: 146 afectados y 21 hospitalizados por salmonelosis'
-summary: 'Salud eleva a 146 los casos y a 21 los hospitalizados tras el brote en el Hotel Cavanna. La cocina sigue clausurada e investigación en curso. Clave: cadena de frío y trazabilidad.'
-image: blog/salmonela.jpg
+sum: 'Salud eleva a 146 los casos y a 21 los hospitalizados tras el brote en el Hotel Cavanna. La cocina sigue clausurada e investigación en curso. Clave: cadena de frío y trazabilidad.'
+img: /u/blog/salmonela.jpg
 date: 2025-08-26 15:44:41
 toc: n
-description: 'La Manga: 146 afectados y 21 hospitalizados por salmonelosis. Investigación en curso. ➤ Cadena de frío y registros ✓ para reducir riesgos.'
+seo:
+  desc: 'La Manga: 146 afectados y 21 hospitalizados por salmonelosis. Investigación en curso. ➤ Cadena de frío y registros ✓ para reducir riesgos.'
 ---
-# 146 afectados y 21 hospitalizados por un brote de salmonelosis en un hotel de La Manga: la cocina sigue clausurada mientras avanza la investigación
+## 146 afectados y 21 hospitalizados por un brote de salmonelosis en un hotel de La Manga: la cocina sigue clausurada mientras avanza la investigación
 
 El [brote de salmonelosis](/trucos-prevenir-salmonella/) detectado el fin de semana en el **Hotel Cavanna** (La Manga del Mar Menor) **afecta ya a 146 personas** y **21 permanecen hospitalizadas**, según la **Consejería de Salud**. Veinte de los pacientes (12 adultos y 8 menores) están ingresados en el **Hospital Santa Lucía** (Cartagena) y **una paciente** se encuentra en el **Virgen de la Arrixaca** (Murcia). Todos evolucionan **estables**.
 
-### Balance sanitario y operativo
+## Balance sanitario y operativo
 
 Durante el domingo y el lunes, la **afluencia a Urgencias del Santa Lucía** fue **masiva**, lo que motivó la **instalación de un hospital de campaña** en el salón de actos del hotel. El **061** movilizó cinco equipos para la atención in situ y para los traslados.
 
-### Investigación en curso y medidas adoptadas
+## Investigación en curso y medidas adoptadas
 
 La **cocina del hotel continúa clausurada de forma cautelar**. Salud mantiene abierto el **protocolo de investigación epidemiológica**, que incluye:
 
@@ -24,7 +25,7 @@ La **cocina del hotel continúa clausurada de forma cautelar**. Salud mantiene a
 
 El hotel ha manifestado su **colaboración** con las autoridades y ha activado **protocolos de desinfección** y refuerzo de atención a los huéspedes.
 
-### Contexto regional: una incidencia históricamente alta
+## Contexto regional: una incidencia históricamente alta
 
 La **Región de Murcia** figura entre las comunidades con **mayor tasa de salmonelosis**.
 

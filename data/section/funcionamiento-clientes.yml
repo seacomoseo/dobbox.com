@@ -1,50 +1,51 @@
 name: Funcionamiento ➡️ Clientes
-title: Nuestros clientes
-subtitle: confían en dobbox
-hanchor: Clientes
-box:
-  cols: 5
-  cols_vs: 2
-  ratio: 16/9
-  contain: y
-  button: hide
 boxes:
-- image: logos/clientes/cuarentaytres.svg
-  link: https://cuarentaytres.com/
-- image: logos/clientes/airemar-restaurante.svg
-  link: http://airemar.es/
-- image: logos/clientes/areas.svg
-  link: https://areas.com/
-- image: logos/clientes/bombones-torres.svg
-  link: https://bombonestorres.com/
-- image: logos/clientes/confiteria-la-cruz.svg
-  link: http://www.confiteriaslacruz.com/
-- image: logos/clientes/confiterias-rodri.svg
-- image: logos/clientes/earmur.png
-  link: https://earmur.com/
-- image: logos/clientes/el-punaito.svg
-  link: https://elpunaito.eatbu.com/
-- image: logos/clientes/escuela-hosteleria-salamanca.svg
-  link: https://escuelahosteleriasalamanca.es/
-- image: logos/clientes/grupo-orenes.svg
-  link: https://orenesgrupo.com/
-- image: logos/clientes/grupo-drinkandeat.svg
-  link: https://www.grupodrinkandeat.es/
-- image: logos/clientes/madrugada.svg
-  link: https://www.instagram.com/la_madrugada_javier_moreno/
-- image: logos/clientes/livanti.svg
-  link: https://www.livanti.es/
-- image: logos/clientes/escuela-hosteleria-madrid.svg
-  link: https://eshtm.es/
-- image: logos/clientes/nueva-cocina-mediterranea.svg
-  link: https://nuevacocinamediterranea.es/
-- image: logos/clientes/panaderia-el-boticario.svg
-  link: https://artesanoselboticario.com/
-- image: logos/clientes/quique-dacosta.svg
-  link: https://www.quiquedacosta.es/
-- image: logos/clientes/restaurante-emboka.svg
-  link: https://www.emboka.com/
-- image: logos/clientes/roencar.svg
-  link: https://www.linkedin.com/company/roencar/
-- image: logos/clientes/la-tapeoteca.svg
-  link: https://www.latapeoteca.es/
+- title: Nuestros clientes
+  sub: confían en dobbox
+  hanchor: Clientes
+  box:
+    cols: 5
+    cols_vs: 2
+    ratio: 16/9
+    contain: y
+    btn: hide
+  boxes:
+  - img: /u/logos/clientes/cuarentaytres.svg
+    url: https://cuarentaytres.com/
+  - img: /u/logos/clientes/airemar-restaurante.svg
+    url: http://airemar.es/
+  - img: /u/logos/clientes/areas.svg
+    url: https://areas.com/
+  - img: /u/logos/clientes/bombones-torres.svg
+    url: https://bombonestorres.com/
+  - img: /u/logos/clientes/confiteria-la-cruz.svg
+    url: http://www.confiteriaslacruz.com/
+  - img: /u/logos/clientes/confiterias-rodri.svg
+  - img: /u/logos/clientes/earmur.png
+    url: https://earmur.com/
+  - img: /u/logos/clientes/el-punaito.svg
+    url: https://elpunaito.eatbu.com/
+  - img: /u/logos/clientes/escuela-hosteleria-salamanca.svg
+    url: https://escuelahosteleriasalamanca.es/
+  - img: /u/logos/clientes/grupo-orenes.svg
+    url: https://orenesgrupo.com/
+  - img: /u/logos/clientes/grupo-drinkandeat.svg
+    url: https://www.grupodrinkandeat.es/
+  - img: /u/logos/clientes/madrugada.svg
+    url: https://www.instagram.com/la_madrugada_javier_moreno/
+  - img: /u/logos/clientes/livanti.svg
+    url: https://www.livanti.es/
+  - img: /u/logos/clientes/escuela-hosteleria-madrid.svg
+    url: https://eshtm.es/
+  - img: /u/logos/clientes/nueva-cocina-mediterranea.svg
+    url: https://nuevacocinamediterranea.es/
+  - img: /u/logos/clientes/panaderia-el-boticario.svg
+    url: https://artesanoselboticario.com/
+  - img: /u/logos/clientes/quique-dacosta.svg
+    url: https://www.quiquedacosta.es/
+  - img: /u/logos/clientes/restaurante-emboka.svg
+    url: https://www.emboka.com/
+  - img: /u/logos/clientes/roencar.svg
+    url: https://www.linkedin.com/company/roencar/
+  - img: /u/logos/clientes/la-tapeoteca.svg
+    url: https://www.latapeoteca.es/

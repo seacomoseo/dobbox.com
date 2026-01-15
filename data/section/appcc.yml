@@ -1,41 +1,42 @@
 name: APPCC
-title: Sistemas APPCC
-subtitle: que ya utilizan doBBox
-box:
-  cols: 4
-  gap: 5
-  ratio: 2/1
-  label: Ver más
 boxes:
-- image: logos/appcc/appcc-controller.svg
-  link: https://appcc-controller.com/
-  md: |
-    **APPCC CONTROLLER**
+- title: Sistemas APPCC
+  sub: que ya utilizan doBBox
+  box:
+    cols: 4
+    gap: 5
+    ratio: 2/1
+    label: Ver más
+  boxes:
+  - img: /u/logos/appcc/appcc-controller.svg
+    url: https://appcc-controller.com/
+    md: |
+      **APPCC CONTROLLER**
 
-    ::phone:: [652 454 546](tel:+34652454546)
+      ::phone:: [652 454 546](tel:+34652454546)
 
-    ::mail:: hola@appcc-controller.com
-- image: logos/appcc/recipok.svg
-  link: https://www.recipok.com/
-  md: |
-    **RECIPOK**
+      ::mail:: hola@appcc-controller.com
+  - img: /u/logos/appcc/recipok.svg
+    url: https://www.recipok.com/
+    md: |
+      **RECIPOK**
 
-    ::phone:: [865 600 090](tel:+34865600090)
+      ::phone:: [865 600 090](tel:+34865600090)
 
-    ::mail:: users@recipok.com
-- image: logos/appcc/andy.svg
-  link: https://andyapp.io/digitalizar-sistema-appcc/
-  md: |
-    **ANDY**
+      ::mail:: users@recipok.com
+  - img: /u/logos/appcc/andy.svg
+    url: https://andyapp.io/digitalizar-sistema-appcc/
+    md: |
+      **ANDY**
 
-    ::phone:: [936 550 995](tel:+34936550995)
+      ::phone:: [936 550 995](tel:+34936550995)
 
-    ::mail:: info@intowin.es
-- image: logos/appcc/yurest.svg
-  link: https://www.yurest.com/
-  md: |
-    **YUREST**
+      ::mail:: info@intowin.es
+  - img: /u/logos/appcc/yurest.svg
+    url: https://www.yurest.com/
+    md: |
+      **YUREST**
 
-    ::phone:: [692 89 85 86](tel:+34692898586)
+      ::phone:: [692 89 85 86](tel:+34692898586)
 
-    ::mail:: hola@yurest.com
+      ::mail:: hola@yurest.com

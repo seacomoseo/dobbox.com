@@ -1,6 +1,6 @@
 name = "dobboxfrio"
 pages_build_output_dir = "public"
-compatibility_date = "2025-10-08"
+compatibility_date = "2026-01-15"
 
 [vars]
 HUGO_VERSION = "0.149.0"

@@ -1,12 +1,13 @@
 name: Inicio ➡️ Header
 size: md
-hanchor: Control Inalámbrico de Temperatura y Humedad para Cámaras Frigoríficas con App
-box:
-  cols: 3
-  align: left
-  align_y: center
 boxes:
-- title: Asegura la conservación de tus productos con el control de temperatura
-  subtitle: Los sensores de temperatura que cambiarán por completo tu local
-  fit: 2
-- image: sistema-automatico-control-de-temperatura-dobbox.svg
+- hanchor: Control Inalámbrico de Temperatura y Humedad para Cámaras Frigoríficas con App
+  box:
+    cols: 3
+    align: left
+    align_y: center
+  boxes:
+  - title: Asegura la conservación de tus productos con el control de temperatura
+    sub: Los sensores de temperatura que cambiarán por completo tu local
+    fit: 2
+  - img: /u/sistema-automatico-control-de-temperatura-dobbox.svg

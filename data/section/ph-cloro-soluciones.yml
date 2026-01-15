@@ -1,16 +1,17 @@
 name: PH Cloro ➡️ Soluciones
-hanchor: Soluciones
-subtitle: Ha llegado el momento de digitalizar este proceso
-box:
-  cols: 3
-  gap: 2
-  icon: check_circle
-  icon_size: 3
-  icon_color: cta
 boxes:
-- title: Medición en <br> tiempo real
-  subtitle: sin intervención <br> manual
-- title: Datos almacenados <br> en la nube
-  subtitle: accesibles en <br> cualquier momento
-- title: Cumplimiento <br> normativo
-  subtitle: sin papeleo ni <br> margen de error
+- hanchor: Soluciones
+  sub: Ha llegado el momento de digitalizar este proceso
+  box:
+    cols: 3
+    gap: 2
+    icon: check_circle
+    icon_size: 3
+    icon_color: cta
+  boxes:
+  - title: Medición en <br> tiempo real
+    sub: sin intervención <br> manual
+  - title: Datos almacenados <br> en la nube
+    sub: accesibles en <br> cualquier momento
+  - title: Cumplimiento <br> normativo
+    sub: sin papeleo ni <br> margen de error

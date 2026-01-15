@@ -1,22 +1,24 @@
 name: Funcionamiento ➡️ Funcionalidades
-md: |
-  Funcionalidades que se adaptan a tus necesidades
-  {.h1}
-
-  ¡Avisado estarás con las alertas en tiempo real!
-  {.subtitle}
-align: left
-hanchor: Funcionalidades
 boxes:
+- hanchor: Funcionalidades
+  md: |
+    Funcionalidades que se adaptan a tus necesidades
+    {.h1}
+
+    ¡Avisado estarás con las alertas en tiempo real!
+    {.sub}
+  align: left
 - box:
     gap: 5
     align: left
     align_y: center
     cols: 2
   boxes:
-  - image: movil/alertas.png
+  - img: /u/movil/alertas.png
     order: 2
   - title: Tenlo todo controlado estés donde estés
+    hn: p
+    hs: 3
     md: |
       Con el sensor de temperatura en tu cámara dispondrás del sistema de alertas en tiempo real vía email y push notification.
 
@@ -26,11 +28,12 @@ boxes:
 
       ¡Evita desperdiciar tus productos y ahorra miles de euros!
     label: Me interesa
-    link: /busca-tu-instalador/#instaladores
+    url: /busca-tu-instalador/#instaladores
 - box:
     cols: 4
     icon_size: 3
     align: center
+    hn: h3
   boxes:
   - title: Cortes de luz o energía
     icon: light_off

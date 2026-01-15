@@ -1,30 +1,30 @@
 name: Inicio ➡️ Contacto
-title: Contacto
-subtitle: ¿En qué podemos ayudarte?
 size: sm
-contact:
-- type: schedule
-  days: Lunes a Viernes
-  hours: 8:00 - 17:00
-- type: br
-- type: phone
-  label: 968 472 663
-- type: whatsapp
-  label: 968 472 663
-- type: mail
-  label: hola@dobbox.com
-  full: y
-form:
-  id: formulario
-inputs:
-- type: text
-  name: Nombre
-  required: y
-- type: tel
-  name: Teléfono
-- type: email
-  name: Email
-  required: y
-- type: textarea
-  name: Mensaje
-  required: y
+boxes:
+- title: Contacto
+  sub: ¿En qué podemos ayudarte?
+  links:
+  - type: phone
+    label: 968 472 663
+  - type: whatsapp
+    label: 968 472 663
+  - type: mail
+    label: hola@dobbox.com
+    full: y
+  when:
+  - days: Lunes a Viernes
+    hours: 8:00 - 17:00
+  form:
+    id: formulario
+  inputs:
+  - type: text
+    name: Nombre
+    req: y
+  - type: phone
+    name: Teléfono
+  - type: mail
+    name: Email
+    req: y
+  - type: area
+    name: Mensaje
+    req: y

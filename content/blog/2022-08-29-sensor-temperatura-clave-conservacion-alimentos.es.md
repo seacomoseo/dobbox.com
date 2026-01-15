@@ -1,10 +1,11 @@
 ---
 title: 'El papel del sensor de temperatura en la conservación de productos'
-seo: 'Sensor de temperatura: clave en la conservación de alimentos'
+seo:
+  title: 'Sensor de temperatura: clave en la conservación de alimentos'
+  desc: Gracias al sensor de temperatura se lleva un control de los productos que se conservan.
 slug: sensor-temperatura-clave-conservacion-alimentos
-description: 'Gracias al sensor de temperatura se lleva un control de los productos que se conservan.'
-image: blog/sensor-temperatura-clave-conservacion-alimentos.png
-category: [general]
+img: /u/blog/sensor-temperatura-clave-conservacion-alimentos.png
+category: [ general ]
 toc: y
 date: 2022-08-29 13:58:22
 ---
@@ -32,15 +33,15 @@ Para el sector [farmacéutico](https://concep.es/como-actuar-inspeccion-farmacia
 
 Tanto para el sector hostelero como farmacéutico se puede realizar el registro de temperaturas de forma automática. Algunas de las ventajas son:
 
-- Te aseguras de que la temperatura registrada es la correcta.
+- /u/Te aseguras de que la temperatura registrada es la correcta.
 - Ahorras en tiempo y dinero. Ninguno de tus empleados tendrá que molestarse en tomar la temperatura diariamente.
 - Tendrás de forma accesible los registros mensuales de temperatura. Eso de perder los papeles será cosa del pasado.
 
 ## El sensor de temperatura doBBox
 
-Con [doBBox](/busca-tu-instalador/) puedes medir la temperatura de tus cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
+Con [doBBox](/u/busca-tu-instalador/) puedes medir la temperatura de tus cámaras frigoríficas y de congelación, vitrinas, salas de elaboración, etc.
 
 Podrás ver la temperatura desde la app y tener controlados tus productos en todo momento. Gracias al sistema de alertas puedes despreocuparte por completo de la conservación de tus productos, ya que ante cualquier anomalía te avisa por medio de push notification e email. doBBox también puede hacer por ti los informes de sanidad, para que ahorres tiempo y dinero.
 En definitiva, te hará la vida mucho más fácil y cuidará de tus productos.
 
-![sensor de temperatura](blog/0-grados-preocupaciones-sistema-control-camaras-frigorificas.webp)
+![sensor de temperatura](/u/blog/0-grados-preocupaciones-sistema-control-camaras-frigorificas.webp)
