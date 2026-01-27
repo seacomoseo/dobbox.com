@@ -1,7 +1,7 @@
 ---
 slug: centralizar-control-temperaturas-cadenas-locales
 title: Cómo centralizar el control de temperatura en cadenas con varios locales
-img: /u/15-blog.webp
+img: /u/blog/centralizar-control-temperaturas-cadenas-locales.webp
 toc: n
 draft: n
 hide: n
