@@ -1,7 +1,7 @@
 ---
 slug: control-temperatura-farmacia-cadena-frio
 title: 'Control de temperatura en farmacia: cómo asegurar la cadena de frío (sin vivir pendiente de la cámara)'
-img: /u/05-blog-farmacias.webp
+img: /u/blog/farmacias.webp
 toc: n
 draft: n
 hide: n
