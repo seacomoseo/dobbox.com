@@ -19,7 +19,7 @@ toc: n
 ---
 En 2025, la competitividad del frío se sostiene en **la triple palanca: automatización, sostenibilidad y eficiencia energética**. Integrar automatización en la gestión del almacén mejora el uso del espacio y reduce exposiciones innecesarias; operar con criterios de sostenibilidad minimiza mermas y huella; y optimizar la eficiencia energética recorta consumo sin comprometer la seguridad alimentaria.
 
-## **Qué está cambiando**
+## Qué está cambiando
 
 - **Automatización + gestión del almacén**: integrar automatización con el diseño y la gestión del almacén mejora el uso del espacio, ahorra energía y reduce exposición del personal al frío.
 - **Eficiencia medible**: optimizar ciclos (p. ej., enfriamientos y abatimiento térmico) puede **aumentar rendimiento** y **bajar consumo** sin sacrificar seguridad alimentaria.
@@ -27,7 +27,7 @@ En 2025, la competitividad del frío se sostiene en **la triple palanca: automat
 
 Estos cambios dictan el nuevo modo de control de temperatura en hostelería, de forma más cómoda y eficiente.
 
-## **Buenas prácticas que puedes aplicar ya**
+## Buenas prácticas que puedes aplicar ya
 
 1. **Rangos claros y puntos de ajuste** por familia de producto.
 2. ** Cargas y aperturas**: planifica para evitar “dientes de sierra” térmicos (consumo y riesgo se disparan con cada cambio brusco de temperatura).
@@ -36,7 +36,7 @@ Estos cambios dictan el nuevo modo de control de temperatura en hostelería, de 
 
 Es decir, te recomendamos digitalizar el APPCC, para monitorizar las cámaras frigoríficas con sensores de temperatura y humedad.
 
-## **Cómo te ayuda doBBox a accionar la triple palanca**
+## Cómo te ayuda doBBox a accionar la triple palanca
 
 - **Automatización del registro**: doBBox mide y guarda temperaturas sin papel, en continuo.
 - **Sostenibilidad operativa**: al detectar desviaciones temprano, evitas tiradas completas y **desperdicio**.

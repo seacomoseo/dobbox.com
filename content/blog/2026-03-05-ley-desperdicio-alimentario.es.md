@@ -22,61 +22,55 @@ La **Ley 1/2025 de Prevención de las Pérdidas y el Desperdicio Alimentario** e
 
 A continuación, te dejamos un resumen operativo de lo más relevante: qué se exige, cómo prepárate y a quién aplica.
 
-## 1.      **A quién aplica la ley**
+## 1. A quién aplica la ley
 
 La norma aplica a las actividades realizadas en España por agentes de la cadena alimentaria: producción, transformación, distribución, hotelería y restauración, entidades de distribución de alimentos donados y la propia Administración Pública.
 
-## 2.      **Puntos clave que cambian en abril de 2026**
+## 2. Puntos clave que cambian en abril de 2026
 
-### a.      **Plan de prevención obligatorio**
+### a. Plan de prevención obligatorio
 
 La ley obliga a prevenir como primera medida. Todas las empresas que produzcan, transformen o distribuyan alimentos deben tener un plan escrito para reducir el desperdicio, que incluya un diagnóstico y objetivos claros.
 
-### b.     **Jerarquía de prioridades**
+### b. Jerarquía de prioridades
 
 Si aun así hay excedentes, marca un orden de prioridades muy concreto:
 
--          **Transformar** productos no vendidos pero aptos, para destinarlos a **consumo humano** (ej. darles otra salida alimentaria).
-
--          **Donación o redistribución para consumo humano**.
-
--          Si no es posible, **alimentación animal / piensos**.
-
--          Si tampoco, uso como **subproducto en otra industria**.
-
--          Y en última instancia, ya como residuo: **compost/digerido** y, si no, **valorización energética** (biogás/combustibles).
+- **Transformar** productos no vendidos pero aptos, para destinarlos a **consumo humano** (ej. darles otra salida alimentaria).
+- **Donación o redistribución para consumo humano**.
+- Si no es posible, **alimentación animal / piensos**.
+- Si tampoco, uso como **subproducto en otra industria**.
+- Y en última instancia, ya como residuo: **compost/digerido** y, si no, **valorización energética** (biogás/combustibles).
 
 En casos concretos, la ley contempla que se pueda adaptar esta jerarquía por razones justificadas.
 
-### c.      **Donaciones y convenios**
+### c. Donaciones y convenios
 
 Para las donaciones, en el nivel 2 de jerarquía, las empresas deben formalizar convenios con bancos de alimentos u ONG para canalizar sus excedentes de forma segura y trazable.
 
 La ley deja claro que ninguna estipulación contractual puede impedir expresamente la donación.
 
-### d.     **Sanciones económicas**
+### d. Sanciones económicas
 
 El incumplimiento de estas medidas puede acarrear multas que van desde los 2.000 hasta los 500.000 euros.
 
-**-          Infracción leve:** apercibimiento o hasta 2.000€
-
-**-          Infracción grave:** 2.001 a 60.000€
-
-**-          Infracción muy grave o reincidencia:** 60.001 a 500.000€
+- **Infracción leve:** apercibimiento o hasta 2.000€
+- **Infracción grave:** 2.001 a 60.000€
+- **Infracción muy grave o reincidencia:** 60.001 a 500.000€
 
 Y esto es muy importante: no contar con el plan empresarial aparece tipificado como infracción grave.
 
-## 3.      **Obligatoriedades según tamaño**
+## 3. Obligatoriedades según tamaño
 
 Todos los agentes de la cadena alimentaria deben aplicar la jerarquía de prioridades, y además se introduce la obligación de disponer de un plan de aplicación para la prevención de pérdidas y desperdicio alimentario que explique cómo se aplicará dicha jerarquía.
 
 Ese plan puede ser integrado si operas en varias comunidades autónomas, y debe contemplar requisitos autonómicos si existen.
 
-### **a.     Excepciones por tamaño**
+### a. Excepciones por tamaño
 
 Hay excepciones al paquete de obligaciones de lapartado 4 del artículo 6 (donde está el plan) para actividades en establecimientos de 1.300m2 o menos, con matices según haya venta al público. Pero si varios establecimientos comparten CIF y en conjunto superan los 1.300 m², sí quedan obligados.
 
-## 4.      **Hostelería y restauración**
+## 4. Hostelería y restauración
 
 Para bares, restaurantes y otros proveedores de servicios alimentarios, la ley establece la obligación de facilitar que el consumidor se lleve los alimentos no consumidos, informándolo de forma clara y visible (preferentemente en carta o menú). Se exceptúan formatos tipo bufé libre o similares.
 
@@ -84,7 +78,7 @@ En cuanto a envases, deben ser aptos para uso alimentario, reutilizables o fáci
 
 Además, el “tupper” no es solo obligación del negocio: el consumidor tiene expresamente el derecho a llevarse las sobras (teniendo en cuenta lo previsto en el art. 8).
 
-## 5.      **El papel de la digitalización: cuando el desperdicio viene de la operación**
+## 5. El papel de la digitalización: cuando el desperdicio viene de la operación
 
 Gran parte del desperdicio no nace de “tirar comida”, sino de ineficiencias: rotura de frío, almacenamiento incorrecto, fallos de rotación, alarmas que llegan tarde, o registros manuales imposibles de auditar.
 

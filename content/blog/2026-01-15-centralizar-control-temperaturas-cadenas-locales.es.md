@@ -42,7 +42,7 @@ Los registros incompletos, dispersos o ilegibles ponen en riesgo el cumplimiento
 
 Cuando multiplicas estos problemas por 5, 10 o 20 locales, el** impacto es más que evidente.**
 
-## **Qué significa centralizar en control de temperatura**
+## Qué significa centralizar en control de temperatura
 
 No, no es “pedir las hojas por email”, es cambiar el modelo por completo: pasar del sistema manual y local a un sistema automático de control de temperatura, conectado y en la nube.
 
@@ -51,11 +51,11 @@ En práctica, esto implica:
 - Instalas **sensores de temperatura y humedad** en cada cámara, vitrina o almacén relevante.
 - Que esos **sensores de temperatura wifi (inalámbricos)** envíen datos de forma continua a un receptor conectado a internet.
 - Toda la información de todos los locales se sube a la misma plataforma y es accesible desde cualquier dispositivo.
-- Poder consultar, en una sola pantalla y a tiempo real, la \*\*monitorización de cámaras frigoríficas \*\*de toda la cadena.
+- Poder consultar, en una sola pantalla y a tiempo real, la **monitorización de cámaras frigoríficas **de toda la cadena.
 
 De esta forma pasas a tener un **sistema unificado para todos los locales**, con criterios comunes y datos fiables y comparables.
 
-## **Ventajas para cadenas con varios locales**
+## Ventajas para cadenas con varios locales
 
 Centralizar el **control de temperatura en hostelería** no es solo cuestión de comodidad, sino que tienen un impacto en la cuenta operativa y en la cuenta de resultados.
 
@@ -63,9 +63,9 @@ Centralizar el **control de temperatura en hostelería** no es solo cuestión de
 
 Desde la oficina central puedes ver:
 
-    - Qué cámaras están dentro de rango y cuáles no.
-    - En qué locales hay incidencias y cuáles acumulan más.
-    - Cómo evolucionan la temperatura y humedad en momentos críticos (cambios de turno, picos de producción, etc.).
+- Qué cámaras están dentro de rango y cuáles no.
+- En qué locales hay incidencias y cuáles acumulan más.
+- Cómo evolucionan la temperatura y humedad en momentos críticos (cambios de turno, picos de producción, etc.).
 
 Esto permite tomar decisiones más rápidas y fundamentales, tanto a nivel técnico (mantenimiento) como organizativo (procesos de trabajo, formación, etc.).
 
@@ -73,9 +73,9 @@ Esto permite tomar decisiones más rápidas y fundamentales, tanto a nivel técn
 
 Al digitalizar el APPCC:
 
-    - El registro de temperaturas APPCC se genera automáticamente a partir de los datos de los sensores.
-    - Todos los locales siguen las mismas reglas y umbrales.
-    - Los informen se descargan al momento, listos para presentar en caso de inspección.
+- El registro de temperaturas APPCC se genera automáticamente a partir de los datos de los sensores.
+- Todos los locales siguen las mismas reglas y umbrales.
+- Los informen se descargan al momento, listos para presentar en caso de inspección.
 
 Se gana seguridad y trazabilidad.
 
@@ -87,14 +87,14 @@ El tiempo se puede redirigir a tareas con más valor.
 
 Los sensores de temperatura y humedad permiten detectar:
 
-    - Pérdida de frío progresiva en una cámara.
-    - Problemas de control de humedad en almacenes, que pueden afectar a productos no envasados o a envases de cartón.
-    - Patrones anómalos que anticipan una avería.
+- Pérdida de frío progresiva en una cámara.
+- Problemas de control de humedad en almacenes, que pueden afectar a productos no envasados o a envases de cartón.
+- Patrones anómalos que anticipan una avería.
 
 Con alertas centralizadas, es posible priorizar actuaciones de mantenimiento antes de que la incidencia se convierta en una pérdida de producto, en un problema de seguridad alimentaria, reputacional y en una sanción.
 
-En definitiva, la tendencia del sector es clara: \*\*más digitalización, más tatos y más control centralizado, \*\*especialmente en cadenas que quieren escalar sin perder el control operativo.
+En definitiva, la tendencia del sector es clara: **más digitalización, más tatos y más control centralizado, **especialmente en cadenas que quieren escalar sin perder el control operativo.
 
 Se trata de pasar de preguntas “¿Habéis apuntado hoy la temperatura?” a saber, en todo momento, qué está pasando en cada cámara de cada local, desde cualquier dispositivo.
 
-Y ahí es donde soluciones como **doBBox \*\*marcan la diferencia: convertimos un problema distribuido y manual en un \*\*sistema centralizado, automático y bajo control.**
+Y ahí es donde soluciones como **doBBox** marcan la diferencia: convertimos un problema distribuido y manual en un **sistema centralizado, automático y bajo control.**
