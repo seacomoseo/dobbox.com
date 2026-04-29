@@ -4,16 +4,9 @@ boxes:
 - title: Contacto
   sub: ¿En qué podemos ayudarte?
   links:
-  - type: phone
-    label: 968 472 663
-  - type: whatsapp
-    label: 968 472 663
   - type: mail
     label: hola@dobbox.com
     full: y
-  when:
-  - days: Lunes a Viernes
-    hours: 8:00 - 17:00
   form:
     id: formulario
   inputs:
