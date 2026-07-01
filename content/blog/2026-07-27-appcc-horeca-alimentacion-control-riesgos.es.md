@@ -1,6 +1,7 @@
 ---
 slug: appcc-horeca-alimentacion-control-riesgos
 title: 'APPCC en HORECA y alimentación: no se trata de rellenar papeles, se trata de controlar riesgos'
+img: /u/appcc-en-horeca.webp
 sum: |-
   El APPCC en HORECA y alimentación debe ser una herramienta práctica para prevenir riesgos, controlar
   temperaturas y demostrar que el negocio trabaja con seguridad alimentaria.
