@@ -1,6 +1,7 @@
 ---
 slug: control-temperatura-alimentos-horeca-alimentacion
 title: 'Control de temperatura en alimentos: el error invisible que puede costarle caro a tu local HORECA o de alimentación'
+img: /u/control-de-temperatura.webp
 sum: |-
   El control de temperatura en alimentos es clave para evitar riesgos sanitarios, pérdidas de producto y
   problemas ante una inspección. Descubre cómo mejorar el control de cámaras frigoríficas.
@@ -148,25 +149,18 @@ registros manuales.
 
 En seguridad alimentaria, la temperatura no es un detalle menor.
 
-
 Es una barrera de control.
-
 
 Un buen sistema de control de temperatura ayuda a proteger al cliente, reducir pérdidas, anticipar
 averías, mejorar la gestión del APPCC y demostrar que el establecimiento trabaja con criterio.
 
-
 Porque una cámara frigorífica no debe darte información solo cuando alguien la mira.
-
 
 Debe avisarte cuando algo empieza a ir mal.
 
-
 #### ¿Quieres mejorar el control de tus cámaras frigoríficas?
-
 
 En doBBox ayudamos a negocios de hostelería, alimentación y farmacia a controlar la temperatura y
 humedad de sus equipos de frío de forma automática.
-
 
 Consulta cómo podemos ayudarte en www.dobbox.com
