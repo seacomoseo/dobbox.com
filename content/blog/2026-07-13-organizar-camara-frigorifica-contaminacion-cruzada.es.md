@@ -20,7 +20,7 @@ llms:
     Organizar correctamente una cámara frigorífica ayuda a evitar contaminación cruzada, mejorar la
     conservación de los alimentos y mantener un mejor control sanitario en locales HORECA y alimentación.
   hide: n
-date: 2026-07-13 08:00:00
+date: 2026-07-13 02:00:00
 author: admin
 category:
 - general
