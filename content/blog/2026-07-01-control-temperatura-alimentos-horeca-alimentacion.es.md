@@ -20,7 +20,7 @@ llms:
     El control de temperatura en alimentos es clave para evitar riesgos sanitarios, pérdidas de producto y
     problemas ante una inspección. Descubre cómo mejorar el control de cámaras frigoríficas.
   hide: n
-date: 2026-07-06 08:00:00
+date: 2026-07-06 02:00:00
 author: admin
 category:
 - general
