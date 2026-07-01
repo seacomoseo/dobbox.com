@@ -4,7 +4,7 @@ title: 'Plan de limpieza y desinfección en HORECA y alimentación: cómo pasar 
 img: /u/plan-de-limpieza-y-desifeccion.webp
 toc: y
 draft: y
-hide: y
+hide: n
 sum: |-
   El plan de limpieza y desinfección es clave para la seguridad alimentaria. Descubre cómo organizarlo,
   registrarlo y demostrar que tu local trabaja con control.
