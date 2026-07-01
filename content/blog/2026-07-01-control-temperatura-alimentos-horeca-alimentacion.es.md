@@ -4,7 +4,7 @@ title: 'Control de temperatura en alimentos: el error invisible que puede costar
 img: /u/control-de-temperatura.webp
 toc: y
 draft: y
-hide: y
+hide: n
 sum: |-
   El control de temperatura en alimentos es clave para evitar riesgos sanitarios, pérdidas de producto y
   problemas ante una inspección. Descubre cómo mejorar el control de cámaras frigoríficas.
