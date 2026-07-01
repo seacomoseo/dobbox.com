@@ -20,7 +20,7 @@ llms:
     El plan de limpieza y desinfección es clave para la seguridad alimentaria. Descubre cómo organizarlo,
     registrarlo y demostrar que tu local trabaja con control.
   hide: n
-date: 2026-07-20 08:00:00
+date: 2026-07-20 02:00:00
 author: admin
 category:
 - general
