@@ -2,6 +2,9 @@
 slug: control-temperatura-alimentos-horeca-alimentacion
 title: 'Control de temperatura en alimentos: el error invisible que puede costarle caro a tu local HORECA o de alimentación'
 img: /u/control-de-temperatura.webp
+toc: y
+draft: y
+hide: y
 sum: |-
   El control de temperatura en alimentos es clave para evitar riesgos sanitarios, pérdidas de producto y
   problemas ante una inspección. Descubre cómo mejorar el control de cámaras frigoríficas.
