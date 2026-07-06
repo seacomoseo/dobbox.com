@@ -2,7 +2,7 @@
 slug: control-temperatura-alimentos-horeca-alimentacion
 title: 'Control de temperatura en alimentos: el error invisible que puede costarle caro a tu local HORECA o de alimentación'
 img: /u/control-de-temperatura.webp
-toc: y
+toc: n
 draft: n
 hide: n
 sum: |-
