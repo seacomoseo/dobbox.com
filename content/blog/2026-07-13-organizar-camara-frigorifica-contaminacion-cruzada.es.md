@@ -2,7 +2,7 @@
 slug: organizar-camara-frigorifica-contaminacion-cruzada
 title: Cómo organizar una cámara frigorífica para evitar contaminación cruzada
 img: /u/como-organizar-una-camara-frigorifica.webp
-toc: y
+toc: n
 draft: y
 hide: n
 sum: |-
