@@ -2,7 +2,7 @@
 slug: plan-limpieza-desinfeccion-horeca-alimentacion
 title: 'Plan de limpieza y desinfección en HORECA y alimentación: cómo pasar de limpiar a demostrar que limpias'
 img: /u/plan-de-limpieza-y-desifeccion.webp
-toc: y
+toc: n
 draft: y
 hide: n
 sum: |-
