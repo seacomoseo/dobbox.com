@@ -2,7 +2,7 @@
 slug: appcc-horeca-alimentacion-control-riesgos
 title: 'APPCC en HORECA y alimentación: no se trata de rellenar papeles, se trata de controlar riesgos'
 img: /u/appcc-en-horeca.webp
-toc: y
+toc: n
 draft: y
 hide: n
 sum: |-
