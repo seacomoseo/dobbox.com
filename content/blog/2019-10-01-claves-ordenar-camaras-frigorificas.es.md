@@ -6,7 +6,7 @@ seo:
 slug: claves-ordenar-camaras-frigorificas
 img: /u/blog/claves-ordenar-camaras-frigorificas.png
 category: [ general ]
-toc: y
+toc: true
 date: 2019-10-01 13:35:34
 ---
 

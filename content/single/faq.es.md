@@ -8,6 +8,6 @@ img: /u/base/poster.svg
 icon: help_outline
 tpl:
   sections:
-  - file: faq-header
+  - file: faq-_hero
   - file: faq-contacto
 ---

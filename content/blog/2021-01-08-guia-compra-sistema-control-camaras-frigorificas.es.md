@@ -6,7 +6,7 @@ seo:
 slug: guia-compra-sistema-control-camaras-frigorificas
 img: /u/blog/guia-compra-sistema-control-camaras-frigorificas.png
 category: [ general ]
-toc: y
+toc: true
 date: 2021-01-08 16:27:53
 ---
 

@@ -11,7 +11,7 @@ boxes:
       ![](https://youtu.be/vigi3Z5DrsY)
 - review:
     color: light
-    slider: y
+    slider: true
     time: 5
     cols: 3
   reviews:

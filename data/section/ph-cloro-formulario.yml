@@ -11,14 +11,14 @@ boxes:
   inputs:
   - type: text
     name: Nombre
-    req: y
+    req: true
   - type: text
     name: Empresa
-    req: y
+    req: true
   - type: mail
     name: Email
     label: Correo electrónico
-    req: y
+    req: true
   - type: text
     name: Teléfono
-    req: y
+    req: true

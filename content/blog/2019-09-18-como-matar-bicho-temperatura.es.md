@@ -6,7 +6,7 @@ seo:
 slug: como-matar-bicho-temperatura
 img: /u/blog/como-matar-bicho-temperatura.png
 category: [ general ]
-toc: y
+toc: true
 date: 2019-09-18 12:54:19
 ---
 

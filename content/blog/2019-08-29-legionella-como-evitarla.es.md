@@ -6,7 +6,7 @@ seo:
 slug: legionella-como-evitarla
 img: /u/blog/legionella-como-evitarla.png
 category: [ general ]
-toc: y
+toc: true
 date: 2019-08-29 07:47:06
 ---
 

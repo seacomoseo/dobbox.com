@@ -8,7 +8,7 @@ img: /u/sistema-automatico-control-de-temperatura-dobbox.png
 icon: home
 tpl:
   sections:
-  - file: _inicio-header
+  - file: _inicio-_hero
   - file: _inicio-miedos
   - file: _inicio-necesitas
   - file: _inicio-control
@@ -58,11 +58,11 @@ org:
   - España
   when:
   - days:
-      mon: y
-      tue: y
-      wed: y
-      thu: y
-      fri: y
+      mon: true
+      tue: true
+      wed: true
+      thu: true
+      fri: true
     hours:
     - open: 8:00
       close: 17:00

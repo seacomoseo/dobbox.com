@@ -8,11 +8,11 @@ tpl:
     alpha: 0.8
   list:
     cols: 3
-    card: n
+    card: false
     color: such
     align: center
-    shade: y
-    inset: y
+    shade: true
+    inset: true
     img: hide
     icon: hide
     hs: 4

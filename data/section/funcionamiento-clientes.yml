@@ -7,7 +7,7 @@ boxes:
     cols: 5
     cols_vs: 2
     ratio: 16/9
-    contain: y
+    contain: true
     btn: hide
   boxes:
   - img: /u/logos/clientes/cuarentaytres.svg

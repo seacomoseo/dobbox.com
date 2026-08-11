@@ -6,7 +6,7 @@ seo:
 slug: evita-contaminacion-cruzada-restaurante
 img: /u/blog/evita-contaminacion-cruzada-restaurante.png
 category: [ general ]
-toc: y
+toc: true
 date: 2019-08-05 07:18:09
 ---
 

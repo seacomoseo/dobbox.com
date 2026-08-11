@@ -6,7 +6,7 @@ seo:
 slug: appcc-principios-prerrequisitos
 img: /u/blog/appcc-principios-prerrequisitos.png
 category: [ general ]
-toc: y
+toc: true
 date: 2022-02-22 15:15:49
 ---
 

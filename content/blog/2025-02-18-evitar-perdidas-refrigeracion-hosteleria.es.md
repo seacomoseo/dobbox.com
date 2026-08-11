@@ -7,7 +7,7 @@ slug: evitar-perdidas-refrigeracion-hosteleria
 img: /u/evitar-perdidas-refrigeracion-hosteleria.png
 category:
 - general
-toc: y
+toc: true
 date: 2025-02-18 00:00:00
 ---
 ## La importancia del control de temperatura en hostelería

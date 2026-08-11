@@ -1,7 +1,8 @@
 baseURL: https://dobbox.com
-buildFuture: y
+buildFuture: true
 theme: [sansoul]
 params:
+  owner: seacomoseo
   domain: dobbox.com
   name: dobboxfrio
   netlify_id: beb60d18-006b-492a-ab84-ab1039a7cb66

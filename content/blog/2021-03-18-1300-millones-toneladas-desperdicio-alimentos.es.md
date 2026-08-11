@@ -6,7 +6,7 @@ seo:
 slug: 1300-millones-toneladas-desperdicio-alimentos
 img: /u/blog/1300-millones-toneladas-desperdicio-alimentos.png
 category: [ general ]
-toc: y
+toc: true
 date: 2021-03-18 08:09:03
 ---
 

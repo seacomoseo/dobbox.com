@@ -6,7 +6,7 @@ seo:
 slug: control-temperatura-humedad
 img: /u/blog/control-temperatura-humedad.png
 category: [ general ]
-toc: y
+toc: true
 date: 2021-02-05 14:29:30
 ---
 

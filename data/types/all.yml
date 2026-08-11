@@ -3,17 +3,17 @@ tpl:
   bg:
     color: white
   menu:
-    logo: y
+    logo: true
     logo_align: center
-    clear: y
+    clear: true
     sticky: auto
-    logo_sticky: y
+    logo_sticky: true
     color: white
   callnow: custom
   section:
   - size: sm
   sections:
-  - file: base-_header
+  - file: base-_hero
   - file: base-toc
   - file: base-content
   - file: base-address
@@ -25,7 +25,7 @@ tpl:
   - file: base-rel
   list:
     cols: 3
-    card: y
+    card: true
     align: center
     icon: hide
     hs: 3
@@ -33,8 +33,8 @@ tpl:
     btn: hide
     tags:
     - type: date
-      hide_hour: y
-      hide_lastmod: y
+      hide_hour: true
+      hide_lastmod: true
     - type: time
   related:
-    slider: y
+    slider: true

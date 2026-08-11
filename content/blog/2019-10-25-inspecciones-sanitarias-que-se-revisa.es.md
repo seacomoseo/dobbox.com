@@ -6,7 +6,7 @@ seo:
 slug: inspecciones-sanitarias-que-se-revisa
 img: /u/blog/inspecciones-sanitarias-que-se-revisa.jpg
 category: [ general ]
-toc: y
+toc: true
 date: 2019-10-25 08:35:09
 ---
 

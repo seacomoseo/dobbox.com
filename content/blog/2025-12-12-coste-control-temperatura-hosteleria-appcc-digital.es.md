@@ -5,7 +5,7 @@ sum: Descubre cuánto le cuesta realmente a tu negocio seguir con el control de 
 img: /u/blog/control-ta-manual.webp
 date: 2025-12-12 13:14:00
 mod: 2025-12-12 13:14:00
-toc: n
+toc: false
 ---
 En **hostelería y retail frío**, todos conocemos la rutina: abrir cámaras, mirar el termómetro, apuntar en una hoja o en un Excel. Forma parte del día a día del **control de temperatura en HORECA**… pero eso no significa que sea eficiente.
 

@@ -6,7 +6,7 @@ seo:
 slug: trucos-prevenir-salmonella
 img: /u/blog/trucos-prevenir-salmonella.png
 category: [ general ]
-toc: y
+toc: true
 date: 2019-08-09 07:24:15
 ---
 

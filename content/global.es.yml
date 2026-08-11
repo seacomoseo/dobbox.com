@@ -17,7 +17,7 @@ menu:
     label: FAQ
   - url: https://app.dobbox.com/
     label: Acceso Plataforma
-    lock: y
+    lock: true
     btn: main
 footer:
   dots:

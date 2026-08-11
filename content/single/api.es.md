@@ -8,7 +8,7 @@ img: /u/ecosistema-dobbox.png
 icon: data_object
 tpl:
   sections:
-  - file: api-header
+  - file: api-_hero
   - file: api-ecosistema
   - file: api-para-ti
   - file: appcc

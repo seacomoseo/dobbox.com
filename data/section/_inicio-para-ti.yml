@@ -11,7 +11,7 @@ boxes:
       gap_vs: 2
       align_y: top
       icon_pos: side
-      line: y
+      line: true
     boxes:
     - title: Lo es si…
       icon: check

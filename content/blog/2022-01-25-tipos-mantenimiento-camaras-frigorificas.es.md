@@ -6,7 +6,7 @@ seo:
 slug: tipos-mantenimiento-camaras-frigorificas
 img: /u/blog/tipos-mantenimiento-camaras-frigorificas.png
 category: [ general ]
-toc: y
+toc: true
 date: 2022-01-25 16:01:42
 ---
 

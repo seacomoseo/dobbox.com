@@ -7,7 +7,7 @@ boxes:
     cols: 3
     gap: 5
     ratio: 2/1
-    gray: y
+    gray: true
     label: Ver artículo
   boxes:
   - img: /u/logos/prensa/cadena-ser.svg

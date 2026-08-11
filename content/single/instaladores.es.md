@@ -8,7 +8,7 @@ img: /u/sensor/colocado.png
 icon: search
 tpl:
   sections:
-  - file: instaladores-header
+  - file: instaladores-_hero
   - file: instaladores-mapa
   - file: instaladores-contacto
 ---

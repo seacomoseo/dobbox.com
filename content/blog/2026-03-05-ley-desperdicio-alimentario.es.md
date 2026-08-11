@@ -2,19 +2,19 @@
 slug: ley-desperdicio-alimentario
 title: 'Ley de Prevención de las Pérdidas y el Desperdicio Alimentario: qué cambia el 2 de abril y qué debe hacer la hostelería y empresas de la cadena alimentaria'
 img: /u/05-ley-2-abril-1.webp
-toc: y
-index: y
-draft: n
-hide: n
+toc: true
+index: true
+draft: false
+hide: false
 sum: 'Guía operativa sobre la Ley 1/2025 de prevención del desperdicio alimentario: qué obligaciones pasan a ser exigibles el 2 de abril de 2026, a quién aplica, plan de prevención, jerarquía de prioridades, donaciones, sanciones y qué debe hacer la hostelería y las empresas de la cadena alimentaria para prepararse.'
 seo:
   title: 'Ley 1/2025 contra el desperdicio alimentario: qué cambia el 2 de abril de 2026 y qué deben hacer hostelería y empresas'
   desc: 'Resumen práctico de la Ley 1/2025: obligaciones exigibles desde el 2/04/2026, plan de prevención, jerarquía de prioridades, donaciones, sanciones y claves para hostelería y cadena alimentaria.'
-  noindex: n
+  noindex: false
 llms:
   title: Qué exige la Ley 1/2025 contra el desperdicio alimentario desde el 2 de abril de 2026
   desc: 'Explicamos qué obligaciones pasan a ser exigibles el 2/04/2026 para empresas de la cadena alimentaria y hostelería: plan de prevención, jerarquía de prioridades, donaciones y sanciones, con enfoque operativo para prepararse.'
-  hide: n
+  hide: false
 date: 2026-03-05 12:35:00
 mod: 2026-03-05 12:35:00
 ---

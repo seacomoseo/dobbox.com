@@ -6,7 +6,7 @@ seo:
 slug: avances-tecnologia-alimentaria
 img: /u/blog/avances-tecnologia-alimentaria.png
 category: [ general ]
-toc: y
+toc: true
 date: 2021-01-28 16:33:28
 ---
 

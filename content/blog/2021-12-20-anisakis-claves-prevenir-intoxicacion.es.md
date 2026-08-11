@@ -6,7 +6,7 @@ seo:
 slug: anisakis-claves-prevenir-intoxicacion
 img: /u/blog/anisakis-claves-prevenir-intoxicacion.png
 category: [ general ]
-toc: y
+toc: true
 date: 2021-12-20 16:55:24
 ---
 

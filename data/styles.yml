@@ -1,10 +1,10 @@
 icons:
-  fill: n
+  fill: false
   weight: 200
   grade: 0
   optical: 24
   style: outlined
-  defs:
+  def:
     play: svg:youtube-iframe
   right:
 fonts:
@@ -12,48 +12,48 @@ fonts:
     family: Poppins
     weight: 300
     bold: 0
-    italic: n
+    italic: false
     line_height: 1.5
   cursive:
     family: Poppins
     weight: 500
     bold: 0
-    italic: n
+    italic: false
     line_height: 1.5
     size: 1
   title:
     family: Poppins
     weight: 500
     bold: 0
-    italic: n
+    italic: false
     line_height: 1.5
     size: 1
-  blockquote_cursive: n
+  blockquote_cursive: false
 colors:
   main:
     color: '#00acc8'
     light: '#ffffff'
     dark: '#ffffff'
     turn:
-      fill: n
-      in: y
-      text: n
+      fill: false
+      in: true
+      text: false
   alt:
     color: '#ffffff'
     light: '#ffffff'
     dark: '#ffffff'
     turn:
-      fill: y
-      in: y
-      text: y
+      fill: true
+      in: true
+      text: true
   cta:
     color: '#ff9933'
     light: '#ffffff'
     dark: '#ffffff'
     turn:
-      fill: n
-      in: n
-      text: n
+      fill: false
+      in: false
+      text: false
   base:
     white: '#ffffff'
     light: '#f2f2f2'
@@ -62,22 +62,22 @@ colors:
     black: '#000000'
 rounded:
   radius: 0.25
-  chamfer: n
+  chamfer: false
 btns:
-  pill: n
-  disc: y
-  deep: n
-  outline: n
+  pill: false
+  disc: true
+  deep: false
+  outline: false
   font:
     type: title
-    bold: n
-    uppercase: y
+    bold: false
+    uppercase: true
   swap:
     type: base
-    bold: n
-    uppercase: n
+    bold: false
+    uppercase: false
 inputs:
-  fill: y
+  fill: true
   labels: in
 shadow:
   left: 0

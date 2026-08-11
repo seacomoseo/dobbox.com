@@ -6,7 +6,7 @@ seo:
 slug: intoxicaciones-alimentarias-como-prevenirlas
 img: /u/blog/intoxicaciones-alimentarias-como-prevenirlas.png
 category: [ general ]
-toc: y
+toc: true
 date: 2022-04-26 08:36:57
 ---
 

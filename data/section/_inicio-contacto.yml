@@ -10,7 +10,7 @@ boxes:
     label: 968 472 663
   - type: mail
     label: hola@dobbox.com
-    full: y
+    full: true
   when:
   - days: Lunes a Viernes
     hours: 8:00 - 17:00
@@ -19,12 +19,12 @@ boxes:
   inputs:
   - type: text
     name: Nombre
-    req: y
+    req: true
   - type: phone
     name: Teléfono
   - type: mail
     name: Email
-    req: y
+    req: true
   - type: area
     name: Mensaje
-    req: y
+    req: true

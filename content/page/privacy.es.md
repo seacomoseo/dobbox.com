@@ -2,9 +2,9 @@
 title: Privacidad
 slug: privacidad
 icon: encrypted
-toc: y
+toc: true
 seo:
-  noindex: y
+  noindex: true
 weight: 2
 ---
 

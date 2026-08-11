@@ -6,7 +6,7 @@ seo:
 slug: control-humedad-camaras-frigorificas
 img: /u/blog/control-humedad-camaras-frigorificas.png
 category: [ general ]
-toc: y
+toc: true
 date: 2021-05-20 11:19:59
 ---
 

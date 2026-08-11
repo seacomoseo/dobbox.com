@@ -2,12 +2,12 @@ title: Blog
 base: article
 weight: 1
 name: blog
-rel: y
+rel: true
 tpl:
   list:
-    card: n
+    card: false
     color: such
     align: left
-    inset: y
+    inset: true
     md: .
     hs: 6

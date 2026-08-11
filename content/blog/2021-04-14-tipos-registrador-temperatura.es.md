@@ -6,7 +6,7 @@ seo:
 slug: tipos-registrador-temperatura
 img: /u/blog/tipos-registrador-temperatura.png
 category: [ general ]
-toc: y
+toc: true
 date: 2021-04-14 14:35:51
 ---
 

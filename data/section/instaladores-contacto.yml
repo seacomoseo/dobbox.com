@@ -12,15 +12,15 @@ boxes:
   inputs:
   - type: text
     name: Nombre
-    req: y
+    req: true
   - type: mail
     name: Email
     label: Correo electrónico
-    req: y
+    req: true
   - type: phone
     name: Teléfono
-    req: y
+    req: true
   - type: area
     name: Mensaje
     label: Escribe un mensaje
-    req: y
+    req: true

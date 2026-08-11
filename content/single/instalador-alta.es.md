@@ -8,7 +8,7 @@ img: /u/base/poster.svg
 icon: person
 tpl:
   sections:
-  - file: instalador-alta-header
+  - file: instalador-alta-_hero
   - file: instalador-alta-pasos
   - file: instalador-alta-formulario
 ---

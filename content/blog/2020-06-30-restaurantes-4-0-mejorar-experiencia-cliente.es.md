@@ -6,7 +6,7 @@ seo:
 slug: restaurantes-4-0-mejorar-experiencia-cliente
 img: /u/blog/restaurantes-4-0-mejorar-experiencia-cliente.png
 category: [ general ]
-toc: y
+toc: true
 date: 2020-06-30 12:36:35
 ---
 

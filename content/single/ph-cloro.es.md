@@ -8,7 +8,7 @@ img: /u/base/poster.svg
 icon: lab_research
 tpl:
   sections:
-  - file: ph-cloro-header
+  - file: ph-cloro-_hero
   - file: ph-cloro-problemas
   - file: ph-cloro-soluciones
   - file: ph-cloro-ahorro

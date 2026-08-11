@@ -2,9 +2,9 @@
 slug: control-temperatura-farmacia-cadena-frio
 title: 'Control de temperatura en farmacia: cómo asegurar la cadena de frío (sin vivir pendiente de la cámara)'
 img: /u/blog/farmacias.webp
-toc: n
-draft: n
-hide: n
+toc: false
+draft: false
+hide: false
 sum: 'Guía práctica para farmacias sobre cómo asegurar la cadena de frío en neveras y cámaras de termolábiles: qué se considera buena práctica en el registro diario, los fallos más comunes que provocan desviaciones, cómo actuar ante una excursión de temperatura y qué aporta la monitorización 24/7 con alertas e informes automáticos para ganar tranquilidad y estar preparado ante inspecciones.'
 date: 2026-02-05 11:49:00
 mod: 2026-02-05 11:49:00

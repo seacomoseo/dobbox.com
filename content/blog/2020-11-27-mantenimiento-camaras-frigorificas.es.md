@@ -6,7 +6,7 @@ seo:
 slug: mantenimiento-camaras-frigorificas
 img: /u/blog/mantenimiento-camaras-frigorificas.png
 category: [ general ]
-toc: y
+toc: true
 date: 2020-11-27 12:22:17
 ---
 

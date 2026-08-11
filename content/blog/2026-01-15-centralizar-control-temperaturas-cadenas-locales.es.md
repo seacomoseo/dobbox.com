@@ -2,14 +2,14 @@
 slug: centralizar-control-temperaturas-cadenas-locales
 title: Cómo centralizar el control de temperatura en cadenas con varios locales
 img: /u/blog/centralizar-control-temperaturas-cadenas-locales.webp
-toc: n
-draft: n
-hide: n
+toc: false
+draft: false
+hide: false
 sum: Cómo pasar de hojas de registro en cada establecimiento a un sistema automático y centralizado de control de temperaturas en cadenas con varios locales, ahorrando tiempo, reduciendo riesgos y digitalizando el APPCC.
 seo:
   title: Cómo centralizar el control de temperaturas en cadenas de locales
   desc: Descubre cómo centralizar el control de temperatura en cadenas con varios locales, digitalizar el APPCC y automatizar registros con sensores conectados.
-  noindex: n
+  noindex: false
 date: 2026-01-15 12:36:00
 mod: 2026-01-15 12:36:00
 ---

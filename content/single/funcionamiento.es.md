@@ -8,7 +8,7 @@ img: /u/moviles/captura-camaras.webp
 icon: sensors
 tpl:
   sections:
-  - file: funcionamiento-header
+  - file: funcionamiento-_hero
   - file: funcionamiento-funcionalidades
   - file: funcionamiento-informes
   - file: funcionamiento-anticipate

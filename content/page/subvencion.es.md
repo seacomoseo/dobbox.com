@@ -4,6 +4,6 @@ title: Subvención
 img: /u/subvencion.webp
 icon: support
 seo:
-  noindex: y
+  noindex: true
 weight: 8
 ---

@@ -6,7 +6,7 @@ seo:
 slug: cadena-frio-seguridad-alimentaria
 img: /u/blog/cadena-frio-seguridad-alimentaria.png
 category: [ general ]
-toc: y
+toc: true
 date: 2019-11-13 17:16:13
 ---
 

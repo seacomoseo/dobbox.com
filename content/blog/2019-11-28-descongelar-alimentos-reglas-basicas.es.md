@@ -6,7 +6,7 @@ seo:
 slug: descongelar-alimentos-reglas-basicas
 img: /u/blog/descongelar-alimentos-reglas-basicas.png
 category: [ general ]
-toc: y
+toc: true
 date: 2019-11-28 17:46:10
 ---
 

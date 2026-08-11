@@ -6,7 +6,7 @@ seo:
 slug: sensor-temperatura-clave-conservacion-alimentos
 img: /u/blog/sensor-temperatura-clave-conservacion-alimentos.png
 category: [ general ]
-toc: y
+toc: true
 date: 2022-08-29 13:58:22
 ---
 
