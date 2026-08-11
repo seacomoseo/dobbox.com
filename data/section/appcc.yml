@@ -3,7 +3,7 @@ boxes:
 - title: Sistemas APPCC
   sub: que ya utilizan doBBox
   box:
-    cols: 4
+    cols: 5
     gap: 5
     ratio: 2/1
     label: Ver más
@@ -40,3 +40,11 @@ boxes:
       ::phone:: [692 89 85 86](tel:+34692898586)
 
       ::mail:: hola@yurest.com
+  - img: /u/logos/appcc/allsaphi.svg
+    url: https://allsaphi.com
+    md: |
+      **ALLSAPHI**
+
+      ::phone:: [93 745 70 92](tel:+34937457092)
+
+      ::mail:: info@allsaphi.com

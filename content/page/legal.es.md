@@ -21,7 +21,6 @@ Razón Social de la empresa titular: Data Of Business Box, S.L. Unipersonal, en 
 - Provincia: Murcia
 - C.P.: 30007
 - C.I.F: B01663418
-- Teléfono de contacto: 968 472 663
 - Correo electrónico: hola@dobbox.com
 
 ## Objeto
