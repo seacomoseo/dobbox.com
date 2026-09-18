@@ -1,9 +1,9 @@
 ---
+slug: evitar-perdidas-refrigeracion-hosteleria
 title: Cómo evitar pérdidas por fallos en la refrigeración en hostelería
 seo:
   title: 'Evita pérdidas en hostelería: Control de temperatura eficaz'
   desc: El 30% de la comida desperdiciada en hostelería se debe a fallos en la refrigeración. Descubre cómo evitar pérdidas económicas y garantizar la seguridad alimentaria con soluciones tecnológicas avanzadas.
-slug: evitar-perdidas-refrigeracion-hosteleria
 img: /u/evitar-perdidas-refrigeracion-hosteleria.png
 category:
 - general

@@ -1,6 +1,6 @@
 ---
-title: Privacidad
 slug: privacidad
+title: Privacidad
 icon: encrypted
 toc: true
 seo:

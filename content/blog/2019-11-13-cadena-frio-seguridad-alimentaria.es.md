@@ -1,9 +1,9 @@
 ---
+slug: cadena-frio-seguridad-alimentaria
 title: 'Cadena de frío: 5 trucos para detectar su ruptura'
 seo:
   title: 'Cadena de frío: 5 trucos para detectar su ruptura - doBBox frío'
   desc: La cadena de frío es el sistema de frío que controla la temperatura en un rango determinado para asegurar la calidad de los productos refrigerados o
-slug: cadena-frio-seguridad-alimentaria
 img: /u/blog/cadena-frio-seguridad-alimentaria.png
 category: [ general ]
 toc: true

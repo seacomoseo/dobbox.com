@@ -1,9 +1,9 @@
 ---
+slug: evita-contaminacion-cruzada-restaurante
 title: 'Contaminación cruzada: 9 medidas para evitarla'
 seo:
   title: 'Contaminación cruzada: 9 medidas para evitarla - doBBox frío'
   desc: La contaminación cruzada es el proceso mediante el cual los alimentos contaminados entran en contacto con otros limpios y que terminan por contaminarse como
-slug: evita-contaminacion-cruzada-restaurante
 img: /u/blog/evita-contaminacion-cruzada-restaurante.png
 category: [ general ]
 toc: true

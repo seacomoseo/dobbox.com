@@ -3,7 +3,7 @@ slug: reducir-gastos-desperdicios-almacen-frigorifico
 title: 'Reducir gastos y desperdicios en almacenamiento frigorífico: cómo traducir la tendencia global a tu cocina y cámaras'
 sum: La demanda de frío crece y el sector se profesionaliza. ¿Qué significa “reducir gastos y desperdicios en almacenamiento frigorífico” para hostelería y alimentación? Detección, análisis y control para no romper la cadena de frío.
 img: /u/blog/portada-reducir-gastos-y-desperdicios-en-almacenamiento-frigorifico.jpg
-related:
+rel:
 - 2021-01-08-guia-compra-sistema-control-camaras-frigorificas
 - 2021-03-18-1300-millones-toneladas-desperdicio-alimentos
 date: 2025-10-08 09:17:00

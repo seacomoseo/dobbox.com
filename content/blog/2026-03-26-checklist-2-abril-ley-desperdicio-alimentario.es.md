@@ -2,10 +2,6 @@
 slug: checklist-2-abril-ley-desperdicio-alimentario
 title: Checklist de la Ley de Prevención de las Pérdidas y el Desperdicio Alimentario
 img: /u/26-checklist-ley-2-abril.webp
-toc: true
-index: true
-draft: false
-hide: false
 sum: 'Checklist práctica para llegar al 2 de abril con lo imprescindible de la Ley 1/2025: plan (art. 6), jerarquía de prioridades, donación (convenios y proceso), revisión contractual, protocolo específico para hostelería y evidencias mínimas para demostrar cumplimiento.'
 seo:
   title: 'Checklist 2 de abril: lo imprescindible para cumplir la Ley 1/2025'
@@ -14,11 +10,11 @@ seo:
 llms:
   title: Checklist de cumplimiento para la Ley 1/2025 antes del 2 de abril
   desc: 'Lista accionable con explicación breve por punto para preparar el cumplimiento de la Ley 1/2025: plan del art. 6, jerarquía operativa, donación, revisión de contratos, protocolo HORECA y evidencias mínimas.'
-  hide: false
 rel:
 - 2026-03-05-ley-desperdicio-alimentario
+toc: true
+index: true
 date: 2026-03-26 12:13:00
-mod: 2026-03-26 12:13:00
 ---
 
 El **2 de abril** es la fecha clave porque se cumple **un año desde la publicación en el BOE** y, a partir de ahí, las **medidas obligatorias del artículo 6** pasan a aplicarse en la práctica. La forma más fácil de llegar a tiempo es revisar (y poder demostrar) que estos puntos están cubiertos.

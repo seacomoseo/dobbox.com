@@ -1,9 +1,9 @@
 ---
+slug: sensor-temperatura-clave-conservacion-alimentos
 title: 'El papel del sensor de temperatura en la conservación de productos'
 seo:
   title: 'Sensor de temperatura: clave en la conservación de alimentos'
   desc: Gracias al sensor de temperatura se lleva un control de los productos que se conservan.
-slug: sensor-temperatura-clave-conservacion-alimentos
 img: /u/blog/sensor-temperatura-clave-conservacion-alimentos.png
 category: [ general ]
 toc: true

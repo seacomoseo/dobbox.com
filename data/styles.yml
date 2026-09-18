@@ -6,7 +6,6 @@ icons:
   style: outlined
   def:
     play: svg:youtube-iframe
-  right:
 fonts:
   base:
     family: Poppins

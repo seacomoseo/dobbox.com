@@ -2,9 +2,6 @@
 slug: alertas-responsables-evidencias
 title: Cómo organizar alertas, responsables y evidencias cuando gestionas varios equipos o centros
 img: /u/30-organizar-alertas-responsables-y-evidencias.webp
-toc: true
-draft: false
-hide: false
 sum: Gestionar varios equipos o centros no consiste solo en recibir alertas, sino en saber quién actúa, cómo se documenta la incidencia y dónde queda la evidencia. En este artículo explicamos cómo ordenar alertas, responsables y registros para ganar control, trazabilidad y capacidad de seguimiento cuando la operativa crece.
 seo:
   title: Cómo organizar alertas, responsables y evidencias en varios centros
@@ -13,9 +10,8 @@ seo:
 llms:
   title: Cómo organizar alertas, responsables y evidencias al gestionar varios centros
   desc: Guía práctica para estructurar alertas, asignar responsables y mantener evidencias accesibles cuando una empresa gestiona varios equipos, cámaras o centros. Explica cómo mejorar el seguimiento de incidencias, reducir la improvisación y ganar trazabilidad operativa.
-  hide: false
+toc: true
 date: 2026-04-30 09:00:00
-mod: 2026-04-30 09:00:00
 ---
 
 Cuando gestionas varios equipos, cámaras o centros, el problema no suele ser solo detectar una incidencia. El problema real es otro: saber quién tiene que actuar, cómo se documenta lo ocurrido y dónde queda guardada la evidencia después.

@@ -1,9 +1,9 @@
 ---
+slug: guia-compra-sistema-control-camaras-frigorificas
 title: 'Sistema de control de cámaras frigoríficas'
 seo:
   title: Sistema de control de cámaras frigoríficas - doBBox frío
   desc: doBBox es el sistema de control de cámaras frigoríficas ideal para tu establecimiento. Podrás dormir tranquilo sabiendo que todo está bajo control
-slug: guia-compra-sistema-control-camaras-frigorificas
 img: /u/blog/guia-compra-sistema-control-camaras-frigorificas.png
 category: [ general ]
 toc: true

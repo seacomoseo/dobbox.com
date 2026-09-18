@@ -1,9 +1,9 @@
 ---
+slug: anisakis-claves-prevenir-intoxicacion
 title: 'Anisakis: 4 claves para prevenir la intoxicación'
 seo:
   title: 'Anisakis: 4 claves para prevenir esta común intoxicación'
   desc: El anisakis es un parásito con forma de gusano de color blanquecino que mide 2 a 3 cm y permanece en nuestro organismo durante 1 o 2 días.
-slug: anisakis-claves-prevenir-intoxicacion
 img: /u/blog/anisakis-claves-prevenir-intoxicacion.png
 category: [ general ]
 toc: true

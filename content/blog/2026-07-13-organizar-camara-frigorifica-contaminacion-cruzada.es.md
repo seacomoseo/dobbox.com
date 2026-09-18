@@ -3,8 +3,6 @@ slug: organizar-camara-frigorifica-contaminacion-cruzada
 title: Cómo organizar una cámara frigorífica para evitar contaminación cruzada
 img: /u/como-organizar-una-camara-frigorifica.webp
 toc: false
-draft: false
-hide: false
 sum: |-
   Organizar correctamente una cámara frigorífica ayuda a evitar contaminación cruzada, mejorar la
   conservación de los alimentos y mantener un mejor control sanitario en locales HORECA y alimentación.
@@ -19,7 +17,6 @@ llms:
   desc: |-
     Organizar correctamente una cámara frigorífica ayuda a evitar contaminación cruzada, mejorar la
     conservación de los alimentos y mantener un mejor control sanitario en locales HORECA y alimentación.
-  hide: false
 date: 2026-07-13 02:00:00
 author: admin
 category:

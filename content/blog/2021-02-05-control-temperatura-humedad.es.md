@@ -1,9 +1,9 @@
 ---
+slug: control-temperatura-humedad
 title: 'Control de temperatura y humedad en las cámaras frigoríficas'
 seo:
   title: Control de temperatura y humedad en las cámaras
   desc: El control de temperatura y humedad en las cámaras frigoríficas es de vital importancia, debido a que conservan alimentos perecederos.
-slug: control-temperatura-humedad
 img: /u/blog/control-temperatura-humedad.png
 category: [ general ]
 toc: true

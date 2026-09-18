@@ -1,9 +1,9 @@
 ---
+slug: avances-tecnologia-alimentaria
 title: 'Avances en la tecnología alimentaria en 2021'
 seo:
   title: Avances en la tecnología alimentaria en 2021
   desc: La tecnología alimentaria juega cada vez más, un papel muy importante. El mundo se ha digitalizado y las empresas tienen que ir adaptándose.
-slug: avances-tecnologia-alimentaria
 img: /u/blog/avances-tecnologia-alimentaria.png
 category: [ general ]
 toc: true
